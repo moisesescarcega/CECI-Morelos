@@ -2102,3 +2102,131 @@ Debiendo cumplir con la siguiente normatividad:
 
 *   NMX-C-126-ONNCCE-2010. "Industria de la Construcción-Materiales Termoaislantes en forma de bloque o placa - Densidad-Determinación". Densidad Húmeda y Densidad Seca.
 *   NMX-C-228-ONNCCE-2013 "Industria de la Construcción-Materiales Termoaislantes –Adsorción de humedad-Método de Prueba". Adsorción de humedad.
+*   NMX-C-181-ONNCE-2010 "Industria de la Construcción-Materiales Termoaislantes-Transmisión térmica en estado estacionario-Método de Prueba". Resistencia Térmica.
+*   Se debe indicar en el proyecto que la colocación en obra debe ser de acuerdo con las especificaciones del proveedor del sistema, mismo que deberá contar con la aprobación de la Residencia de Servicios, a fin de garantizar la eficiencia del sistema.
+*   La Conductividad Térmica deberá ser para el caso del relleno, menor a 0.085 W/m°K y para el de acabado, menor a 0.178 W/m°K y contar con Certificados vigentes del ONNCCE según NOM-018-ENER-2011.
+
+#### b. Impermeabilización
+
+Se deberá considerar un sistema de impermeabilización recomendado para zonas geográficas con rangos de temperatura entre -5°C y 45°C, que garantice alta durabilidad y resistencia y de fácil mantenimiento.
+
+Se debe especificar en el PE que, para su colocación en obra a fin de garantizar la durabilidad y la estanqueidad del sistema, deberán seguirse las recomendaciones del fabricante que se seleccione, garantizando mínimo lo siguiente:
+
+- Resistente al paso peatonal.
+- Resistente a inundación temporal.
+- Resistente a los rayos UV, sustancias químicas y color estable.
+- Proporcione una garantía entre 10 y 15 años.
+- Contar con una superficie antiderrapante.
+- La forma de aplicación sea preferentemente en frío.
+
+Deberá indicarse en las especificaciones de proyecto que el sistema de la marca que se seleccione en obra obligatoriamente deberá cumplir con los certificados de calidad y de pruebas emitidos por una entidad certificadora reconocida, de acuerdo con las siguientes pruebas y normas:
+
+| Parámetro por probar | Especificación por cumplir | Método de prueba |
+|---|---|---|
+| Tipo de refuerzo | Fibra de Poliéster | N/A |
+| Temperatura de ablandamiento | 150 °C min. | ASTM D 36 |
+| Punto de penetración a 25 °C | 7 - 17 dmm | ASTM D 5 97 |
+| Flexibilidad en frío | -5 °C máx. | ASTM D 5147 02 |
+| Tensión longitudinal | 80 lbf/in min. | ASTM D 5147 02 |
+| Tensión transversal | 50 lbf/in min | ASTM D 5147 02 |
+| Tensión y Elongación (para Poliuretanos) | | ASTM D-412 |
+| Elongación longitudinal | 40 % min. | ASTM D 5147 02 |
+| Elongación transversal | 60 % min. | ASTM D 5147 02 |
+| Estabilidad del componente | 135 ± 5 °C | ASTM D 5147 02 |
+| Resistencia al descantillamiento (en Concreto) (para Poliuretanos) | | ASTM C-794 |
+| Dureza, Shore A (para Poliuretanos) | | ASTM C-661-83 |
+| Permeabilidad (para Poliuretanos) | | E-96 |
+| Contenido no volátil (para Poliuretanos) | | ASTM D-1353 |
+
+El Contratista debe entregar la Memoria del Dictamen de la Eficiencia Energética del Inmueble, la cual deberá ser elaborada por una empresa acreditada y firmada por una Unidad Verificadora.
+
+### 7.3.19 Protección Civil (4.0)
+
+El Contratista debe instruir y coordinar a sus especialistas para implementar oportunamente en el proyecto arquitectónico, los requerimientos de protección civil considerandos en la: NOM-003-SSPC-2011, NOM-009-SSPC-2015, NOM-002-STPS-2010, NOM-026-STPS-2008, Ley de Centros de Cuidado Infantil para el Estado y los Requisitos que se deberán considerar en la elaboración de proyecto, obra, equipamiento y aspectos de seguridad para la prestación del servicio de guarderías en el modelo de atención vecinal comunitario del IMSS; deberá elaborar y entregar el Proyecto de Protección Civil, con base a las plantas arquitectónicas generales autorizadas a una escala que permita la legibilidad de la información, dependiendo de la dimensión del proyecto. En el PE se debe especificar claramente los alcances del Proyecto de Protección Civil que deben ser realizados, suministrados e instalados por parte del Contratista que resulte designado para llevar a cabo los trabajos de construcción del CECI.
+
+Todos los planos de Protección Civil deben incluir una tabla con simbología para identificar los elementos que la componen, materiales a emplear para su construcción, detalles de instalación y cantidades de cada uno de los conceptos.
+
+Para los planos se debe considerar y aplicar lo siguiente:
+
+##### a.1. Rutas de Evacuación, Salidas de Emergencia y Zonas de Riesgo.
+
+Es el análisis para el desalojo oportuno y seguro del personal que se encuentra dentro del inmueble, en forma ordenada, indicando las circulaciones a seguir y las zonas de alto riesgo, para salvaguardar la integridad de los ocupantes dentro del CECI, hacia la salida más próxima de cada una de las áreas, a través de las circulaciones previstas para ello, con la finalidad de llegar a los Puntos de Reunión.
+
+Las rutas se indicarán con flechas blancas y fondo de contraste verde, llegando a los Puntos de Reunión, mismos que deben estar ubicados en el exterior del inmueble, retirados de cristales, cubiertas y prefabricados. Las dimensiones para los señalamientos de Punto de Reunión serán de un mínimo de 1.80 m. x 1.80 m. por lado y con los colores especificados en la NOM-003-SSPC-2011, el cálculo del área requerida donde se ubicarán dichos puntos para la concentración de usuarios a evacuar en caso de simulacro o emergencia, es de 0.50m² por persona, considerando la ocupación del inmueble al 100% y se indicará con un ashurado en color verde; también se deben ubicar las zonas de mayor riesgo, las cuales son las áreas de peligro constante, que contienen hidrocarburos, reactivos químicos, áreas de cocción, esterilización, equipos electromecánicos, estas zonas se indicarán con ashurado color azul.
+
+##### a.2. Equipamiento de protección civil.
+
+De acuerdo con la clasificación de riesgo con la que se considera el inmueble, debe indicarse con símbolos de color rojo la cantidad y localización de los elementos que componen el equipamiento de protección civil como son: tomas siamesas, hidrantes, extintores (especificando su clasificación y capacidad), gabinetes de equipo de protección, areneros (de 200 lts. en estacionamientos), detectores de incendio, botiquines, activación de alarmas sonoras y estroboscópicas con base a la NOM-002-STPS-2010.
+
+##### a.3. Señalización de protección civil.
+
+Especificar los letreros a suministrar e instalar en interior y exterior, con símbolos de acuerdo con la NOM-003-SSPC-2011 y NOM-026-STPS-2008, los cuales deben coincidir con las Rutas de Evacuación, Salidas de Emergencia y Zonas de Riesgo que servirán para ubicar los letreros en las rutas, salidas, elevadores, escaleras de emergencia y áreas restringidas al público, puntos de reunión y demás espacios relevantes en la materia; el material de la señalización debe cumplir con los criterios de proyecto de arquitectura para la señalización de unidades médicas del IMSS No. 1130-018-002.
+
+#### Señalamiento de Zonas Restringidas en Casas de Máquinas y Cuartos de Equipos de Aire Acondicionado.
+
+El Contratista debe realizar el proyecto y las acciones de obra correspondientes al Señalamiento de Zonas Restringidas para la prevención de accidentes en Casa de Máquinas (Cuarto de la Subestación de Media y Baja Tensión, Planta(s) de Emergencia, Casa de Máquinas de Aire Acondicionado, Cuartos de Equipos, Casa de Máquinas de Hidráulica) de acuerdo con lo indicado en la normatividad vigente establecida en la NOM-026-STPS-2008, NOM-003-SSPC-2011 y la Norma de Señalamiento para prevención de Accidentes IMSS Jefatura de Conservación.
+
+La aplicación e identificación de los colores deben ser los siguientes:
+
+- Color gris se debe emplear en piso y pasillos de circulación.
+- Color rojo se debe usar para "filetear" los pasillos de circulación en las zonas restringidas de las casas de máquinas y su ancho será de 0.10 m.
+- Color amarillo se debe emplear en pisos de áreas restringidas (área de trabajo de los equipos electromecánicos y eléctricos). La franja perimetral debe ser de 0.60 m, como mínimo.
+- Color amarillo en contraste con negro brillante se debe emplear para designar precaución de peligro físico de golpes, tropiezos y caídas. En las casas de máquinas se debe aplicar en las bases de equipos electromecánicos y barandales que delimitan el cárcamo de succión. El color de seguridad debe cubrir al menos 50% del área total de la señal.
+- La DARP determinará durante el desarrollo del Proyecto Ejecutivo, el número de los códigos Pantone para los colores gris, amarillo, y rojo a aplicar.
+
+### 7.3.20 CATÁLOGO DE CONCEPTOS (5.0)
+
+Los licitantes deben considerar en la elaboración de su proposición técnico-económica la elaboración del Catálogo de Conceptos, Cantidades de Obra y Matrices de precios, con base en lo siguiente:
+
+Para la elaboración del Catálogo de Conceptos, Resumen de Generadores, Hojas Generadoras y Cantidades de Obra, en los formatos Institucionales del Catálogo de Obra y de Hoja Generadora para cada una de las especialidades, cada uno de los especialistas del contratista, deberán realizar la cuantificación del PE, del cual se obtendrá la relación de conceptos, unidades de trabajo y cantidades; cuyo documento de apoyo serán los números generadores correspondientes y los planos en Revisión "0" (Aprobados para construcción), toda esta información deberá presentarse para la revisión del Catálogo de Conceptos en forma impresa y dos USB, discos compactos o DVD.
+
+La integración del Catálogo de Conceptos y Números Generadores se debe desarrollar con base en el PE autorizado de las diferentes especialidades y al Catálogo Único de Cantidades de Obra (CUCO), debiendo entregarse juntamente con los soportes y generadores correspondientes necesarios para facilitar su revisión de acuerdo con las normas del IMSS considerando las especialidades:
+
+- Obra Civil.
+- Arquitectura.
+- Ingeniería Eléctrica.
+- Ingeniería Hidráulica y Sanitaria.
+- Ingeniería en Telecomunicaciones.
+- Ingeniería de Aire Acondicionado.
+- Protección Civil y Señalamiento.
+
+En éste mismo, se debe integrar el Equipo Asociado a Obra, así como los Equipos y Sistemas de Instalación Permanente y sus Periféricos que se especifiquen en cada una de las especialidades de Arquitectura, Equipamiento y Guías Mecánicas y de Ingeniería Civil y Electromecánicas.
+
+Para la elaboración del Catálogo Conceptos se precisa que este debe ser elaborado, presentado a revisión, corregido hasta su aprobación por parte de la DARP, mismo que deberá ser elaborado y avalado por cada uno de los especialistas del contratista que integran la plantilla técnica para el desarrollo del PE.
+
+Para el Catálogo de Conceptos, deberán ser concordantes los conceptos, unidades y cantidades que emanan del PE. Asimismo, debe utilizar los formatos Institucionales del Catálogo de Obra, Resumen y de Hoja Generadora para cada una de sus especialidades, incluyendo sus croquis respectivos y/o isométricos en las especialidades que aplique.
+El Catálogo de Conceptos deberá ser concordante en su totalidad con el PE.
+
+## 8.0. PRODUCTO ESPERADO
+
+El Contratista debe desarrollar todos los planos, memorias descriptivas y técnicas, modelos matemáticos y documentos de las especialidades que integran el Proyecto Ejecutivo a entera satisfacción del IMSS, mismo que estará compuesto de manera enunciativa, más no limitativa conforme a lo que se relaciona a continuación
+
+Adicionalmente deberá presentar el **Cronograma o Programa de trabajo**, que contemple el desarrollo por etapas para garantizar que la obra avance de manera eficiente conforme a los siguientes entregables:
+
+| CLAVE | CONCEPTO |
+|---|---|
+| **1.0** | **PRELIMINARES PARA EL DESARROLLO DEL PROYECTO EJECUTIVO** |
+| 1.1 | ELABORACIÓN DE LOS ESTUDIOS DE INFRAESTRUCTURA DE SERVICIOS, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES: |
+| 1.1.1 | CÉDULA DE INVESTIGACIÓN DE SERVICIOS |
+| 1.1.2 | ESTUDIO TOPOGRÁFICO |
+| 1.1.3 | ESTUDIO DE SUBSUELO |
+| 1.1.4 | ANÁLISIS FÍSICO-QUÍMICO DEL AGUA DE SUMINISTRO MUNICIPAL |
+| 1.2 | ELABORACIÓN DEL REPORTE DE LA VISITA AL SITIO DE LOS TRABAJOS, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES: |
+| 1.2.1 | INFORME DE LA VISITA AL SITIO DE LOS TRABAJOS. |
+| 1.2.2 | EXPEDIENTE FOTOGRÁFICO DEL SITIO, INSTALACIONES, CONTEXTO URBANO Y DE LA LOCALIDAD (ÁLBUM). |
+| 1.2.3 | INVESTIGACIÓN Y OBSERVACIONES RECABADAS EN LA LOCALIDAD |
+| 1.2.4 | ESTUDIO DE SOLUCIÓN BIOCLIMÁTICA |
+| **2.0** | **EDIFICIO PRINCIPAL CON PATIO CENTRAL** |
+| 2.1 | SUMINISTRO Y ELABORACIÓN DEL PROYECTO ARQUITECTÓNICO Y DOCUMENTACIÓN COMPLEMENTARIA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES: |
+| 2.1.1 | PROYECTO ARQUITECTÓNICO |
+| 2.1.1.1 | EMPLAZAMIENTO DEL PROYECTO PROTOTIPO CON SOLUCIÓN BIOCLIMÁTICA |
+| 2.1.1.2 | PLANTA DE TRAZO DE EDIFICACIONES CON PATIO CENTRAL |
+| 2.1.1.3 | PLANTA DE NIVELES DE PISOS TERMINADO DE EDIFICACIONES CON PATIO CENTRAL (NPT). |
+| 2.1.1.4 | PLANTA DE PATIO CENTRAL (CON CUBIERTA LIGERA) |
+| 2.1.1.5 | PLANTAS ARQUITECTÓNICAS GENERALES, INCLUYENDO AZOTEAS |
+| 2.1.1.6 | PLANTAS ARQUITECTÓNICAS POR SECCIONES |
+| 2.1.1.7 | PLANTAS CON LOCALIZACIÓN DE ELEMENTOS |
+| 2.1.1.8 | FACHADAS GENERALES A DETALLE |
+| 2.1.1.9 | CORTES GENERALES A DETALLE |
+| 2.1.1.10 | CORTES POR FACHADA |
+| 2.1.1.11 | ALZADOS INTERIORES |
