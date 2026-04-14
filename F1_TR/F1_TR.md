@@ -1067,3 +1067,607 @@ Debe considerarse en el análisis de cargas, las cargas permanentes, peso propio
 *   Trabes de cubo de escaleras y/o elevadores: 300kg/m.
 *   Carga viva máxima: 250 kg/m².
 *   Carga viva máxima (pasillos, rampas, vestíbulos): 350 kg/m²
+*   Carga viva máxima (escaleras de emergencia): 500 kg/m².
+*   Carga viva media: 100 kg/m².
+*   Carga viva media (pasillos, escaleras, rampas, vestíbulos): 40 kg/m².
+*   Carga viva media (escaleras de emergencia): 40 kg/m².
+
+###### Análisis y Diseño por Sismo.
+
+Debe considerarse en el análisis de cargas, las cargas permanentes, peso propio de la estructura, incluyendo fachadas, bases y equipos electromecánicos, telecomunicaciones, médicos, administrativos, más lo indicado por la reglamentación vigente, debiendo adicionar las consideraciones siguientes:
+
+*   Carga viva instantánea: 180 kg/m²
+*   Carga viva instantánea (pasillos, escaleras, rampas, vestíbulos): 150 kg/m²
+*   Carga viva instantánea (escaleras de emergencia): 150 kg/m²
+
+##### b. Diseño de sistemas de piso en azoteas.
+
+###### Análisis y Diseño por Cargas Gravitacionales.
+
+Debe considerarse en el análisis de cargas, las cargas permanentes, peso propio de la estructura, incluyendo fachadas, pretiles, bases, tanques y equipos electromecánicos y de telecomunicaciones, equipo propio del inmueble, más lo indicado por la reglamentación vigente, debiendo adicionar la consideración siguiente:
+
+*   Densidad de muros no estructurales: 1,700 kg/m3
+*   Para muros de tabla-yeso o equivalente: 1,300 kg/m3
+*   Acabado de pisos: \*52.5kg/m² \*(corresponde a mármol de 2.5cm; no obstante, deberán considerar el material más crítico para cargas en estructura).
+*   Impermeabilizante, rellenos, entortado y enladrillado = 260 kg/m²
+*   Peso de Instalaciones = 40 kg/m²
+*   Peso del falso plafón = 30 kg/m²
+*   Sobrecarga Norma IMSS = 20 kg/m²
+*   Trabes de cubo de escaleras y/o elevadores = 300 kg/m
+
+Cubiertas y azoteas con pendiente no mayor al 5%
+*   Carga viva máxima = 100 kg/m²
+*   Carga viva media = 15 kg/m²
+
+Cubiertas y azoteas con pendiente mayor al 5%
+*   Carga viva máxima = 40 kg/m²
+*   Carga viva media = 5 kg/m²
+*   Carga viva instantánea =20 kg/m²
+
+###### Análisis y Diseño, por Sismo
+
+Debe considerarse en el análisis de cargas, las cargas permanentes, peso propio de la estructura, incluyendo fachadas, bases y equipos electromecánicos, telecomunicaciones, médicos, administrativos, más lo indicado por la reglamentación vigente, debiendo adicionar las consideraciones siguientes:
+
+Cubiertas y azoteas con pendiente no mayor al 5%
+*   Carga viva instantánea =70 kg/m²
+
+Cubiertas y azoteas con pendiente mayor al 5%
+*   Carga viva instantánea =20 kg/m²
+
+##### c. Factor de Comportamiento Sísmico y Factores de Reducción de Fuerzas Sísmicas.
+
+Se debe considerar conforme a lo siguiente:
+
+###### a. Coeficiente Sísmico.
+
+El coeficiente y parámetros que se deben utilizar en el análisis por carga horizontal estructural será el que determine el Estudio de Mecánica de Suelos, con la consideración de que esta estructura pertenece al grupo A.
+
+###### b. Factor de Comportamiento Sísmico.
+
+Se debe considerar para el factor de comportamiento sísmico Q y la distorsión límite ymax, lo establecido en el RCDF y sus NTC, y una vez conciliado con el personal de Ingeniería Civil de la DARP.
+
+##### d. Límites en desplazamientos laterales y en aceleraciones de piso.
+
+Se deben limitar las aceleraciones de piso dentro de la estructura y las deformaciones laterales para el cumplimiento del nivel de desempeño de Limitación de Daño No Estructural, se revisará que las distorsiones obtenidas con el espectro elástico sin reducir no excedan 0.002, salvo que todos los elementos no estructurales sean capaces de soportar deformaciones apreciables o estén separados de la estructura principal de manera que no sufran daños por sus deformaciones. En tal caso, el límite en cuestión será 0.004. Para el sismo de diseño para prevención contra colapso se diseñará con un límite de distorsión lateral de 0.015.
+
+##### e. Viento.
+
+En caso de requerirse, se debe dar cumplimiento a lo indicado por el Reglamento de Construcciones Local, Manual de Diseño de Obras Civiles de la C.F.E., 2020 o al registro estadístico del Sistema Meteorológico Nacional; tomando en cualquier caso y condición el valor más crítico, para su aplicación en el análisis estructural.
+
+##### f. Espectro de Diseño Sísmico.
+
+El espectro de diseño sísmico, definido por los estudios del subsuelo desarrollados con anterioridad serán entregados por el Instituto, o en caso necesario y previa aprobación de la DARP el obtenido del Manual de Diseño de Obras Civiles de CFE vigente o por la Norma Técnica Complementaria de Diseño por Sismo vigente en la Ciudad de México, serán tomados de referencia. El espectro de diseño sísmico será el espectro que resulte en la mayor demanda sísmica.
+
+### MEMORIA DESCRIPTIVA Y DE CÁLCULO NUMÉRICO.
+
+El Contratista debe elaborar y entregar la Memoria Descriptiva, de Cálculo Numérico de la Superestructura y de Cimentación, Modelo Matemático de la Superestructura (en formato digital editable del software), Modelo Matemático de la Cimentación (en formato digital editable del software) y todas las hojas de cálculo utilizadas en el análisis y diseño de estos, en formatos originales.
+
+La Memoria debe contener como mínimo, lo indicado en el Art. 53 del RCDF y la siguiente información:
+
+*   Bases de diseño (donde inicialmente se presentan para su revisión y aval, los criterios y consideraciones de proyecto y los valores de entrada para el análisis numérico).
+*   Datos generales del CECI y del Proyecto.
+*   Descripción detallada del proyecto.
+*   Relación de Reglamentos y Manuales utilizados.
+*   Parámetros de diseño.
+*   Datos de entrada para el análisis y modelo matemático (grupo, factores de carga, tipo y capacidad del terreno, coeficiente sísmico, factor de comportamiento sísmico, zona eólica).
+*   Descripción del sistema de cargas, de acuerdo con cómo se emplea en el programa de cálculo.
+*   Materiales empleados.
+*   Cortante Basal.
+*   Procedimientos de montaje, secuencia constructiva y equipo requerido.
+*   Análisis de cargas en cimentación.
+*   Análisis de cargas de cada entrepiso.
+*   Análisis de cargas accidentales.
+*   Análisis y diseño de muros.
+*   Análisis y diseño de escaleras, muros de contención, etc.
+*   En su caso, análisis y diseño de pilotes y/o pilas de concreto o de grava.
+*   Análisis numérico (corrida de la computadora identificando el programa utilizado) indicando claramente los elementos mecánicos resultantes (momentos flexionantes, cortantes, cargas axiales), los desplazamientos y deformaciones incluyendo en la memoria de cálculo la tabla comparativa con los desplazamientos permisibles indicados en el Reglamento de Construcción de la localidad.
+*   Dimensionamiento y diseño de los elementos estructurales resistentes (cimentación, columnas, trabes, cubiertas).
+*   Modelo en 3D de la estructura.
+
+Cabe indicar que el planteamiento hasta aquí indicado no es limitativo, debiendo el contratista en su carácter de especialista en la materia y en función de la investigación que realice en sitio, ampliar los alcances tanto como se requiera, para otorgar los resultados que demanda el Instituto.
+
+## 7.3.12 INGENIERÍA ELÉCTRICA (2.4.1)
+
+Los licitantes deben considerar en la elaboración de su proposición técnico-económica el diseño y desarrollo del Proyecto de Ingeniería Eléctrica, con la aplicación de los sistemas, siendo estos de manera enunciativa más no limitativa, que a continuación se indican.
+
+El Contratista debe considerar y especificar en el proyecto de Ingeniería Eléctrica el cable de cobre suave concéntrico con aislamiento termoplástico tipo THW-LS/THHW-LS- RoHS-75/90° 600Vca, los Conductores deben tener la característica de Cero Halógenos.
+
+El PE de Ingeniería Eléctrica para este tipo de CECI, debe apegarse a la normatividad y los criterios vigentes solicitados en los presentes T.R., aplicando tecnología de punta, uso racional y control automatizado de la energía, considerando y aplicando los siguientes conceptos de manera enunciativa más no limitativa.
+
+#### Ahorro de Energía.
+
+El Contratista debe diseñar un sistema de alumbrado exterior de LEDs en un 100%, con alimentación eléctrica y el control debe ser con fotocelda o con interruptor horario.
+
+Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto.
+
+#### Acometida Eléctrica y de Medición.
+
+La acometida en media tensión se debe diseñar con base a las normas de C.F.E. de la localidad. A partir de la recepción, dentro del predio, la instalación de las redes del banco de ductos debe ser tipo subterráneo con cable XLP al 133%. Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto.
+
+El sistema de medición debe ser de acuerdo con los requerimientos de la C.F.E. de la localidad.
+
+#### Subestación Eléctrica Transformadora.
+
+La Subestación Eléctrica Transformadora por especificar por parte del Contratista debe ser tipo compacta, para servicio interior, con transformador tipo seco, del tipo de Resina Epoxi, enfriado por aire y alimentando al Sistema Normal y al Sistema de Emergencia o tipo pedestal en aceite vegetal.
+
+El aislamiento del transformador debe ser clase 155° C, con una elevación de temperatura de 80° C cuando operen a su potencia nominal y a una temperatura ambiente promedio de 30° C y máxima de 40° C., con una impedancia mínima garantizada del 6%.
+
+El Transformador deben cumplir con los requerimientos de la Norma NMX-J-351-ANCE-2021 "Transformadores de distribución y potencia tipo seco - Especificaciones-."
+
+El arreglo de los equipos de la subestación tanto en media como en baja tensión en el cuarto de la subestación debe cumplir con los requerimientos de la NOM-001-SEDE-2012 (o la que se encuentre vigente).
+
+Los Tableros Generales de Distribución deben ser del tipo autosoportado o de montaje en muro con interruptores enchufables, con equipo de medición "Power Logic" "CM4000" o su similar en calidad y características, incluyendo equipo de protección contra sobretensiones transitorias (TVSS) y equipo "Power Meter" "PM850" o su similar en calidad y característica en Tableros Subgenerales.
+
+#### Planta Generadora de Energía Eléctrica para el Sistema Esencial (Emergencia).
+
+El Contratista debe especificar todos los equipos necesarios para generación de energía eléctrica a base de combustible Diésel con tanque integrado de doble fondo en la parte inferior de la planta, éste debe ser especificado en Servicio Prime.
+
+El sistema eléctrico esencial debe contar con uno o más equipos de transferencia de tipo "transición abierta" y capaz de proporcionar alimentación eléctrica en cumplimiento a los requerimientos de la NOM-001-SEDE-2012 (o la que se encuentre vigente).
+
+El sistema eléctrico esencial debe tener una capacidad adecuada para satisfacer la demanda de las funciones que se requieran, así como, de los equipos que alimenten a cada sistema.
+
+Para seleccionar la capacidad de la planta generadora de energía eléctrica, se debe considerar lo siguiente:
+
+*   Cumplir con lo indicado en el STD 80 de la IEEE para definir la capacidad de la Planta Generadora de Energía Eléctrica.
+
+#### Sistema de Puesta a Tierra.
+
+El Contratista debe diseñar el Sistema de Tierra de acuerdo con lo indicado en el STD 80 de la IEEE y la NOM-001-SEDE-2012 o vigente, tomando como base los datos indicados en el Estudio de Resistividad del Terreno que entrega al IMSS, en caso de no estar incluidos en los estudios de mecánica de suelos la contratista deberá realizarlos.
+
+#### Sistema de Pararrayos (Protección contra descargas atmosféricas).
+
+El Contratista debe diseñar el Sistema de Pararrayos tipo Ionizante PDC (Pararrayos con Dispositivo de Cebado) certificado mediante pruebas de laboratorio bajo la norma IEC-60-1 e IEC-1083-1. El sistema debe proporcionar la protección necesaria al personal, al inmueble y su equipamiento, al interior y al exterior de este.
+
+El cálculo, diseño y dimensionamiento debe apegarse a lo establecido en la norma UNE 21.186/96 y los criterios de las normas NOM-022-STPS, NMX-J-549-ANCE, NOM-001-SEDE-2012 o vigentes y normatividad Institucional vigente.
+
+El Sistema de Pararrayos por especificar debe contar con todos sus elementos, tales como; punta (s) ionizante (s), sistema de cableado de interconexión y sistema de puesta a tierra, necesarios para garantizar su operación en caso de una descarga atmosférica, por lo que el sistema debe ser especificado integralmente.
+
+Para este sistema se debe especificarse que el suministro de los equipos y materiales, la instalación y puesta en operación debe realizarse por personal técnico certificado por el proveedor. Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción del área contratante y del Coordinador de Proyecto.
+
+#### Sistema de Alumbrado del Servicio Normal y de Emergencia.
+
+Los niveles de iluminación de las áreas a diseñar por parte del Contratista deben corresponder con los indicados en las Normas de Diseño de Ingeniería Eléctrica Institucional, capítulo 2, "Anteproyecto" y lo requerido por la Secretaría del Trabajo y Previsión Social. Todos los luminarios deben contar con su respectiva curva de distribución fotométrica certificada y una caja o housing para alojar el driver y el cable de la luminaria.
+
+La iluminación de los luminarios debe ser uniforme con paneles en tecnología LED, sin el uso de tubos LED.
+
+Los tipos de luminarios a considerar son los siguientes:
+
+a. Luminarios para servicio interior, los cuales podrán ser especificados con tecnología LED, en los modelos 0.61 x 0.61 m. para plafond reticular; 0.60 x 1.22 m. para plafond reticular o liso y 0.30 x 1.22 m. para liso. La temperatura de color de 4100°K y los drivers electrónicos deben ser con una distorsión de armónicas menor o igual al 15%, el difusor debe indicarse e instalarse de acrílico al 100%, vida útil de 50,000 hrs.
+
+b. Luminarios tipo compactos para servicio interior (pasillos, circulaciones técnicas y salas de espera), debiendo ser especificados con LED, temperatura de color de 4100°K o 2700°K para ambientes cálidos y decorativos con driver electrónicos con una distorsión de armónicas menor o igual al 15%, vida útil de 50,000 hrs.
+
+c. Luminarios para servicio exterior:
+*   Lámparas con tecnología LED, para uso tipo intemperie y vida útil de 50,000 hrs.
+*   Luminarios en fachadas a base de LED'S para uso tipo intemperie y vida útil de 50,000 hrs.
+
+d. Lámparas de iluminación autosostenidas con tecnología LED para salidas de emergencia, cruces de pasillo evacuación con una autonomía en las baterías de 180 minutos.
+
+e. Los luminarios que se especifiquen para plafond reticular (pasillos, circulaciones técnicas y salas de espera) deben ser tipo LED, tipo modular de 0.61 x 0.61m.
+
+#### Sistema de Receptáculos del Servicio Normal y Emergencia.
+
+Para todas las áreas de contacto o posible contacto con el infante y /o población vulnerable, el Contratista debe realizar el diseño con receptáculos tipo "Grado pediátrico" de 15Amp, 125Vca y para locales húmedos deben ser especificados con "Protección por Falla a Tierra", cumpliendo además con lo estipulado en la NOM-001-SEDE-2012 o vigente.
+
+En áreas comunes deben especificarse del tipo industrial de 15Amp, 125 Vca.
+
+Para la ubicación de receptáculos y definición del porcentaje de conexión de éstos a los servicios normal y de emergencia, referirse a las Normas de Diseño de Ingeniería Eléctrica, capítulo 2 "Desarrollo del Anteproyecto".
+
+#### Sistema de Receptáculos de Tensión Regulada.
+
+Para la alimentación de los equipos de informática, deben considerarse el diseño del tipo Tierra Aislada, de 15Amp, 125 Vca, conectados a tableros independientes mediante SEEI (Sistema de Energía Eléctrica Ininterrumpible), con un mínimo de 5 minutos de respaldo al 100% de la carga con un rango de entrada de +/-15%, factor de potencia de 0.95 a la entrada, la topología del rectificador e inversor debe ser IGBT, distorsión de armónicos <1% con cargas lineales y <3% con cargas no lineales.
+
+#### Sistema para Salidas Especiales (Guías Mecánicas).
+
+Para los locales donde se especifica la instalación de equipos especiales, el Contratista debe diseñar este Sistema, de acuerdo con los requerimientos de cada uno de éstos, debiendo satisfacer las necesidades eléctricas de operación, seguridad y funcionalidad en los servicios de:
+
+a. Laboratorio de leches o Fórmulas Lácteas.
+b. Cocina.
+c. Lavandería.
+
+Nota: Los locales en el proyecto que requieran del suministro de agua caliente o fuentes de calor para preparación de alimentos, deberá proponerse con equipamiento eléctrico; en ninguna circunstancia, los CECI, contarán con instalaciones o equipamiento que utilicen o empleen cualquier tipo de gas.
+
+#### Sistema de Fuerza en Cuartos de Equipos de Acondicionamiento de Aire, Equipos de Extracción e Inyección Mecánica, (localizados en las plantas de azotea, y en diferentes áreas del inmueble).
+
+Los alimentadores para tableros de fuerza podrán derivarse de los tableros subgenerales o generales, dependiendo de su ubicación y carga conectada total.
+
+El Contratista debe especificar arrancadores con relevadores de sobrecarga y/o variadores de velocidad, para el funcionamiento automatizado de los equipos de hidráulica y aire acondicionado, al igual que en motores trifásicos con rangos ajustables.
+
+La capacidad interruptiva de los interruptores termomagnéticos de los tableros y de los interruptores en la caja moldeada debe ser seleccionada con base en el cálculo de corto circuito, realizando el estudio de coordinación de protecciones.
+
+Los interruptores de seguridad deben ser especificados sin portafusibles, cuando se utilicen en la cercanía del equipo.
+
+#### Sistema de Alimentadores Generales en Baja Tensión.
+
+Este sistema se debe desarrollar mostrando la ubicación en closets para tableros eléctricos y cuartos de equipos en los cuales se alojarán Transformadores en baja tensión, Sistema Eléctrico de Energía Ininterrumpible, Acondicionadores de Línea y Tableros Subgenerales, indicando las cargas especiales, trayectorias, dimensión de canalizaciones y registros, así como cantidad y calibre de conductores.
+
+El diseño de los alimentadores para 480 y 220Vca se debe desarrollar de manera independiente, los cuales pueden ser de cobre o aluminio del tipo monopolar. Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto.
+
+#### Sistema de Alimentadores Generales en Media Tensión.
+
+Debe desarrollarse independiente de los alimentadores en baja tensión, indicando trayectorias (aéreas o subterráneas), calibre de los conductores, clase de aislamiento, dimensiones y detalles de canalizaciones y registros.
+
+Previo al diseño, el Contratista debe verificar ante la compañía suministradora de energía eléctrica de la localidad, la tensión de suministro, la potencia de corto circuito y el punto de conexión.
+
+Para las tensiones normalizadas de 13.2, 23.0 o 34.5kV., se debe especificar cable monopolar con aislamiento XLP, 90°C, aislamiento al 133%, para la clase 15.0, 25.0 o 35.0 kV respectivamente.
+
+Cabe mencionar que el conductor de media tensión debe contar con un sistema cortafuegos el cual debe cumplir con la norma NFPA 70 y estará conformado por módulos de sellado (uno por cada cable) basados en capas desmontables que permitan una perfecta adaptación al cable o tubería y que se inserten dentro de un marco el cual pueda instalarse por soldadura, atornillado o empotrado dentro de la ranura en cada registro de media tensión. Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto.
+
+#### Diagrama Unifilar General.
+
+El diagrama unifilar se debe cumplir con lo establecido en la NOM-001-SEDE-2012 o vigente y la NOM-008-SCFI-2002.
+
+Debiendo indicar el equipo de Media Tensión con las secciones de gabinetes, interruptores de protección, cuchillas seccionadoras, apartarrayos, cuchillas de puesta a tierra y capacidad de transformadores tipo seco.
+
+En Baja Tensión se debe indicar la corriente de corto circuito, capacidad de los interruptores derivados, con su corriente de interrupción, diámetro de canalizaciones, calibre de conductores con longitudes, corriente nominal o a plena carga y corriente de cálculo, caída de tensión, carga instalada en VA y demandada en VA, ubicación de tableros e indicar superficie en m² que alimente estos tableros, factor de demanda, símbolos, y características principales de equipos que componen la red eléctrica, capacidad de la planta generadora de energía eléctrica para emergencia. Como complemento a los datos indicados se debe referir a las Normas de Diseño de Ingeniería Eléctrica, Capítulo 3 "Desarrollo del Proyecto".
+
+#### Cuadros de Carga.
+
+Indicar en planos la totalidad de los tableros de zona, tableros de fuerza, tableros subgenerales, generales y C.C.M. En los cuadros de carga se deben indicar los siguientes datos:
+
+a. Especificaciones particulares de tableros y/o centros de carga.
+b. Ubicación.
+c. Corriente nominal.
+d. Tensión de fases.
+e. Longitud de los circuitos derivados.
+f. Caída de tensión en cada circuito derivado.
+g. Desbalanceo entre fases, menor al 5%.
+h. Capacidad de los interruptores principal y derivados.
+i. Potencia de la Carga en VA por Fase y Total.
+
+#### Sistemas de Alumbrado Exterior (Normal y Emergencia) y de Fachadas.
+
+Debe ser diseñado a base de luminarios con lámparas de LED'S con drivers con balastros electrónicos. El control de encendido debe ser desde los centros de carga a base de fotocelda y reloj temporizador, ubicado en lugares estratégicos cercanos a la subestación o cuarto de tableros.
+
+Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto.
+
+#### Memoria de Cálculo, Descriptiva y Especificación de Equipos.
+
+El Contratista debe elaborar y entregar a la DARP la memoria de cálculo del proyecto de Ingeniería Eléctrica, la cual debe incluir:
+
+a. Cálculo de Corto Circuito.
+b. Coordinación de Protecciones.
+c. Cálculo y selección de transformadores, SEII, Acondicionadores de línea.
+d. Cálculo y selección de plantas de emergencia.
+e. Cálculo y selección de cable de energía.
+f. Cálculo y selección de interruptores.
+g. Cálculo y selección de todos los alimentadores en baja y media tensión (conductores y canalizaciones).
+h. Cálculo y selección de CCM y tableros, Generales, Subgenerales, Fuerza y Zona (alumbrado y contactos).
+i. Cálculo y selección de cable para el sistema de tierra.
+j. Cálculo y selección de materiales para el sistema de pararrayos (descargas atmosféricas).
+k. Cálculo de los Densidad de Potencia Eléctrica para Alumbrado.
+l. Cálculo de Iluminación.
+m. Selección de supresor de sobretensiones transitorias.
+
+#### Sistema de Fuerza en Casa de Máquinas (equipos de hidráulica y aire acondicionado).
+
+La distribución de fuerza para motores debe diseñarse con sus respectivos centros de control de motores, accesorios de control automático, protecciones, alimentadores y cálculos correspondientes, de acuerdo con las Normas Oficiales y Normas de Ingeniería Eléctrica Institucional.
+
+Los centros de control de motores deben ser autosoportados, tipo NEMA-1, de construcción modular.
+
+Los interruptores deben ser del tipo electromagnético con arrancador de protección por relevador térmico, y deben contar con protección por falla a tierra para sistemas sólidamente aterrizados.
+
+Los interruptores de 1200 Amp y mayores deben ser del tipo electromagnético y menores deben ser termomagnéticos con arrancador y protección por relevador térmico.
+
+Nota: En general se deben indicar marcas, modelos y catálogos; mencionando que el material o equipo a suministrar e instalar podrá ser similar y equivalente en calidad y características.
+
+## 7.3.13 PROYECTO DE INGENIERÍA HIDRÁULICA, SANITARIA, PROTECCIÓN CONTRA INCENDIOS (2.5)
+
+Los licitantes deben considerar en la elaboración de su proposición técnico-económica la elaboración del Proyecto de Ingeniería Hidráulica, Sanitaria, Diésel y Protección contra incendios considerando las normas nacionales, que a continuación se describen:
+
+1. NOM 002-STPS-2010, que aborda las condiciones de seguridad para prevención y protección contra incendios en los centros de Trabajo.
+2. NMX-S-066-SCFI-2015, sobre Seguridad-Equipos de Protección Contra Incendio- Sistemas Fijos- Sistemas De Rociadores Automáticos- diseños e instalaciones; el reglamento de Protección Civil y Gestión de Riesgo según lo requiera la localidad.
+3. Reglamento de Construcciones del Distrito Federal y sus Normas Técnicas Complementarias. Todos los anteriores, incluyendo las normas de diseño **ND01-IMSS-HSE-1997** del Instituto Mexicano del Seguro Social, en apoyo a la NFPA 2024, capítulo 5.
+
+De los cuales aplicarán los siguientes sistemas: extintores, gabinetes, toma siamesa y rociadores, pozo de absorción a cielo abierto (en su caso), Sistema de Precalentamiento de Agua por Energía Solar (si es necesario), debiendo el Contratista desarrollar los proyectos correspondientes de estas Ingenierías.
+
+El Contratista debe proyectar los equipos de instalación permanente de Ingeniería Hidráulica y protección contra incendios agrupados en los módulos correspondientes de la Casa(s) de Máquinas, es decir que estos no se encuentren disgregados en diferentes áreas del CECI, debiendo considerar y aplicar en el diseño de los espacios los requerimientos específicos de cada uno de los equipos.
+
+Para el desarrollo adecuado de las Ingenierías Hidráulica y Sanitaria es imperativo contar con los estudios de Infraestructura de Servicios y el análisis Fisicoquímico del Agua. Factores tales como una dureza en el agua mayor de 350 ppm, suministro de agua por tandeos o carencias de drenaje municipal y agua potable representan tropiezo para el desarrollo del Proyecto Ejecutivo.
+
+## 7.3.14 Ingeniería Hidráulica. (2.5.1)
+
+El Contratista debe desarrollar las Ingenierías Hidráulicas, Sanitarias y Diésel. El diseño del CECI debe cumplir con las Normas, Códigos, Reglamentos y Estándares Nacionales y/o Internacionales aplicables.
+
+### a. Sistema de Agua Potable.
+
+El Sistema de Agua Potable está conformado por la toma domiciliaria, la cisterna para almacenamiento y la línea de llenado de las cisternas.
+
+#### a.1 Cisternas de almacenamiento.
+
+El CECI contará una cisterna de almacenamiento de agua potable (agua cruda) en caso de ser necesario se proyectará una segunda cisterna denominada cisterna de agua potabilizada.
+
+#### a.1.2. Cisterna de Agua Potabilizada.
+
+Cuando el agua suministrada por la toma domiciliaria al CECI proviene directamente de un pozo o cualquier otra fuente sin tratar y no cumpla algunos de los parámetros establecidos en la Tabla 7.2.1 y 5 de las Normas de Proyecto de Ingeniería del IMSS: Infraestructura de Servicios, capítulo 7 "Sistema de Tratamiento de Agua para Consumo", y la NOM-127-SSA-2021"SALUD AMBIENTAL, AGUA PARA USO Y CONSUMO HUMANO-LÍMITES PERMISIBLES DE CALIDAD Y TRATAMIENTOS A QUE DEBE SOMETERSE EL AGUA PARA SU POTABILIZACIÓN", el Contratista, debe diseñar una tercer cisterna denominada "cisterna agua potabilizada". Esta cisterna debe tener la capacidad útil del consumo de un día, excluyendo el volumen necesario para riego y para protección contra incendio. La cisterna de agua potable para su operación requiere como mínimo de manera enunciativa más no limitativa de un equipo de filtrado, equipo de suavización, equipo desarenador y un equipo de bombeo para trasiego.
+
+#### a.2. Cárcamo de Succión Seco.
+
+Cuando, por necesidades de proyecto, no sea posible proyectar la cisterna contigua a la casa de Máquinas se debe considerar el diseño de un cárcamo seco. La pendiente de la tubería que une al cárcamo seco con el cárcamo de succión no debe ser menor del 0.5%.
+
+### b. Línea de llenado de las cisternas.
+
+En cumplimiento con los lineamientos ecológicos, donde se prohíbe usar tuberías que contengan cloruro como los PVC cedula 80, en tuberías que conducen agua para consumo humano, durante el desarrollo del PE.
+
+### c. Sistema de Distribución de Agua Fría.
+
+El Contratista debe diseñar un sistema de distribución que consta de manera enunciativa más no limitativa de: Equipo(s) de bombeo y la red de tuberías de distribución necesarias para alimentar, con el gasto y la presión requeridos, a todos los muebles y equipos que requieran de este servicio.
+
+El Contratista debe diseñar un sistema de distribución que consta de manera enunciativa más no limitativa de: La red de tuberías de distribución necesarias para alimentar, con el gasto y la presión requeridos, a todos los muebles y equipos que requieran de este servicio. La red de distribución debe ser interconectada a la red de agua fría existente.
+
+#### c.1. Sistema de Bombeo.
+
+En los sistemas de distribución de Agua Fría Potable deben proyectarse "Sistemas de Bombeo "Tipo Paquete" de velocidad variable, (Norma Oficial Mexicana NOM-001-SEDE-2012 Instalaciones Eléctricas Art. 110-4).
+
+#### c.2. Presión Máxima de la Red y Selección del Equipo de Bombeo.
+
+La presión máxima en cualquier punto de la red de distribución, incluyendo la diferencial de presión considerada, no debe ser mayor de 6.0 Kg/cm².
+
+#### c.3. Cálculo de los Gastos en una Red de Distribución de Agua Fría a Muebles y Equipos.
+
+Para calcular los gastos (l.p.s), la velocidad de flujo, presión de diseño, selección de los diámetros de la red, pérdidas por fricción, diámetros y cargas de trabajo mínima, el tipo de soportes, el tipo de tubos, las válvulas y conexiones, aislamientos, juntas flexibles, así como el código de colores a emplearse; y la carga de bombeo, se debe realizar con base a los parámetros establecidos en el Capítulo 5, "Distribución de Agua Fría" de la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+#### c.4. Tipo de Tuberías.
+
+El Contratista debe diseñar el proyecto con los siguientes materiales:
+Para tuberías menores o iguales a 50 mm:
+
+1. Tuberías de cobre que estén bajo estándar ASTM B88 con conexiones de cobre para soldar, la soldadura por utilizar debe ser soldadura 95-5.
+
+2. Conexiones de cobre, con sistema de unión conexión prensada en frío, Smart Conect (propress).
+
+El Contratista debe diseñar el proyecto con los siguientes materiales:
+Para tuberías mayores o iguales a 64 mm:
+
+3.- serán de acero sin costura, con extremos lisos para soldar, cedula 40.
+
+En caso de alguna variación atípica en el Estudio Físico Químico por la calidad de agua en donde se apliquen sistemas de filtrado, y/o suavización y presenten daños permanentes de tuberías se tomará todos los análisis necesarios para una valoración por parte del Instituto y proceder a la factibilidad de cambio de tubería.
+
+#### d. Cálculo de los Gastos en una Red de Distribución de Protección Contra Incendio y Equipos.
+
+Para calcular los gastos (l.p.s) enunciativa más no limitativa en:, la velocidad de flujo, presión de diseño, selección de los diámetros de la red, pérdidas por fricción, diámetros y cargas de trabajo mínima, el tipo de soportes, el tipo de tubos, las válvulas y conexiones, aislamientos, juntas flexibles, así como el código de colores a emplearse; y la carga de bombeo, se debe realizar con base a los parámetros establecidos en el Capítulo 7, "Protección Contra Incendio" de la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+1.- El Contratista deberá considerar, extintores, hidrante, toma siamesa, y sistema de rociadores.
+2.- Para tuberías menores o iguales a 50 mm para sistemas de protección contra incendio serán de fierro galvanizado cedula-40 roscable
+3.- Para tuberías mayores o iguales a 64 mm para el sistema de protección contra incendios serán de acero sin costura, con extremos lisos para soldar, cedula 40.
+4.- para trazo de la configuración geométrica de la red y distribución de los rociadores se deberá tomar en cuenta las recomendaciones siguientes:
+
+En zonas de riesgo bajo la máxima distancia permisible entre los ramales y entre los rociadores de cada ramal será de 4.50 m.
+
+En las zonas de riesgo medio la máxima distancia permisible entre los ramales y entre los rociadores de cada ramal será de 4.5 m, excepto en zonas de estibas altas, en que la separación máxima entre ramales y entre rociadores de cada ramal será de 3.6 m.
+
+En las zonas de riesgo alto la máxima distancia permisible entre los ramales y entre los rociadores de cada ramal será de 3.6 m.
+
+En caso de alguna variación atípica en el Estudio Físico Químico por la calidad de agua en donde se apliquen sistemas de filtrado, y/o suavización y presenten daños permanentes de tuberías se tomará todos los análisis necesarios para una valoración por parte del Instituto y proceder a la factibilidad de cambio de tubería.
+
+#### e. Sistema de Producción y Distribución de Agua Caliente y Retorno para Servicios.
+
+El sistema de producción, distribución y recirculación de agua caliente, a diseñar consiste de manera enunciativa más no limitativa en: generadores de agua caliente eléctricos, cada uno con la capacidad suficiente para servir la demanda horaria máxima calculada, con el tanque de mayor capacidad fuera de funcionamiento, los recirculadores de agua caliente y la redes de tuberías de distribución y recirculación necesarias para alimentar con el gasto, presión y temperatura requeridas a los muebles y equipos que requieren este servicio, y la red de retorno de agua caliente.
+
+#### e.1. Red de retorno de agua caliente.
+
+La red de retorno de agua caliente debe ser diseñada con base a lo procedente del inciso c.4 de estos T.R.
+
+#### e.2. Aislamiento de tuberías.
+
+Para aislar las redes de Agua caliente y retorno de agua caliente se deben usar espumas de poliuretano y/o elastómeras, además de cumplir lo procedente del numeral B.09 Aislamiento Térmico en Tuberías Guías Técnicas de Construcción IMSS Tomo 3 Instalaciones Hidráulicas y Especiales.
+
+#### e.3. Criterios de Diseño del Sistema de Distribución de Agua Caliente y Retorno de Agua Caliente.
+
+El diseño de este sistema debe realizarse con base a los parámetros establecidos en el Capítulo 6 "Producción y Distribución de Agua Caliente" de la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+#### e. Criterios de Diseño del Sistema de Protección Contra Incendio.
+
+El Sistema de Protección Contra Incendio debe diseñarse con base a los parámetros establecidos en el Capítulo "Protección Contra Incendio" de la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+#### f. Criterios de Diseño del Sistema de Protección Contra Incendio.
+
+El Sistema de Protección Contra Incendio debe diseñarse con base a los parámetros establecidos en el Capítulo "Protección Contra Incendio" de la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+#### g. Sistema de Riego.
+
+El Contratista debe diseñar el sistema de Riego está conformado de manera enunciativa más no limitativa por: Equipo de bombeo y la red de tuberías requeridas para alimentar, con el gasto y la presión necesaria a las salidas de las mangueras.
+
+#### g.1. Criterios de Diseño del Sistema de Riego.
+
+Para determinar el cálculo de la red, los gastos (l.p.s), la presión de diseño, la selección de los diámetros de la red, pérdidas por fricción, el tipo de tuberías, las válvulas y conexiones, así como la carga de bombeo y la selección del sistema de riego, se realizará con base a los parámetros establecidos en Capítulo 8 "Riego de Jardines" de la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+## 7.3.15 Ingeniería Sanitaria (2.5.2)
+
+### a. Sistema de Eliminación de Aguas Residuales.
+
+El Contratista debe diseñar, el Sistema de Eliminación de Aguas Residuales que consiste en manera enunciativa más no limitativa en: Redes de tuberías de desagüe y ventilación coladeras de fo.fo, y equipos de bombeo para aguas residuales y cárcamos destinados a desalojar del predio estas aguas en la forma más rápida al alcantarillado municipal.
+
+#### a.1 Tipo de Tuberías y Brocales.
+
+El Contratista debe diseñar las redes empleando lo siguiente:
+
+*   En la eliminación de las aguas negras en el interior de los edificios se deben proyectar tuberías pared solida de PVC DWV cédula 40 ASTM D 1785 Y ASTM D 2665 y sus respectivas conexiones.
+*   La eliminación de las aguas pluviales en el interior de los edificios se deben proyectar tuberías de pared solida de PVC DWV cédula 40 ASTM D 1785 Y ASTM D 2665 y sus respectivas conexiones.
+*   Las Tuberías de ventilación verticales u horizontales dentro ubicados en plafond se deben proyectar tuberías pared celular (cellular core) PVC DWV cédula 40 ASTM F-891-16 y sus respectivas conexiones, excepto el tramo que cruza la azotea donde se debe emplear cobre tipo M para diámetros de 38 y 50 mm y de fo.fo. para diámetros mayores de 50 mm.
+*   En bajadas pluviales y sanitarias que se encuentran a la intemperie y en áreas donde la temperatura de operación exceda los 60°C, las bajadas se deberán proyectar las redes con tubería de FoFo.
+*   Las coladeras por emplearse serán de Hierro fundido y con cúpula para azotea, coladeras de piso para interiores con rejillas de acero inoxidable y tapones registro.
+*   En bajadas pluviales y sanitarias que se encuentren a la intemperie y en áreas donde la temperatura de operación exceda los 60°C, se deben utilizar tubería de FoFo.
+*   En la instalación y señalización de las redes sanitarias se aplicará lo conducente indicado en el capítulo "C" y "F" respectivamente de las Guías Técnicas de Construcción Tomo 3 "Instalaciones Hidráulicas y Especiales" IMSS 2004.
+*   Para la proyección de sanitarios podrá utilizarse bridas flexibles o bridas de PVC DWV cedula 40.
+*   En las redes de aguas pluviales al exterior del edificio utilizarán tubería de PEAD (Tubo de Polietileno Corrugado de Alta Densidad) que cumpla con la Norma NMX E 241-CNCP 2013 o actual.
+
+#### a.2 Criterios de Diseño de las Redes de Eliminación de Aguas Residuales.
+
+El proyecto debe realizarse de acuerdo con los parámetros establecidos en el capítulo 10 "Eliminación de Aguas Residuales". Indicado en la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+### b. Sistema de Eliminación de Aguas Pluviales.
+
+El Contratista debe diseñar un sistema de drenado de todas las superficies recolectoras de estas aguas, tales como azoteas, patios y conducirlas hasta las bocas de tormentas o bien a donde las autoridades municipales lo determinen.
+
+#### b.1. Criterios de Diseño de las Redes de Eliminación de Aguas Pluviales.
+
+El proyecto se debe realizar de acuerdo con los parámetros establecidos en el capítulo 11 "Eliminación de Aguas Pluviales" de la Norma de Diseño de Ingeniería en Instalaciones Hidráulica, Sanitaria y Especiales del IMSS.
+
+Es imprescindible que el proyecto se desarrolle de acuerdo con los resultados obtenidos en la Cédula de Infraestructura de Servicios.
+
+#### b.2. Tipo de Tuberías y Brocales.
+
+El tipo de tuberías a emplearse deben ser las indicadas en apartado a.1.
+
+### Memorias Técnicas y Especificaciones de Equipos.
+
+Como parte del proyecto de Ingeniería Hidráulica, Sanitaria, el Contratista debe presentar y entregar a la DARP las siguientes Memorias:
+
+#### a. Memoria Técnico-Descriptiva.
+
+En esta Memoria se debe indicar los criterios generales empleados en la solución de las instalaciones hidráulicas, sanitarias, además debe incluirse toda la información que haya sido proporcionada por el IMSS (análisis fisicoquímico del agua, los croquis de ubicación de los pozos de visita de aguas negras y pluviales municipales, entre otros) y utilizada para el desarrollo del PE. La memoria descriptiva debe incluir como mínimo lo siguiente: índice, introducción (describiendo la región donde se ubicará el CECI. Geográficamente (latitud y longitud), la altura sobre nivel del mar, la temperatura promedio más baja y la más alta registradas de acuerdo al servicio meteorológico nacional, área total de construcción, las áreas principales que la conforman, los m2 de jardines, el número de camas censables, de futuro crecimiento y las no censables, indicar si el servicio de agua potables es continuo o por tandeos y la cantidad de mm por hora de lluvia anual), la descripción detallada del equipo de las casa de Máquinas y la descripción de todas las redes de distribución Hidrosanitaria y Especiales que integran el proyecto del CECI.
+
+#### b. Memoria de Cálculo.
+
+Esta memoria debe incluir como mínimo lo siguiente: Cálculo de las Redes de Distribución Hidrosanitarias, capacidades de los equipos electromecánicos seleccionados junto con las hojas técnicas de los proveedores (brochure), los diagramas y tablas de diseño, la Isoyeta(s) de la Región, las hojas técnicas con las características de los medidores de flujo, etc.
+
+#### c. Especificaciones de Equipos.
+
+El contratista debe entregar las especificaciones técnicas de todos los equipos que intervienen en el proyecto.
+*   Los equipos electromecánicos deben contar con sus certificados vigentes de calidad de producto expedidos por un organismo nacional de certificación (NYCE, ANCE, ONNCCE), Internacionales o fichas técnicas del IMSS.
+
+## 7.3.16 PROYECTO DE INGENIERÍA EN TELECOMUNICACIONES (2.6)
+
+La presente documentación tiene un carácter general y debe considerarse enunciativa, mas no limitativa, respecto al proyecto en mención. El contratista será responsable de prever y considerar todo lo necesario para cumplir cabalmente con los requerimientos indispensables y adicionales, en primera instancia, para la implementación de los sistemas referenciados; y en segunda instancia, para garantizar su correcta operación de manera irrestricta.
+
+Cualquier situación no contemplada en este documento deberá ser planteada oportunamente al área correspondiente, a fin de definir solución de forma ágil y concurrente con la aparición de la duda.
+
+Los licitantes, al desarrollar sus proposiciones técnico-económicas, deben dar prioridad al estricto cumplimiento normativo y la implementación de tecnologías de vanguardia con el mejor costo beneficio. Es imperativo que el Contratista diseñe los Sistemas de Ingeniería en Telecomunicaciones para el CECI, garantizando la adhesión a la normatividad y los estándares vigentes y los criterios establecidos en los presentes T.R. En este contexto, se hace hincapié en la aplicación de tecnologías de punta, asegurándose de que estas no solo sean actuales, sino que también estén respaldadas por al menos 10 años de actualizaciones continuas sin riesgo de obsolescencia.
+
+Es esencial que los licitantes seleccionen cuidadosamente a los proveedores y distribuidores de estas tecnologías, verificando que estos cuenten, además para todas las marcas y equipos a proponer, con centro de servicio autorizado y distribuidor establecido dentro del territorio nacional con amplia experiencia en el soporte y respaldo de los mismos y con la capacidad de certificar al personal técnico y usuario en el uso, operación y mantenimiento de los equipos y plataformas de cada uno de los sistemas.
+
+Para garantizar la eficiencia y funcionalidad integral de la Ingeniería en telecomunicaciones, es crucial tener una comprensión detallada de los sistemas que la componen y las necesidades puntuales de la dependencia y el proyecto en cuestión. los licitantes deben enfocarse en la actualización y mejora continua de los siguientes sistemas, asegurándose de que estén alineados con las últimas tendencias y normativas de la industria.
+
+Los sistemas que integran el PE de Ingeniería en Telecomunicaciones son las siguientes:
+
+*   Sistema de control de accesos para administrar, controlar, restringir, registrar y monitorear el ingreso del personal al interior del CECI, así como a sus diferentes áreas internas. Además, deberá permitir el registro irrestricto de las personas (familiares) encargadas de entregar y recoger a los infantes del CECI.
+*   Sistema de Cableado Estructurado.
+*   Sistema de Constructivo de Canalizaciones Primarias y Sistema de puesta a Tierra.
+*   Sistema de Telefonía e Informática.
+*   Sistema de Voceo y Sonorización.
+*   Sistema de Detección de Incendio.
+*   Sistema de Circuito Cerrado de Televisión, Entretenimiento.
+*   Sistema de Circuito Cerrado de Televisión, Vigilancia.
+*   Sistema de Control de Accesos
+
+Nota: Los licitantes deben proporcionar garantías extendidas de al menos tres años para todos los equipos activos y pasivos, asociados con una ingeniería robusta en telecomunicaciones para todos los sistemas especiales. Esto asegura la continuidad operativa y minimiza los riesgos de posibles fallas, respaldando la inversión a largo plazo del IMSS.
+
+El Proyecto Ejecutivo deberá reflejar claramente estas especificaciones, asegurando la implementación exitosa de sistemas modernos, normativamente sólidos y respaldados por garantías extendidas en las Instalaciones del IMSS de que se trate.
+
+#### Consideraciones en la elaboración del PE de Ingeniería en Telecomunicaciones.
+
+*   Pre-dimensionamiento de equipos y áreas de telecomunicación.
+*   Ruta de Acometida de Servicios Externos y tipo de cableado.
+*   Punto de Enlace y Ruta con la Red Interna (enlaces de campus).
+*   Ubicación de los Racks de Telecomunicaciones.
+*   Tecnología en Comunicación por Telefonía (aplicar Voz sobre IP y Conectividad en Categoría 6A).
+*   Tipo y Ubicación de Servicios en cada Área de Trabajo.
+*   Tipo de Equipo y Características para el tipo de Servicio en cada Área de Trabajo.
+*   Tipo de Conector de Salida de Información.
+*   Tipo y Características de cableado de la Red.
+*   Selección de equipos activos y pasivos de Telecomunicaciones.
+*   Puntos de distribución y conectividad asociada.
+*   Equipamiento de los Racks de Telecomunicaciones.
+*   Tipo y Características de Cableado para los enlaces Backbone.
+*   Infraestructura de Soporte de Cableado y Canalizaciones (Tipo y Características).
+*   Diagramas de Conectividad de cada uno de los sistemas de Telecomunicaciones.
+*   Memoria Técnica, Descriptiva y Especificaciones de Equipos.
+*   Ingeniería de Detalle para cada uno de los Equipos.
+*   Incluyendo notas aclaratorias.
+
+Nota: El contratista deberá suministrar e instalar tanto el hardware como el software licenciado para su uso permanente, dando prioridad a que dicho software cuente con una licencia libre de costo para el Instituto. Asimismo, el contratista deberá realizar las pruebas correspondientes, la puesta en marcha y la capacitación del personal designado por el IMSS para la operación de las aplicaciones contempladas en todos los sistemas de telecomunicaciones.
+
+#### Propuesta de los Criterios de Solución.
+
+Con base en el proyecto de mobiliario, deberán presentarse los criterios de diseño correspondientes a esta especialidad, expresados mediante planos de planta, cortes y elevaciones, incluyendo el sembrado y el pre-dimensionamiento de los equipos de telecomunicaciones. Deberá tomarse en cuenta y presentarse lo siguiente:
+
+1. Distribución de los equipos y elementos que integran los Sistemas de Telefonía VoIP e Informática.
+2. Red de Cableado Estructurado.
+3. Red y Distribución de los Equipos de Voceo y Sonorización.
+4. Red y Distribución de los Equipos de Detección de Incendio.
+5. Red y Distribución de los Equipos de Circuito Cerrado de Televisión y Vigilancia IP.
+6. Red y Distribución de los Equipos de Circuito Cerrado de Televisión, Entretenimiento.
+7. Dimensionamiento de espacios con base al pre-dimensionamiento de los equipos por especificar.
+8. Ubicación de Racks de Telecomunicaciones, considerando la pre-capacitación del siguiente equipo:
+
+*   Servidor de Comunicaciones, Servidores de Archivos, Servidor de CCTV seguridad, Switchs, Paneles de Parcheo, Ruteadores, Procesador digital de voz, equipos periféricos y/o cualquier otro equipo activo que se requiera.
+*   Trayectoria de canalizaciones horizontales y verticales sin cableado, registros, tubos, canaletas, ductos, charolas, escalerillas.
+*   Canalización exterior y pasos de instalación para punto de acometida.
+
+Nota: Para la acometida telefónica, el proyecto deberá indicar la trayectoria de los servicios proporcionados por la compañía de telefonía local (Telmex) en la vía pública. Asimismo, deberá especificar la capacidad de las canalizaciones de entrada dentro del predio, la cual deberá estar debidamente avalada por Telmex o por el proveedor de servicios correspondiente en la localidad, ya sea mediante un documento formal o mediante la firma en el plano o croquis que valide la trayectoria propuesta, así como la cantidad y dimensiones de los registros externos e internos.
+
+El Contratista deberá gestionar ante Telmex las especificaciones locales aplicables para el diseño del proyecto.
+
+Para las instalaciones soterradas destinadas a acometidas y enlaces exteriores de Telmex o del proveedor de servicios correspondiente, se deberá considerar la implementación de múltiples preparaciones de acometida, priorizando la redundancia en los accesos al inmueble. Estas acometidas deberán ubicarse estratégicamente desde los distintos frentes de la poligonal del predio, considerando las diferentes avenidas con posibilidad de acceso por parte de los proveedores de la zona.
+
+Los registros de acometida deberán evitar su ubicación en accesos peatonales y vehiculares o en trayectorias de tránsito vehicular, a fin de preservar su integridad estructural.
+
+De manera complementaria, podrán considerarse acometidas aéreas, siempre y cuando no interfieran con la fachada ni generen un impacto visual significativo.
+
+En todos los registros de acometida que contengan el último punto de prueba de cada ramal redundante de la acometida telefónica, deberá especificarse la instalación de un sistema cortafuego para aislar los cables provenientes del exterior.
+
+El sistema cortafuego deberá cumplir con la norma NFPA 70 (Código Eléctrico Nacional) y estará conformado por módulos de sellado individuales (uno por cada cable), fabricados con capas desmontables que permitan una adaptación precisa al diámetro del cable o tubería. Estos módulos deberán instalarse dentro de un marco que pueda ser fijado mediante soldadura, anclaje mecánico (atornillado) o empotrado en la ranura correspondiente, garantizando una barrera efectiva contra el fuego y gases.
+
+Esta propuesta de solución se debe coordinar con las áreas de Arquitectura e Ingenierías Civil, Eléctrica, Aire Acondicionado, Hidráulica y Sanitaria.
+
+#### Sistema de Cableado Estructurado.
+
+La plataforma de cableado estructurado debe soportar varias aplicaciones como transmisión de voz, datos y video, que permita un crecimiento modular, versátil y flexible para modificaciones y la incorporación de nuevas tecnologías. Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto. Además de que sea certificado todo el cableado para garantizar tiempo de vida y desempeño con una marca de cableado premium.
+
+El Sistema debe incluir placas frontales con insertos tipo Jack RJ-45 categoría 6A y que esté liberado al momento del diseño del sistema en cada área de trabajo, tomando en consideración que las salidas de voz y datos (nodos de red), serán cuando mínimo de dos nodos por cada área de trabajo, por lo que si hubiera un requerimiento adicional en cuanto a salidas de comunicación, se deberá incluir las instalaciones de los servicios complementarios, inclusive después de haber sido autorizado el proyecto.
+
+El cordón de línea para conexión del equipo terminal debe ser manufacturado con cable categoría 6A, con plugs en cada extremo compatibles en su conexión. Todos los cordones de parcheo deberán especificarse con colores diferentes para cada especialidad y con las longitudes adecuadas para su rápida identificación, manejo y uso seguro, tanto del lado de los equipos de interconexión como del lado de usuarios o periféricos o estaciones de trabajo.
+
+El cableado horizontal enlazará las áreas de trabajo, debe ser de 4 pares trenzados (UTP) categoría 6A, LSZH, calibre 24 AWG en una conexión "punto a punto", sin empalmes ni otro tipo de conectores y no debe de exceder de distancias de 90 m lineales entre el área reservada para los equipos activos de telecomunicaciones y el área de trabajo.
+
+El cableado horizontal en el Distribuidor de Telecomunicaciones se rematará en paneles de parcheo de 24 o 48 puertos con la capacidad suficiente y reserva que demanden los servicios, con puertos tipo Jack RJ-45, categoría 6A con conexiones IDC por la parte posterior, montados en rack abierto, anclado antisísmico a piso, con dimensiones de 7 pies de alto (2.135m) por 19 pulgadas de ancho (0.4826m), el espacio en rack y paneles de parcheo, deberán de considerar el 30% adicional en puertos para futuro crecimiento.
+
+Cada rack debe contar con dos organizadores verticales con guías y tapas en cada extremo, independientemente que se coloquen juntos, y cada panel de parcheo, para cable de cobre, fibra óptica y regleta, debe contar con un organizador horizontal el cual debe estar integrado con guías y tapas frontales y posteriores. De igual forma deberá considerar equipo para distribución de energía eléctrica (PDU) y equipos de respaldo de energía regulada (UPS) suficientes en capacidad para alimentar todos los equipos activos contenidos en cada rack o gabinete.
+
+Los requerimientos para canalización y espacios relacionados se encuentran basados en ANSI/TIA-569-D.
+
+El sistema de canalización principal en backbone vertical y trayectoria horizontal, debe ser diseñado con charola porta cables tipo escalerilla de aluminio o malla electrosoldada con acabado GAC (Galvanizado por Inmersión en caliente con resistencia y rigidez suficiente para que ofrezcan un soporte adecuado a todos los cables instalados en ella, cuya dimensión se determinará en función del cálculo realizado, de acuerdo con el número de cables que se instalen, y cumpliendo con la norma que indica un grado de ocupación del 40% máximo.
+
+Para la canalización horizontal derivada se utilizará tubería Conduit pared gruesa en interiores y exteriores. Todas las conexiones deben cumplir con la NOM-001-SEDE-2018.
+
+La tubería debe ser especificada con pintura con una capa de primario epóxico, y posteriormente con esmalte acrílico de acuerdo con la NOM-026-STPS-2008.
+
+Los diámetros de tubería indicadas en el PE se deben considerar con un grado de ocupación de 40%, para permitir el manejo de cable y crecimiento a futuro y cumpliendo con el estándar ANSI/TIA-569-D, sobre la capacidad del cable para los ductos.
+
+Para el caso de la distribución vertical o troncal, esta debe proporcionar la interconexión entre edificios, así como entre los diferentes niveles que cuenten con un Cuarto de Telecomunicaciones o IDF (Intermediate Distribution Frame).
+
+Los medios de transmisión para el backbone vertical serán: Fibra óptica multimodo OM4, interna y/o externa según el caso, de 50 micras de diámetro, de 1/10G.
+
+Para conectar el MDF con los IDF's ubicados en el mismo edificio se utilizará soporte para cables. Para la conexión entre los diferentes cuerpos del inmueble, se utilizará tubería de PVC, tomando en consideración la composición del terreno, niveles y pendientes.
+
+El diseño del sistema troncal del inmueble se debe basar en una topología en "estrella y anillo". Para la arquitectura en anillo está partirá de enlaces de Fibra Óptica del MDF a cada uno de los IDFs, y para el caso de la arquitectura en anillo, está partirá de la conexión entre IDFs más cercanos para lograr finalmente un anillo que permita la redundancia de la red back bone principal.
+
+#### Sistema de Telefonía e Informática.
+
+Se debe considerar y aplicar las siguientes indicaciones para los servicios de telefonía e informática, para la elaboración del PE.
+
+1. El servicio de Telefonía e Informática se debe elaborar en forma paralela, asignándolos a cada área operativa, así como el equipo activo y pasivo (hardware y software) (servidor digital de comunicaciones, consola de operadora, aparatos telefónicos IP, equipos periféricos de administración, Switches, Unidades Ininterrumpibles de energía eléctrica, Servidor de archivos Datos y Video, Routers, Access Points, (Controladores para Access Point) que se requiera en cada caso.
+
+2. Para el caso de los servicios de informática, el proyecto debe especificar que los equipos de las estaciones de trabajo y las impresoras son suministrados por el IMSS, con excepción de aquellos equipos que el Contratista de Obra Pública, una vez designado, deberá proporcionar.
+
+Esto incluye estaciones de trabajo e impresoras necesarias para la operación y funcionamiento de los sistemas, tales como: estaciones de monitoreo para el sistema de videovigilancia (CCTV), estaciones de trabajo y servidores para la administración, configuración y almacenamiento de históricos del Sistema de Control de Accesos, así como servidores y estaciones de trabajo requeridos para la configuración u operación integral de cualquier otro sistema involucrado.
+
+3. **Implementación del Equipo Activo:**
+
+La cantidad de servicios determinan las capacidades de los equipos tales como: Servidor de archivos (Datos y Video), Servidor de Comunicaciones IP, LAN Switches, Access Points, Controladoras de Access Point, Routers, que se ubicarán en el área reservada para el montaje de equipos de Telecomunicaciones.
+
+Para el caso del Equipo Activo del Sistema de Telefonía IP, deben ser de Tecnología digital, conectable a una Red LAN y/o WAN, con arquitectura distribuida a través de fibra óptica (módulos de fibra multimodo TX, Rx), dando servicios eficiente y confiable al control de llamadas; debe contar con Switches de puertos en cobre autosensing 10/100/1000 MB, y puertos para apilamientos de módulos periféricos (como ejemplo unidades de servicios analógicos), para dar soporte al número de teléfonos requeridos, por los servicios del GS.
+
+Las especificaciones enunciadas son las mínimas requeridas y deben cumplir como mínimo, con un PBX IP, así como múltiples niveles de redireccionamiento de llamadas, mensajes en espera, mensajes de asesoramiento, llamadas en conferencia, códigos de cuenta, prohibición de llamadas, enrutamiento de menor costo, servicio nocturno en una plataforma de VoIP. El sistema debe soportar el Estándar IEEE 802.1p para priorización de voz.
+
+El equipo activo del sistema de informática debe ser de tecnología de Switcheo capa 3 para enlaces Giga Ethernet: de alto desempeño, para crear un backbone (10 Gb) principal de LAN con tecnología Ethernet, Fast Ethernet y Giga Ethernet que permita la redundancia en cada uno de los servicios y la flexibilidad de quitar o poner switches sin perder la comunicación en la red, que incluya un agente de administración y una interfase de línea de comandos, además de poder administrarse mediante software, debiendo ser compatible para comunicarse con equipos de diversos fabricantes.
+
+Los equipos activos de las estaciones de trabajo (P.C), impresoras, puntos de accesos inalámbricos, teléfonos (IP), cámaras (IP), controladores, entre otros, serán conectados en topología de estrella a equipos de conmutación switches 10/100/1000 Base-T, que cumplan con el manejo de la capa 2 y capa 3 para un mejor desempeño y rendimiento de la red, el switch contara con 24 o 48 puertos con conectores Jack RJ-45 así como los puertos de apilamiento, además de proporcionar tecnología de alimentación eléctrica a través del mismo medio de transmisión de señal (PoE y PoE+) para la alimentación eléctrica de dispositivos compatibles.
+
+La cantidad de los equipos LAN Switch estará determinada por la cantidad de puertos activos requeridos por nodos activos de red que se tenga identificado en el proyecto, adicionalmente se deberá de considerar un 30% de puertos activos para los crecimientos futuros que se pudieran llegar a tener.
+
+Además de la instalación de Red Ethernet, el proyectista debe considerar la instalación de Access Point inalámbricos en toda el área del Centro de Cuidado y Atención Infantil con el fin de proveer de una cobertura total inalámbrica WLAN a la ubicación antes mencionada, teniendo especial cuidado en evitar puntos sin cobertura dentro de esta área. Los equipos deben funcionar bajo el estándar Wi-Fi 6, 802.11a/b/g/n/ac, ax, ser administrables mediante una controladora de red, contar con un gabinete por cada Access Point para protección de estos, así como de los accesorios necesarios para su instalación.
+
+Los servidores de archivos deben dar servicio a todas las estaciones de trabajo locales y cualquier otro dispositivo conectado a la red, concentrando todo el software (sistemas operativos, administrador de redes, bases de datos, aplicaciones, licencias), estos equipos deben ser capaces de compartir sus archivos con todos los usuarios conectados de acuerdo con privilegios aprobados.
+
+Para el sistema de informática, se deben integrar los servidores de archivos para las soluciones en IT que demanden los servicios del Centro de Cuidado y Atención Infantil, considerando un servidor por cada 200 nodos de Datos y Vo.IP-D que se encuentren contenidos en proyecto, tomando en cuenta, como mínimo la siguiente especificación: Procesador Intel
