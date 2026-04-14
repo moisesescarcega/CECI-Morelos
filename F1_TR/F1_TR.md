@@ -954,4 +954,116 @@ Los aceros para tornillos, arandelas y tuercas deben ser de:
 Y deben cumplir con las normas:
 *   NMX-H-124, NMX-H-123 respectivamente y que ambas equivalen a la ASTM F3125
 
-*   Sistema de cubierta, el sistema de cubierta será a base de paneles de concreto prefabricado apoyados sobre la estructura principal conformada por marcos de acero estructural en ambas direcciones. El cálculo, modelación y detallado de la solución propuesta deberán cumplir con los criterios establecidos para edificaciones clasificadas dentro del Grupo A, conforme a la normativa vigente. El sistema deberá garantizar la adecuada integración estructural entre los elementos prefabricados y la estructura metálica, asegurando la función del diafragma (rígido o semirrígido), el control de deflexiones y derivas, la continuidad de las cargas verticales y laterales, y el cumplimiento de los estados límite de servicio y de falla establecidos por el Reglamento de
+*   Sistema de cubierta, el sistema de cubierta será a base de paneles de concreto prefabricado apoyados sobre la estructura principal conformada por marcos de acero estructural en ambas direcciones. El cálculo, modelación y detallado de la solución propuesta deberán cumplir con los criterios establecidos para edificaciones clasificadas dentro del Grupo A, conforme a la normativa vigente. El sistema deberá garantizar la adecuada integración estructural entre los elementos prefabricados y la estructura metálica, asegurando la función del diafragma (rígido o semirrígido), el control de deflexiones y derivas, la continuidad de las cargas verticales y laterales, y el cumplimiento de los estados límite de servicio y de falla establecidos por el Reglamento de Construcciones, las Normas Técnicas Complementarias 2023 y las Normas Mexicanas aplicables a elementos prefabricados.
+
+Los paneles de concreto prefabricado deberán cumplir con las especificaciones de concreto Clase 1, con una resistencia mínima de f'c = 250 kg/cm², agregado máximo de 19 mm y relación agua–cemento ≤ 0.40. El acero de refuerzo será de alta resistencia, con límite de fluencia fy = 4,200 kg/cm², garantizando ductilidad y capacidad resistente en ambas direcciones.
+
+El análisis estructural de la cubierta y de los marcos de acero se realizará considerando los esfuerzos derivados de las cargas permanentes, las cargas accidentales y, en su caso, las acciones sísmicas y de viento, atendiendo criterios de estabilidad global, torsión, excentricidades, seguridad estructural, diseño arquitectónico, ubicación del CECI, densidad de materiales y condiciones de mantenimiento durante la vida útil de la estructura.
+
+Los planos estructurales deberán incluir, de manera clara y exhaustiva, los detalles de conexión, anclaje, apoyos, capa de compresión (en su caso), dispositivos de transferencia de esfuerzos, procedimientos de montaje, así como los cortes aclaratorios necesarios para la correcta interpretación y ejecución en obra.
+
+#### Juntas Constructivas (en caso de ser necesario)
+
+**Las Juntas Constructivas** deben ubicarse utilizando criterios racionales de: esfuerzos, regularidad y temperatura, mismas que deberán ser sometidas a revisión para determinar la cantidad y ubicación, conciliada entre los profesionistas de ingeniería estructural y arquitectura, a efecto de contar con un diseño óptimo.
+
+Para muros, plafones y azotea desde 1.27 cm hasta 15 cm. Se deberán prever en el desarrollo de estas subpartidas, las juntas constructivas de dilatación horizontales en plafón y verticales en muros interiores o fachadas, para fachadas se deben considerar resistente a los rayos UV, con una capacidad de movimiento 100% (+-50%), en cumplimiento con las normas ASTM C518, ASTM D3574, ASTM E90-09, UL 94V0 Y ASTM 2240.
+
+**Juntas para muros de 15.1 cm hasta 90 cm.** Las juntas constructivas de dilatación verticales en fachadas o interiores deberán ser resistentes a los rayos UV y considerar una capacidad de movimiento 50% (+-25%), en cumplimiento con las normas ASTM D3575, Din 53428 y Din 18542.
+
+**Junta para pisos mayores a 5 cm y hasta 45 cm.** Las juntas constructivas de dilatación horizontales en piso, deberán ser confortables para el tráfico, conformadas por juntas prefabricadas que cumplan con certificación ISO 9001 con capacidad de movimiento de 25% para juntas de 5 cm, 40% para juntas de 8 cm, 50% para juntas de 10 cm, 75% para juntas de 15 cm y 100% para juntas de 20 cm, 125% para juntas de 25 cm, 150% para juntas de 30 cm, 175% para juntas de 35 cm, 200% para juntas de 40 cm, 225% para juntas de 45 cm, A base de aluminio de alta calidad, sellos de poliuretano de secado rápido con membrana de estanqueidad opcional según el requerimiento de proyecto, debiendo preverse el acabado final que demande el proyecto.
+
+**Juntas para pisos de 3 a 5 cm.** Las juntas constructivas de dilatación horizontales en piso, deberán ser confortables para el tráfico, conformadas por juntas prefabricadas que cumplan con certificación ISO 9001 con capacidad de movimiento de 3% para juntas de 2 cm, 7% para juntas de 3 cm, 10% para juntas de 4 cm, A base de aluminio de alta calidad, insertos de neopreno, con membrana de estanqueidad opcional según el requerimiento de proyecto, se debe prever el acabado final que demande el proyecto.
+
+**Juntas menores a 1.27 cm a 2 cm.** Para muros, pisos y plafones. Las juntas constructivas de dilatación horizontales en plafón y pisos, y verticales en muros interiores o fachadas, deberán considerar una capacidad de movimiento 100% (+-50%), en cumplimiento con las normas ASTM C711 y Din 18542, se debe prever el acabado final que demande el proyecto.
+
+### C. PUENTES DE INSTALACIONES (EN SU CASO)
+
+El diseño, dimensionamiento y construcción debe ser a base de elementos de estructuras metálicas, cuyo diseño debe cumplir con las siguientes especificaciones y criterios de análisis:
+
+Se debe considerar y aplicar que el diseño y dimensionamiento será a base de estructura de acero estructural en sus dos direcciones principales; columnas conformadas según el requerimiento específico, por secciones tubulares HSS (cuadrada o rectangular), circulares, cruciformes o sección I, preferentemente de catálogo o en su defecto secciones formadas por placas (criterio a definir en función de la arquitectura y conciliado con la Oficina de Ingeniería Civil de la DARP), vigas principales con perfiles IPR comerciales o Armaduras y como sistema de piso y cubierta: losa maciza de concreto armado, Clase I, de alta resistencia, con una resistencia mínima a compresión f'c = 250 kg/cm², agregado máximo de 19 mm y relación agua-cemento ≤ 0.40. Considerando las especificaciones descritas en el apartado de superestructura. El acero de refuerzo deberá ser de alta resistencia, con límite de fluencia fy = 4,200 kg/cm², conectada a las vigas metálicas (principales y secundarias) mediante conectores de cortante, así como con lo establecido en la norma vigente y aplicable. En dados y columnas, la cuantía de refuerzo longitudinal deberá estar comprendida entre 1% y 4% del área bruta, con el fin de garantizar un diseño óptimo y evitar modos de falla frágiles.
+
+Se deben diseñar las conexiones y los elementos que conforman la estructura, con el criterio, de soldar en taller y atornillar en campo.
+
+### D. PRETILES Y FALDONES.
+
+Estos deberán ser preferentemente a base de elementos de concreto reforzado, o acorde al sistema constructivo que demande la fachada, que se diseñarán de acuerdo con las especificaciones y criterios de análisis del apartado de superestructura, con una distribución de acuerdo con el proyecto arquitectónico y diseño específico del CECI, al dimensionamiento de las áreas tributarias de captación de aguas pluviales y el nivel de corona mínimo será de acuerdo con la altura de los rellenos de azotea; con las previsiones en las posiciones que resulten procedentes de su utilización como elementos de sujeción y colganteo.
+
+### E. PISOS Y FIRMES.
+
+El diseño, dimensionamiento y construcción se desarrollará a base de concreto reforzado f'c= 200 kg/cm² armados con varilla del número 3 y/o microfibras sintéticas estructurales monofilamento autofibrilante de una combinación de polipropileno y polietileno, con una densidad (specific gravity) de 0.92, longitud de 0.05 cm (50 mm) (2"), con resistencia a ácidos, álcalis y crecimiento de moho, con un módulo de elasticidad de 9.5 GPa (1380 ksi), resistencia a la tensión ASTM D2256 de 600 a 650 MPa (87-94 ksi), punto de ignición ASTM D1929 de 330°C (625°F), baja conductividad eléctrica; con objeto de prever agrietamiento, fisuramientos por dilatación y contracción del concreto y esfuerzos de compresión y flexión. Para preservar una mayor vida útil de los materiales y garantizar un bajo mantenimiento, **no se permitirá** el uso de malla electrosoldada en firmes, debido a su limitada capacidad para el control de fisuración y esfuerzos localizados, su menor ductilidad y capacidad para disipar energía, así como a los posibles problemas constructivos y de calidad que podrían presentarse.
+
+Deben indicarse en el proyecto la especificación que se otorgue a todos los elementos donde se apliquen procedimientos de inclusión en las mezclas, dosificaciones y características, acorde a las especificaciones técnicas del fabricante que se seleccione.
+
+### F. FACHADAS.
+
+Para el caso de fachadas, el Contratista debe considerar desarrollar y presentar a revisión, la memoria descriptiva, el análisis numérico y el diseño del sistema y de cada tipo de elemento, así como las especificaciones técnicas, soluciones de fijación y criterios de anclaje a la estructura, misma que deberán ser consideradas en el o los modelos matemáticos representativos de los cuerpos a diseñar.
+
+### G. EMBLEMAS INSTITUCIONALES Y ASTA BANDERA.
+
+Para estos elementos el diseño y dimensionamiento debe ser a base de elementos de cimentación de concreto reforzado y superestructura metálica, de acuerdo con las especificaciones y criterios de análisis indicados en la materia en los presentes T.R.
+
+Los concretos para la cimentación de los emblemas y asta bandera, serán Clase 1, con una resistencia mínima de f'c=250 kg/cm², con una relación agua-cemento menor o igual a 0.40; sin la adición de aditivos.
+
+### H. MUROS DE CONTENCIÓN.
+
+De ser necesaria la implementación de muros de contención en el proyecto, se deberá prever el diseño y dimensionamiento a base de concreto reforzado, se diseñarán utilizando Cemento Portland Ordinario, Clase I, de alta resistencia, con una resistencia mínima a compresión f'c = 250 kg/cm², agregado máximo de 19 mm y relación agua-cemento ≤ 0.40. El acero de refuerzo deberá ser de alta resistencia, con límite de fluencia fy = 4,200 kg/cm². Considerando los resultados de los estudios del subsuelo. En caso de que el proyecto demande Juntas Constructivas, éstas deberán ubicarse utilizando criterios racionales de: esfuerzos, regularidad y temperatura, que permitan un diseño óptimo, así como de la estanqueidad que pudieran implicar sus condiciones de ubicación, diseño y operación.
+
+### I. BARDAS PERIMETRALES.
+
+Para estos elementos el diseño y dimensionamiento serán a base de elementos de mampostería confinada con castillos y dalas de concreto armado, pudiendo ser estos aparentes o ahogados, mismos que se diseñarán utilizando Cemento Portland Ordinario, Clase I, de alta resistencia, agregado máximo de 19 mm y relación agua-cemento ≤ 0.40. El acero de refuerzo deberá ser de alta resistencia, con límite de fluencia fy = 4,200 kg/cm², así mismo se deberán prever las juntas constructivas que se requieren, en apego al Proyecto Arquitectónico.
+
+La cimentación para las bardas perimetrales deberá considerarse de Clase 1, con una resistencia mínima de f'c=250 kg/cm², con una relación agua-cemento menor o igual a 0.40; sin la adición de aditivos.
+
+### J. CISTERNA(S), CÁRCAMO(S) PLANTA DE TRATAMIENTO DE AGUAS NEGRAS Y TANQUE DE TORMENTAS.
+
+Se debe considerar el cálculo y diseño de los elementos que demande el proyecto, estos componentes serán a base de concreto reforzado y se diseñaran utilizando Cemento Portland Ordinario, Clase I, de alta resistencia, con una resistencia mínima a compresión f'c = 250 kg/cm², agregado máximo de 19 mm y relación agua-cemento ≤ 0.40. El acero de refuerzo deberá ser de alta resistencia, con límite de fluencia fy = 4,200 kg/cm².
+
+El análisis deberá contemplar el diseño por temperatura del concreto para evitar agrietamientos, y la inclusión de microfibras sintéticas estructurales, monofilamento autofibrilante de una combinación de polipropileno y polietileno, con una densidad (specific gravity) de 0.92, longitud de 0.05 cm (50 mm) (2"), con resistencia a ácidos, álcalis y crecimiento de moho, con un módulo de elasticidad de 9.5 GPa (1380 ksi), resistencia a la tensión ASTM D2256 de 600 a 650 MPa (87-94 ksi), punto de ignición ASTM D1929 de 330°C (625°F), baja conductividad eléctrica, los procedimientos de inclusión en las mezclas, dosificaciones y características serán de acuerdo con las especificaciones técnicas del fabricante y con el requerimiento del diseño estructural. Las fibras deberán de cumplir con normas ASTM.
+
+El concreto a considerar para el proyecto será de baja permeabilidad, con objeto de lograr un diseño por alta durabilidad, adicionando un aditivo PRAH (Aditivo Reductor de Permeabilidad) con la finalidad de generar bloqueo de poros en las microgrietas y así evitar la penetración de agua. Asimismo, se debe incluir un aditivo reductor de agua de alto rango o un superplastificante que cumpla con la norma ASTM C 494 tipo F.
+
+Para estructuras de depósito donde se almacene agua potable, se debe considerar una capa impermeable en la cara interna de muros, firmes, juntas, losa fondo y losa tapa de concreto mediante un sistema impermeable anti-hongos. Debe de contar con certificaciones nacionales y/o internacionales que avalen su contacto con agua potable. ASTM.
+
+Para el caso de la Planta de Tratamiento con el fin de lograr un diseño por alta durabilidad y de protección contra lo agresivo del contenido y la acción dañina de los gases que ahí se producen, se debe especificar la aplicación de un recubrimiento protector mineral activo, aplicado a la superficie del concreto donde se producen ácidos fuertes, particularmente ácido sulfhídrico que evoluciona a ácido sulfúrico, que proporcione esencialmente la protección contra la acción de deterioro que degradan los componentes del concreto; debiendo indicarse la especificación que se otorgue en el proyecto, al igual que en todos los elementos donde se aplique esta tecnología, los procedimientos de inclusión en las mezclas, dosificaciones y características serán de acuerdo a las especificaciones técnicas del fabricante que se seleccione en obra.
+
+### K. DESALOJO DE AGUAS PLUVIALES.
+
+El Contratista debe desarrollar el sistema de desalojo de aguas pluviales con base en los resultados del Estudio de Mecánica y de acuerdo con lo indicado en la Cédula de Servicios.
+
+### L. CUARTO DE MÁQUINAS
+
+El diseño y dimensionamiento se desarrollará considerando las especificaciones y criterios de análisis de los apartados de cimentación y superestructura.
+
+### M. CUARTOS DE BASURA Y CASETA DE VIGILANCIA (EN SU CASO)
+
+Para los Cuarto de Basura y Casetas de Vigilancia (en su caso), se deben diseñar a base de muros de carga de mampostería confinados con dalas y castillos de concreto armado, pudiendo ser estos aparentes o ahogados, se diseñarán utilizando Cemento Portland Ordinario, Clase I, de alta resistencia, con una resistencia mínima a compresión f'c = 250 kg/cm², agregado máximo de 19 mm y relación agua-cemento ≤ 0.40. Como sistema de pisos y cubiertas se empleará losa maciza de concreto armado. El acero de refuerzo deberá ser de alta resistencia, con límite de fluencia fy = 4,200 kg/cm². Los concretos para los castillos y dalas de los muros de carga serán Clase 1, con una resistencia mínima de f'c=200 kg/cm² con una relación agua-cemento menor o igual a 0.40.
+
+### N. BASES Y SOPORTERÍA DE EQUIPOS.
+
+El diseño y dimensionamiento, se desarrollará a base concreto reforzado Clase 1, con una resistencia mínima de f'c=200 kg/cm² con una relación agua-cemento menor o igual a 0.40. Para el caso de la soportería de equipos el diseño, dimensionamiento y construcción debe ser a base de elementos de estructuras metálicas, cuyo diseño debe cumplir con las especificaciones del apartado de superestructura.
+
+### O. TERRAPLENES, MOVIMIENTOS DE TIERRA Y MEJORAMIENTO DEL TERRENO.
+
+Se debe elaborar el proyecto de terraplenes, movimientos de tierra y mejoramiento del terreno, de acuerdo con las características del terreno, condiciones y nivel de vialidades exteriores, instalaciones (redes de drenaje, agua potable, etc.) existentes dentro del predio, colocando el nivel de rasante necesario para garantizar la prevención de riesgos de inundabilidad. Las calidades y el proceso constructivo del terraplén y los mejoramientos de suelo deberán considerar las recomendaciones escritas en los estudios de mecánica de suelos, de pavimentos y cédula de Servicios correspondientes. El análisis y diseño se basará en el Plano de Conjunto de Niveles Arquitectónico autorizado.
+
+### P. PAVIMENTOS Y ESTACIONAMIENTOS.
+
+El diseño y dimensionamiento deberá considerar la aplicación de microfibras sintéticas estructurales monofilamento autofibrilante de una combinación de polipropileno y polietileno, con una densidad (specific gravity) de 0.92, longitud de 0.05 cm (50 mm) (2"), con resistencia a ácidos, álcalis y crecimiento de moho, con un módulo de elasticidad de 9.5 GPa (1380 ksi), resistencia a la tensión ASTM D2256 de 600 a 650 MPa (87-94 ksi), punto de ignición ASTM D1929 de 330°C (625°F), baja conductividad eléctrica para evitar agrietamientos y en función a lo indicado por el Estudio de Pavimentos, proporcionado por el IMSS, debiendo diseñarse en concreto hidráulico, considerando una vida útil de al menos 20 años. Las microfibras sintéticas deberán cumplir con normas ASTM.
+
+#### CONCEPTOS DE CÁLCULO:
+
+##### a. Diseño de entrepisos.
+
+###### Análisis y Diseño por Cargas Gravitacionales.
+
+Debe considerarse en el análisis de cargas, las cargas permanentes, peso propio de la estructura, incluyendo fachadas, bases y equipos electromecánicos, equipo propio del inmueble, más lo indicado por la reglamentación vigente y aplicable en la localidad o la del RCDF y sus NTC (debiendo aplicar los valores más críticos, para garantizar la estabilidad y seguridad de la estructura ante cualquier condición previsible), debiendo adicionar las siguientes consideraciones:
+
+*   Densidad de muros no estructurales: 1,700 kg/m3
+*   Para muros de tabla-yeso o equivalente: 1,300 kg/m3
+*   Acabado de pisos: \*52.5 kg/m² \*(corresponde a mármol de 2.5cm).
+*   Peso de Instalaciones: 40 kg/m².
+*   Peso del falso plafón: 30 kg/m².
+*   Sobrecarga Norma IMSS: 40 kg/m².
+*   Trabes de cubo de escaleras y/o elevadores: 300kg/m.
+*   Carga viva máxima: 250 kg/m².
+*   Carga viva máxima (pasillos, rampas, vestíbulos): 350 kg/m²
