@@ -797,3 +797,161 @@ Debe integrarse la documentación y simbología correspondiente a la accesibilid
 **b.3. Imagen Institucional.**
 El Contratista debe representar en planos, como mínimo, los siguientes elementos:
 *   Tapete de recepción (diseño, especificaciones y ubicación).
+*   Calcomanías vinílicas (especificaciones y ubicación).
+*   Logos y letreros institucionales.
+
+**c. Paquete de Diseño.**
+El Contratista debe elaborar y entregar el Paquete de Diseño, mismo que debe coincidir con los proyectos de Equipamiento, Señalamiento, Guías Mecánicas y Protección Civil, así como las Guías de Dotación y los Concentrados para el Proyecto de Mobiliario.
+
+Los formatos por utilizar en el desarrollo Paquete de Diseño, así como las revisiones y sus validaciones, serán los autorizados por las Áreas Normativas del IMSS, para la parte correspondiente del Paquete de Diseño relacionada a los Suministros de Especificaciones de Señalamiento de: Ambientación, Imagen Institucional, Accesibilidad y Protección Civil (en sus tres subespecialidades), se verán en sus apartados correspondientes y se integrarán a una sola Carpeta.
+El Paquete de Diseño está conformado como mínimo por los siguientes documentos, salvo que el Área Normativa indique algún otro alcance adicional.
+
+**c.1. Relación de Locales por Equipar.**
+Identificar en el formato correspondiente cada una de las Áreas, Servicios y Locales a equipar.
+
+**c.2. Guías de Dotación de Acomodo de Equipo y Mobiliario.**
+En este formato se debe indicar todo el Mobiliario, Servicio y Local de acuerdo con el Modelo Continuo de Equipamiento y planos generados de Mobiliario y Guías Mecánicas, incluyendo los siguientes conceptos:
+
+*   Mobiliario Hecho en Obra (OBR).
+*   Artículos de Servicios Generales Delegacionales (SGD).
+*   Artículos Sin Clave (S/C), suministrados e instalados por el Contratista.
+*   Artículos suministrados por la Dirección de Innovación y Desarrollo Tecnológico (DI y DT).
+*   Artículos y Accesorios para suministrar por el Contratista de Obra Pública, Muebles Hechos en Obra, Mobiliario sobre Diseño).
+
+Los bienes indicados deben ser ordenados por Grupo de Suministro, (511, 513, 515, 517, 519, sucesivamente).
+
+**c.3. Concentrado de Artículos (Mobiliario y Equipo).**
+El Concentrado de Artículos debe clasificarse de acuerdo con el Grupo de Suministro 511, 513, 515, sucesivamente, mismo que contendrá: Clave, Descripción del Bien y Cantidad, esta última corresponderá a la suma total de los Bienes considerados en los locales.
+
+**c.4. Concentrado de Mobiliario de Diseño (Acero Inoxidable).**
+Este Concentrado correspondiente a los Muebles de Diseño (mesas de trabajo con tarja y/o mesas de trabajo lisas), debe clasificarse de acuerdo con el Grupo de Suministro 513, 515, 517, sucesivamente, mismo que contendrá Clave, Descripción del Bien y Cantidad, esta última corresponderá la suma total de los Bienes considerados en los locales.
+
+**c.5. Concentrado de Mobiliario Hecho en Obra.**
+Este Concentrado (tanto para Guías Mecánicas, como para Mobiliario y Equipo) corresponde a los Muebles de Diseño Hechos en Obra y Muebles Sobre Diseño (OBR., MSD), debe clasificarse de acuerdo con la clave, mismo que contendrá: Clave, Descripción del Bien y Cantidad, esta última corresponderá la suma total de los Bienes considerados en los locales.
+
+**c.6. Concentrado de Mobiliario para la Contratación de Servicios Integrales a través del OOAD.**
+Este concentrado corresponde al mobiliario suministrado, se identificarán con la clave SGD, Descripción del Bien y Cantidad total de los Bienes considerados en los locales, tomar como ejemplo la Guía de Equipamiento y el Emplazamiento validado.
+
+**c.7. Concentrado de Artículos D.I. y D.T.**
+Este Concentrado corresponde a la cuantificación total de equipo suministrado por la Dirección de Innovación y Desarrollo Tecnológico, como son Estaciones de Trabajo, Impresoras, etc. se identificarán con la clave D.I. y D.T.
+
+**c.8. Concentrado de Artículos Sin Clave.**
+Corresponde a la cuantificación total de Artículos Sin Clave (en el SAI ni en el PREI) suministrados por el Contratista que resulte designado para llevar a cabo los trabajos de construcción del Servicio.
+
+**c.9. Especificaciones para el Suministro de Cortinas.**
+En este formato se debe indicar lo siguiente:
+*   Tipo de Cortina a emplear: Antibacteriana y/o Decorativas (PVC).
+*   Dimensiones.
+*   Abatimiento: Abre de Izquierda a Derecha o Derecha a Izquierda.
+*   Local donde se ubicará.
+*   Especificaciones de materiales.
+
+**c.10. Especificaciones para el Suministro de Señalamiento Institucional.**
+El Contratista debe especificar los elementos de acuerdo con el formato de cada módulo y a la normatividad vigente, con su simbología, materiales y dimensiones, estos corresponderán con el proyecto de Señalamiento y Ambientación, mismos que a continuación se describen:
+
+*   Señalamiento Interior (Indicativo, Informativo, Restrictivo, Educativo).
+*   Señalamiento Exterior (Indicativo, Conductivo, Informativo, Restrictivo, Educativo).
+*   Directorio General y por Piso.
+*   Calcomanías vinílicas (en su caso).
+*   Tapete de acceso (en su caso).
+*   Macetones y Plantas por utilizar (en su caso).
+
+**c.11. Especificaciones para el Suministro de Señalamiento de Protección Civil.**
+El Contratista debe especificar y optimizar los elementos de acuerdo con el formato, en concordancia a cada módulo y a la normatividad vigente, con su simbología, materiales y dimensiones, mismos que corresponderá con el proyecto de Protección Civil (rutas de evacuación, señalización y equipamiento) que a continuación se describen:
+*   Señalamiento de Protección Civil Interior y Exterior (Conductivo, Informativas, Restrictivas y Prohibitivas).
+*   Detalle constructivo para armado de señalamiento conforme a CPA para señalización de Unidades Médicas 2006 y módulo de señalamiento.
+*   Detalles de señalamiento en apego a la NOM-003-SSPC-2011.
+
+**c.12. Especificaciones para el Suministro de Señalamiento de Accesibilidad.**
+*   Placas de señalamiento con texto braille en sanitarios.
+*   En su caso, señalamiento en poste de uso exclusivo en cajones de estacionamiento para personas con discapacidad, así como rampas de acceso.
+
+**c.13. Especificaciones para el Suministro de Señalamiento vial en Poste.**
+*   En su caso, señalamientos en poste de "Acceso estacionamiento, no estacionarse, estacionamiento de bicicletas".
+
+**Guías Mecánicas.**
+*   Las Guías Mecánicas deben elaborarse, documentándose en las plantas arquitectónicas, alzados, detalles, especificaciones técnicas, equipos, mobiliario, tabla de consumos electromecánicos, simbologías actualizadas, autorización de la guía, pie de plano.
+*   Las Guías Mecánicas deben especificar y ubicar el equipo y mobiliario, a manera de hacer eficientes los procesos de operación. Asimismo, el proyecto debe incluir en forma precisa y detallada todas las especificaciones técnicas de fluidos y energéticos para cada uno de los equipos que se instalan en los locales que lo requieren.
+*   El proyecto de Guías Mecánicas debe apegarse a la Normatividad de Arquitectura del IMSS y a lo indicado y validado por las Áreas Normativas del IMSS.
+*   El Contratista debe entregar la Información Técnica que soporte y complemente las decisiones tomadas durante el desarrollo del PE. Identificando con la leyenda: "Ver Guía Mecánica" o "Ver Guía Mecánica de Proveedor".
+*   En el caso que las Guías Mecánicas lo demanden, se deben realizar los detalles en corte o alzado a fin de esclarecer la forma de la instalación del Mobiliario y/o de los Equipos.
+*   El equipo debe ser representado gráficamente con dimensiones reales, así como la ubicación y dimensión de sus conexiones ya sean de cualquier tipo de instalación electromecánica, de acuerdo con las especificaciones técnicas de la Guía de Equipamiento proporcionada por la CSGDI, señalando las notas precautorias para su instalación.
+*   El proyecto de Guías Mecánicas debe apegarse a la Normas Oficiales Mexicanas aplicables y vigentes, así como a las Normas de Arquitectura del IMSS y a lo indicado y validado por las Áreas Normativas del IMSS.
+
+**a. Requisitos para el desarrollo del Proyecto de Guías Mecánicas.**
+Con base al proyecto autorizado, las Áreas Normativas del IMSS determinarán los servicios y locales que requieran su elaboración.
+
+*   La Guía Mecánica debe elaborarse de acuerdo con las necesidades de cada servicio, presentando un desarrollo secuencial en cada plano, de tal forma que el constructor y el personal técnico pueda interpretar fácilmente todas las etapas técnicas necesarias para la operación del servicio.
+*   Los planos de Guías Mecánicas deben representar todas las cotas necesarias para la ubicación de equipo y mobiliario en relación con el espacio físico del servicio, así como indicar los datos técnicos para su ejecución, niveles de plafón, niveles de piso, cotas generales del Servicio, elementos estructurales, accesos, restricciones de operación, (considerando los señalamientos y aplicaciones de las normas Institucionales y, en su caso, normas Internacionales), de igual forma se ubicarán todas las alimentaciones electromecánicas requeridas por cada uno de los equipos y mobiliario que conforman el Servicio y que así lo demanden (pisos, muros, plafones).
+*   El proyecto de Guías Mecánicas debe acotar, en su caso, las áreas que les corresponda el desarrollo de una Guía Mecánica de proveedor, delimitando el área con una línea punteada donde quede ubicado la leyenda “Ver Guía Mecánica del Proveedor”.
+
+#### 7.3.10 PROYECTOS DE INGENIERÍA CIVIL Y ELECTROMECÁNICA.
+
+Los licitantes deben considerar en la elaboración de su proposición técnico-económica la aplicación de lo indicado a continuación:
+El contratista debe desarrollar los proyectos de las especialidades de Ingeniería Civil y los Proyectos de las Ingenierías; Eléctrica, Hidráulica, Sanitaria, Aire Acondicionado y de Telecomunicaciones, así como lo que resulte del Proyecto Ejecutivo, con base al AP autorizado, así como los criterios de funcionalidad e imagen institucional solicitados en los presentes T.R., incluyendo los de ingeniería de detalle, alzados, cortes, isométricos, chequeo cruzado de las instalaciones, así como los documentos técnicos, tales como: Memorias Descriptivas, Memorias de Cálculo, Especificaciones Técnicas de Equipos, Materiales y Procedimientos Constructivos, los Estudios Específicos y toda la documentación e información requerida para el desarrollo de los proyectos de Equipamiento, Guías Mecánicas, Protección Civil y de las Ingenierías mencionadas para la gestión y obtención de permisos y licencias, así como para su construcción, suministro e instalación de equipos de instalación permanente y asociado a obra del CECI.
+Asimismo, se recalca que las marcas de los equipos mecánicos, electrónicos y/o electromecánicos, así como las correspondientes a materiales; mobiliario; accesorios y sistemas constructivos a especificar en el proyecto ejecutivo serán de referencia, debiendo indicar que estas podrán ser similares, entendiendo por lo anterior, aquellas que cumplan como mínimo con las mismas especificaciones técnicas, de calidad, duración y garantía de servicio que la marca señalada como referencia, de acuerdo a lo establecido en el artículo 193 del Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+#### 7.3.11 Ingeniería Civil (2.3.1)
+
+Tomando como referencia el Proyecto prototipo proporcionado por el Instituto, en cuanto a la organización funcional, la logística de servicios y los objetivos principales, estos deberán mantenerse como lineamientos generales; sin embargo, el Contratista debe considerar que cada nuevo CECI requerirá un proceso de adecuación técnica que considere las condiciones particulares del sitio, los requerimientos normativos aplicables y las necesidades específicas de atención.
+
+Los licitantes deben considerar en su propuesta técnico-económica la elaboración del proyecto estructural (Ingeniería Civil), cuyo Análisis y Diseño desarrollará el Contratista, mismo que debe considerar que el inmueble en cada uno de sus cuerpos y componentes pertenecen al Grupo “A”, utilizando un programa computarizado reconocido (ETABS, ECO, SAP2000 o ANEM) y de reciente generación para el diseño y cálculo estructural, el cual debe contar con licencia vigente.
+
+Las revisiones normativas se efectuarán en las oficinas del Instituto, para tal efecto el profesionista del Contratista deberá presentar el equipo de cómputo en el que tenga instalado el programa y en su caso el centinela para su correcto funcionamiento. Equipo en el que se efectuarán las revisiones técnicas al o los modelos matemáticos representativos de los cuerpos a diseñar (datos de entrada, resultados, entre otros). Debiendo considerarse el obligatorio desarrollo de una reunión técnica de trabajo al inicio del período contractual de los presentes Servicios Relacionados con la Obra Pública, entre los especialistas de la contratista y los de la DARP, con objeto de fijar los criterios de análisis, tipo de estructuración, revisión y los detalles del producto.
+
+El Contratista debe desarrollar la ingeniería desde el punto de vista estructural y constructivo, con referencias y detalles claros y precisos, de tal forma que satisfaga los requerimientos del IMSS, adquiriendo la obligación de diseñar una estructura que garantice la seguridad de la edificación y de los usuarios, en cumplimiento de la normatividad y reglamentación vigente y aplicable en materia Local, Estatal, Federal e Institucional del IMSS; o en caso necesario, se empleará supletoriamente el de la Ciudad de México, y las que estén vigentes a la fecha del desarrollo y revisión de los análisis y diseños.
+
+Para el análisis y diseño, cuando existan diferentes valores aplicables, resultado de diversos criterios, teorías, estudios, manuales o reglamentos, el Contratista deberá emplear los valores más críticos que brinden la mayor seguridad al inmueble por construir, a efecto de no colocar en posibilidad de riesgo la estabilidad de la estructura.
+
+El Contratista debe incluir en los planos, según su contenido: notas generales y particulares para el concreto y el acero de refuerzo estructural, las especificaciones e indicaciones para la cimentación y superestructura o del sistema de elementos estructurales prefabricados, y en su caso características especiales como son: las de concreto, elementos estructurales prefabricados (procedimiento constructivo y de montaje, secuencia constructiva y equipo requerido, conexiones entre prefabricados y anclaje a cimentaciones, tolerancias de fabricación y montaje, numeración e identificación de todos los elementos prefabricados, documentación de soporte con certificados de materiales y prefabricados, manual de operación y mantenimiento y seguridad de la estructura, cronograma de montaje y recomendaciones de supervisión y lo que se requiera), soldaduras, curado, juntas frías, juntas de dilatación, así como también la capacidad de carga del terreno, el tipo de suelo, parámetros sísmicos y los datos de entrada considerados en el análisis estructural, incluyéndolo en el cuadro de notas de los planos, croquis esquemático en planta arquitectónica de conjunto, orientación geográfica, planta y alzado del cuerpo analizado donde se indique el área resuelta.
+
+El diseño, fabricación, transporte, montaje y aseguramiento de la calidad de todos los elementos estructurales de concreto a base de prefabricados deberá cumplir, como mínimo, con la totalidad de la normatividad técnica y constructiva vigente en territorio nacional, así como con los lineamientos específicos establecidos por el Estado o Municipio donde se ubique la obra, en su versión vigente, así como en las Normas Técnicas Complementarias para Diseño y Construcción de Estructuras (NTC 2023 y actualizaciones) para estructuras de acero y concreto, diseño por sismo y diseño por cargas gravitacionales. Asimismo, deberán cumplirse las Normas Oficiales Mexicanas en materia de seguridad estructural, accesibilidad, instalaciones eléctricas, condiciones de seguridad en los procesos constructivos y control de riesgos, entre ellas la NOM-022-STPS, NOM-001-SEDE y demás que resulten aplicables según la naturaleza del proyecto, considerando la clasificación de ocupación Grupo A.
+
+De igual manera, el diseño y ejecución de los sistemas prefabricados deberán sujetarse a las Normas Mexicanas emitidas por el Organismo Nacional de Normalización y Certificación de la Construcción y Edificación (ONNCCE) y por otros organismos reconocidos, que regulan los elementos prefabricados de concreto, sus procedimientos de fabricación y los requisitos de desempeño y control de calidad. Entre ellas, se encuentra la NMX-C-155-ONNCCE para elementos prefabricados de concreto, NMX-C-159-ONNCCE para juntas y conexiones en prefabricados, NMX-C-405-ONNCCE relativa al concreto estructural prefabricado, así como las normas de muestreo, ensayo y verificación de la calidad del concreto (NMX-C-083, NMX-C-122 y demás aplicables).
+
+Adicionalmente, deberán considerarse los lineamientos técnicos y recomendaciones reconocidas a nivel nacional e internacional para los sistemas prefabricados, tales como los criterios establecidos por el IMCYC, ICIC, ACI y PCI, en aquellos aspectos no normados explícitamente por la regulación mexicana, siempre y cuando no contravengan las disposiciones oficiales y sean previamente conciliados con los especialistas de la DARP.
+
+Cualquier solución estructural prefabricada deberá presentar los planos estructurales con las especificaciones constructivas y procedimientos de montaje, asegurando la correcta integración del sistema prefabricado al resto de la estructura del inmueble. El diseño debe contener, como mínimo, los planos estructurales con las plantas, cortes, elevaciones, detalles de conexiones, anclajes, procedimientos de montaje, secuencia constructiva, numeración e identificación de todos los elementos, y todo lo que se requiera para la correcta ejecución en obra, así como los ensayos necesarios de control de calidad (resistencia, durabilidad, dimensiones, etc.) y la certificación de los materiales con los que deben cumplir los elementos estructurales antes de su entrega y durante el montaje.
+
+El diseño que involucren elementos estructurales de acero debe contar con una protección pasiva contra fuego, que otorgue cumplimiento al requerimiento reglamentario de protección a 3 hrs. a 927°C, y en atención a la Norma Mexicana NMX-C-307-1-ONNCCE- 2016 (para aspectos de temperaturas y tiempo de protección). La especificación será: a base de material cementicio en elementos no aparentes o recubrimiento ignífugo intumescente en elementos aparentes. Los materiales del sistema a utilizar deberán contar con certificación de cumplimiento con los estándares reconocidos y de acuerdo al tipo de material por aplicar.
+
+Los cuales para el caso de recubrimiento ignífugo intumescente son: UL 263 (Underwriter Laboratories), ASTM E-119 (American Society for Testing and Materials) o BS-476 (British Standards), FM Global DS1-21 (Factory Mutual Global)); y contar con diseños específicos de acuerdo con la masividad de los elementos a proteger, conforme al diseño UL-Y665, Y725, o similar, para columnas y; N659, N791 o similar, para vigas y trabes emitidos por de UL., o Warringtonfire, o alguna otra entidad certificadora reconocida por American National Standards Instituto (ANSI) particularmente por ANSI National Accreditation Board (ANAB), o equivalente.
+
+Para el caso a base de material cementicio, son: UL 263 (Underwriter Laboratories), diseños específicos Y707, D771, Y708 o BS-476 (British Standards) bajo la Normativa de Ensayo EN 13381-4 y EN 13381-5.
+
+Debiendo privilegiarse el uso de productos de bajo VOC, en beneficio del criterio de sustentabilidad que guarda el presente proyecto. El procedimiento de aplicación debe garantizar el correcto funcionamiento del producto. Así como, en su caso, la protección anticorrosiva que pudiese resultar necesaria y compatible con la protección contra fuego especificada.
+
+En caso de que, como resultado del análisis estructural, sea necesaria la implementación de elementos de contraventeo para garantizar la estabilidad del sistema estructural, su ubicación y configuración deberán diseñarse de manera que no interfieran con la composición arquitectónica del inmueble, la modulación de fachadas, la iluminación natural, las áreas de circulación, los pasillos, accesos, patios de maniobra o cualquier otro espacio destinado a la operación y funcionalidad del CECI. Cualquier propuesta de contraventeo deberá justificarse técnicamente, integrarse de forma armónica al proyecto arquitectónico y contar con la validación de las áreas de Ingeniería Civil y Arquitectura de la DARP.
+
+Para el desarrollo de las soluciones estructurales, el contratista deberá aplicar los procesos y resultados de los estudios de campo: topográficos, geofísicos y geotécnicos, que se le entregaran para tomarlos como base en el desarrollo de la partida de análisis, selección y diseño (en su caso) de los sistemas de cimentación y sistema estructural, los cuales deberán concebirse bajo principios de innovación y eficiencia tecnológica probada, de un diseño racional con criterios de desempeño, durabilidad, comportamiento, estabilidad a largo plazo y seguridad.
+
+Debiendo el Contratista especificar en planos de cimentación o de superestructura: niveles de desplante, muros de contención de cualquier tipo (muros tipo Milán o equivalentes, muros de respaldo o dobles de vista, de sótanos, cisternas, plantas de tratamiento, estelas de identificación institucional, etc.); y su adecuado anclaje, así como detalles; que se deriven al considerar las condiciones topográficas y de conformación de los estratos subyacentes en el área y el entorno de influencia del desplante de los edificios.
+
+En el desarrollo del diseño estructural, se debe considerar como nivel de piso terminado de la Planta Baja, el determinado por el área de arquitectura, el cual ya habrá descartado cualquier posibilidad de inundabilidad.
+
+El Proyecto Ejecutivo que resulte de esta especialidad, en sus planos, memorias, especificaciones y demás documentos técnicos, constituye el único referente válido para la ejecución de la obra. Cualquier modificación, sustitución de materiales, cambio de dimensiones, alteración de detalles constructivos o variación en especificaciones técnicas queda estrictamente prohibida durante la etapa de construcción, salvo que exista autorización previa, por escrito, emitida por la instancia normativa correspondiente. Toda ejecución que se realice sin dicha autorización será responsabilidad exclusiva del Contratista, incluyendo todos los costos y afectaciones al programa de obra que esto implique.
+
+Los criterios de estructuración se definen en cada una de las siguientes partidas:
+
+**A. CIMENTACIÓN.**
+Se deben considerar como el sistema completo de cimentación de todos los cuerpos del CECI, con elementos de concreto reforzado, en su caso podrán ser pilas, pilotes, zapatas, cajones, losa de cimentación, contratrabes, trabes de liga, cimentaciones mixtas, todas conforme y acorde a los resultados y recomendaciones que arroje la mecánica de suelos; el sistema deberá ser congruente con la estructura por diseñar. Para las especificaciones de la mezcla del concreto, el contratista deberá contemplar Cemento Portland Ordinario, Clase I de alta resistencia, tomando como mínima la resistencia f’c=350 kg/cm², agregado máximo de 19 mm, con una relación agua-cemento menor o igual a 0.40, así como prever la adición de un aditivo PRAH (Aditivo Reductor de Permeabilidad (certificado), debiendo indicarse la especificación que se otorgue por parte del fabricante que se seleccione en obra. Las juntas frías de colado deberán especificarse con la colocación de una cinta de bentonita preformada (o junta hidrofílica) de 1” x 0.5” de sección; o de un sello de agua expandible para juntas de construcción de concreto. Debiendo considerar todo lo que implique la instalación y correcta operación de los aisladores de base, tanto en componentes o diseños adicionales estructurales, como en materia de instalaciones electromecánicas (juntas flexibles, soportaría, registros suspendidos, etc.). En dados y columnas, la cuantía de refuerzo longitudinal deberá estar comprendida entre 1% y 4% del área bruta, con el fin de garantizar un diseño óptimo y evitar modos de falla frágiles.
+
+**B. SUPERESTRUCTURA (COLUMNAS, TRABES, SISTEMA DE PISO Y DE CUBIERTA).**
+El Contratista deberá considerar el diseño de los diferentes cuerpos a diseñar del CECI (Cuerpo Principal, Cuarto de Máquinas, cuartos de equipos, etc.), el Contratista deberá considerar y aplicar que el diseño y dimensionamiento será a base de marcos de acero estructural en ambas direcciones, conforme a lo siguiente:
+
+*   Estructura de acero, deberá ser en sus dos direcciones principales; conformadas según el requerimiento específico, por secciones tubulares HSS estructural (cuadrada o rectangular), circulares, cruciformes o sección I, preferentemente de catálogo, vigas principales con perfiles IPR o Armaduras. Las conexiones de la superestructura podrán ser atornilladas en campo y/o soldadas en taller, para el caso de utilización de soldadura deberá contemplarse la serie E 70 XX, así como para el fondeo E 6010, dando cumplimiento a la reglamentación de la AWS. Se deberán tomar en cuenta las siguientes especificaciones para el diseño:
+
+    *   Acero para placas de conexión: A572, Grado 50, fy= 3,515 kg/cm2.
+    *   Acero para placas resistente a la corrosión: A-709 Grado 50, fy= 3,515 kg/cm2.
+    *   Acero para perfiles (ángulos y canales): A 529, Grado 50, fy= 3,515 kg/cm2.
+    *   Acero para Perfiles (IR): A572 Grado 50, o A992, fy= 3,515 kg/cm2.
+    *   Acero para Perfiles conformados en frío (OC y OR): A1085, fy= 3,515 kg/cm2.
+    *   Acero para Perfiles conformados en frío (CF y ZF): A1008, Grado 50, fy= 3,515 kg/cm2.
+
+Los aceros para tornillos, arandelas y tuercas deben ser de:
+*   Grado A325/A325M, o Grado A490/A490M
+
+Y deben cumplir con las normas:
+*   NMX-H-124, NMX-H-123 respectivamente y que ambas equivalen a la ASTM F3125
+
+*   Sistema de cubierta, el sistema de cubierta será a base de paneles de concreto prefabricado apoyados sobre la estructura principal conformada por marcos de acero estructural en ambas direcciones. El cálculo, modelación y detallado de la solución propuesta deberán cumplir con los criterios establecidos para edificaciones clasificadas dentro del Grupo A, conforme a la normativa vigente. El sistema deberá garantizar la adecuada integración estructural entre los elementos prefabricados y la estructura metálica, asegurando la función del diafragma (rígido o semirrígido), el control de deflexiones y derivas, la continuidad de las cargas verticales y laterales, y el cumplimiento de los estados límite de servicio y de falla establecidos por el Reglamento de
