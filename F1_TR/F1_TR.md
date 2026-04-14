@@ -1670,4 +1670,294 @@ Además de la instalación de Red Ethernet, el proyectista debe considerar la in
 
 Los servidores de archivos deben dar servicio a todas las estaciones de trabajo locales y cualquier otro dispositivo conectado a la red, concentrando todo el software (sistemas operativos, administrador de redes, bases de datos, aplicaciones, licencias), estos equipos deben ser capaces de compartir sus archivos con todos los usuarios conectados de acuerdo con privilegios aprobados.
 
-Para el sistema de informática, se deben integrar los servidores de archivos para las soluciones en IT que demanden los servicios del Centro de Cuidado y Atención Infantil, considerando un servidor por cada 200 nodos de Datos y Vo.IP-D que se encuentren contenidos en proyecto, tomando en cuenta, como mínimo la siguiente especificación: Procesador Intel
+Para el sistema de informática, se deben integrar los servidores de archivos para las soluciones en IT que demanden los servicios del Centro de Cuidado y Atención Infantil, considerando un servidor por cada 200 nodos de Datos y Vo.IP-D que se encuentren contenidos en proyecto, tomando en cuenta, como mínimo la siguiente especificación: Procesador Intel Xeon Mod. E5-2600 v4 (hasta 22 núcleos), 100 GB de memoria DDR4 a 2.400 MT/s (hasta 1,5 TB), Sistema Operativo Microsoft® Windows Server® 2012 (como mínimo, enunciativo más no limitativo), SP2, 50 TB mediante discos duros NL SAS, 2 puertos en tarjeta de interfaz de red 10 +2 GbE, chasis para montaje en rack, refrigeración y fuente redundante.
+
+Notas:
+*   El **PE** debe especificar que el **Contratista** que resulte designado, suministrará todas las licencias del uso de software requeridas para todos los equipos y sistemas que comprende la partida de Ingeniería de Telecomunicaciones (Sistema de CCTV, Telefonía e Informática).
+*   El **PE** debe especificar que el **Contratista** que resulte designado debe de incluir todas las licencias y permisos del sistema operativo requeridos para dar operabilidad a todos los servidores (Windows Server 2025) y estaciones de trabajo (Windows 11 versión 24H2).
+*   El **PE** debe especificar que el **Contratista** que resulte designado debe incluir una plataforma en software y hardware que integre elementos de seguridad lógica y física para los equipos de informática.
+*   Todas las licencias deberán ser sin costo y/o vitalicias consideradas desde el origen del PE.
+
+#### 4. Generalidades:
+
+Para la propuesta de los servicios de Telefonía y de Informática deben ser instaladas con una caja registro de salida por cada usuario final, a una altura de 40 cm. s.n.p.t., de dimensiones de 4"x4" (0.10 m x 0.10 m x .035 m) y 6"x 6" (0.125 m x 0.12 m x 0.055 m) con marco reductor, debidamente identificada.
+
+Se deben indicar registros de paso y/o distribución a lo largo de toda la trayectoria, desde el Distribuidor y/o escalerilla de Telecomunicaciones, de acuerdo con la NOM-026-STPS-2008.
+
+El local de la Central de Telecomunicaciones debe quedar alejado de fuentes electromagnéticas o vibratorias, así como de áreas húmedas, evitando trayectorias de otras instalaciones a través de ésta.
+
+Todos los equipos del sistema de telefonía e informática deberán estar conectados a un sistema de puesta a tierra física independiente, diseñado específicamente para sistemas electrónicos, con una resistencia de puesta a tierra menor o igual a 1.0 Ω (un ohm).
+
+Asimismo, este sistema de tierra electrónica deberá estar interconectado al sistema de puesta a tierra del sistema de instalaciones eléctricas, mediante conexiones soldables o mecánicas, conforme a lo establecido en la **NOM-001-SEDE-2018**.
+
+#### Sistema de Voceo y Sonorización.
+
+Este sistema está dedicado para la localización de personas, mensajes y música ambiental, debiendo cubrir todas las áreas en GS, excepto todas aquellas que por Normas de Diseño de Instalaciones de Telecomunicaciones no sean requeridas.
+
+Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto.
+
+La Red de Distribución del Sistema prevé tres circuitos principales:
+
+*   Áreas administrativas.
+*   Áreas técnicas y operáticas.
+*   Vestíbulos, Salas de Espera y Áreas Comunes.
+
+Los circuitos se deben identificar uno del otro asignándole una letra en la canastilla de los baffles que le correspondan a cada uno de ellos, debiendo todos ellos conformar el circuito de voceo general.
+
+Las líneas de alimentación de los circuitos del sistema se conectan a la línea de 70 Vca del amplificador general, por medio del conmutador de zonas del micrófono; asimismo, se deben instalar los amplificadores-reforzadores de señal, si fuesen necesarios. El equipo principal se montará en rack de 7 pies de alto por 19 pulgadas de ancho, controlado y administrado por personal de operadoras y/o gobierno.
+
+Los circuitos de la red de sonorización deben ser especificados con cable dúplex polarizado calibre 16 AWG-LS, canalizados y protegidos con los tubos conduit, pared gruesa, galvanizada. Los registros deben ser de lámina galvanizada calibre número 18.
+
+El equipo fuente del sistema de sonido deberá cumplir con las regulaciones del estándar EN54, que establece los requisitos para sistemas de voz utilizados en evacuaciones, garantizando que la transmisión de voz para la evacuación sea clara y audible en todas las zonas requeridas. Este equipo fuente podrá consistir en varios dispositivos independientes o, alternativamente, en un solo equipo que integre todas las funciones necesarias como lo son recepción AM/FM, reproductor multi-medios, amplificador multicanal de salida a 70 y 100V, atenuador de sonido, y micrófono con selector multizona.
+
+#### Sistema de Detección de Incendio.
+
+El sistema de detección de incendios deberá cumplir con las siguientes aprobaciones y normativas:
+
+*   UL 864 (Estándar de seguridad contra incendios para unidades de control de sistemas de señalización de protección contra incendio),
+*   El reglamento de obras e instalaciones de la SECOFI (Secretaría de Comercio y Fomento Industrial),
+*   NFPA 72 (Código Nacional de Alarmas de Incendio de la National Fire Protection Association) para sistemas de incendio local, auxiliar, estaciones remotas, propietarios y sistemas de alarmas/voceo de emergencia,
+*   El artículo 760 de la NEC (National Electrical Code),
+*   Normativas de la ULC (Underwriters Laboratories of Canadá) y FM (Factory Mutual) para sistemas de detección y protección contra incendios en edificaciones de alto riesgo.
+
+El sistema deberá estar diseñado de acuerdo con los lineamientos y recomendaciones más actuales y estrictas, garantizando el cumplimiento total con las normativas internacionales y locales para la seguridad de los usuarios, especialmente en un entorno de alto riesgo como lo es una guardería.
+
+##### A. Equipos Mínimos Requeridos:
+
+El sistema debe contar, como mínimo, con los siguientes equipos:
+*   Estaciones manuales de disparo y aborto,
+*   Tablero de control inteligente multizona,
+*   Módulos de control inteligente para paro y arranque de equipos de inyección y extracción de aire,
+*   Sistema de alarmas audiovisuales con luz estroboscópica,
+*   Anunciador remoto,
+*   Resistencia de fin de línea,
+*   Amplificadores y fuente auxiliar de energía (UPS).
+
+##### B. Características del Tablero de Control Inteligente:
+
+El tablero de control inteligente deberá cumplir con las siguientes características:
+*   Ampliabilidad: Debe operar con tarjetas de control para ampliaciones futuras del sistema, y contar con módulos de expansión para detectores de humo inteligentes, estaciones de alarma de doble acción, bocinas, luces estroboscópicas y módulos de control.
+*   Tonos de Alarma Específicos: Debe disponer de un tono distintivo particularizado para cada zona donde se detecte un conato de incendio.
+*   Capacidades de Alarma: Debe ser capaz de emitir tres señales diferentes de alarma: una para simulacro, otra para conato de incendio declarado y una tercera para casos de intrusión.
+*   Puertos de Comunicación: Debe contar con los siguientes puertos de comunicación:
+    *   2 salidas RS232 para impresora y/o PC,
+    *   1 salida RJ-11 para teléfono con conexión y enlace a bomberos,
+    *   1 salida RJ-45 para enlace con la red LAN y WAN,
+    *   2 salidas RS485 para anunciadores remotos, relevadores e integradores.
+*   Detección de Falsas Alarmas: El sistema debe incorporar tecnologías avanzadas para detección de falsas alarmas debido a errores de manejo o perturbaciones técnicas.
+
+##### C. Características de los Detectores:
+
+Los detectores de incendio deben cumplir con las siguientes características técnicas:
+*   Tipos de Detectores: Los detectores de humo deberán ser del tipo fotoeléctrico, láser, lápiz, por haz reflejado (BEAM), térmico y/o multisensor.
+*   Inteligencia y Respaldo de Batería: Los detectores deberán ser inteligentes y contar con respaldo de batería, con capacidad de alerta y aborto para evitar falsas alarmas.
+*   Construcción de Alta Resistencia: Los detectores deben estar fabricados en plástico de alto impacto, retardante a la flama, con 1 o 2 LED's indicadores del estado de operación, y con un rango de temperatura operativa de 0 a 49 °C (32 °F a 120 °F).
+*   Identificación Visual: Cada detector o agrupamiento de detectores deberá tener una denominación de identificación visible desde el tablero de control o anunciadores remotos, lo que facilitará la supervisión y localización de la alarma.
+
+##### D. Estaciones Manuales de Aborto y Disparo:
+
+Las estaciones manuales de aborto y disparo deben cumplir con las siguientes características:
+*   Construcción Resistente: Las estaciones deberán ser de construcción de palanca de jalar, de doble acción, fabricadas en plástico Lexan de alto impacto, color rojo, con restablecimiento mediante llave.
+*   Mecanismo de Activación: El mecanismo de palanca deberá activar un interruptor al ser empujado y jalado hacia abajo, enviando la señal de alarma, y permanecer en esa posición hasta que la estación sea restablecida con una llave común a todas las cerraduras del sistema.
+
+##### E. Anunciadores Remotos:
+
+Los anunciadores remotos deberán cumplir con los siguientes criterios:
+*   Ubicación Estratégica: Se deben instalar módulos anunciadores en áreas clave, como: la oficina del director, el jefe de conservación, el vestíbulo principal de acceso y la caseta de vigilancia.
+*   Conectividad: Los anunciadores pueden ser de tipo conexión serial o IP, para asegurar la flexibilidad y adaptabilidad del sistema.
+
+##### F. Áreas Principales con Sensores:
+
+El sistema debe considerar la instalación de sensores y/o detectores en todas las áreas, sin limitar su alcance. Si se determina necesario incluir áreas adicionales, como instalaciones de servicios complementarios, estos deberán ser también cubiertos por el sistema de detección de incendios.
+
+##### G. Notas Adicionales:
+
+*   Módulos Audiovisuales de Alta Intensidad: Los módulos audiovisuales (bocinas con estrobo) de alta intensidad deben activarse automáticamente desde el tablero de control al recibir la señal de conato de incendio.
+*   Intensidad Sonora: El sonido recomendado para cada zona de señalización debe alcanzar 105 decibeles (por encima del sonido ambiental), y la iluminación debe ser de 75 candelas.
+*   Interconexión con Otros Sistemas: El sistema de detección de incendios, en caso de alarma, debe permitir el control automático de los equipos de aire acondicionado, estar coordinado con el sistema de control de acceso para liberar las puertas de acceso, y activar los equipos del sistema de CCTV de vigilancia para la secuencialidad y etiquetado de video grabado bajo un protocolo de contingencia.
+
+#### Sistema de Circuito Cerrado de Televisión, Entretenimiento.
+
+El Sistema de CCTV Fomento a la Salud y Entretenimiento debe considerar lo siguiente:
+*   Determinar las áreas de servicio para colocar los HDTV (suministrados por el IMSS) en lugares estratégicos.
+*   Especificar los conectores con impedancia de 75 ohms para tener un acoplamiento con los demás equipos que integran la red del sistema.
+*   Observar como base la topología emitida en el documento de la DARP BOL-TV-001 referente al diagrama esquemático de conectividad (septiembre 2024).
+
+El Sistema a debe estar conformado como mínimo, por los siguientes equipos:
+*   Amplificadores de señal y Modulador ágil de audio/video.
+*   La Red del Sistema está conformada por divisores (Spliters), con puertos F terminales y de paso, y cable coaxial de 75 ohms RG-6 U.
+*   Placas con una salida tipo "F" de 75 Ohms.
+*   Antena aérea activa para recepción digital de alta definición (HDTV).
+*   Cada pantalla y equipo fuente, deberá considerar preparaciones de nodos de red, los cuales consistirán en placas frontales, con insertos tipo Jack RJ-45 categoría 6A y tendidos de cable UTP Cat. 6A, hasta el IDF o MDF más cercano, donde serán rematados en paneles de parcheo dedicados.
+
+Los Spliter deben ser para uso interior y exterior, de 75 Ohms, para señal VHF, UHF, HDTV y FM, con un Ancho de banda de 5 a 900 MHz, con caja sellada y acabado anticorrosivo.
+
+El Modulador en tiempo real de audio/video debe proporcionar canales de comunicación entre los módulos de distribución y manejo de señales y las redes de distribución de la antena aérea.
+
+Los Amplificadores de señal (booster) de audio/video de 75 Ohms, deben proporcionar una ganancia óptima para una buena recepción de video.
+
+#### Sistema de Circuito Cerrado de Televisión, Vigilancia IP.
+
+El Sistema de Circuito Cerrado de Televisión Vigilancia debe permitir la supervisión de manera constante de las áreas donde sea instalado.
+
+Las marcas por especificar deberán cumplir con las especificaciones técnicas de calidad, seguridad y servicio a la entera satisfacción de la DARP y del Coordinador de Proyecto.
+
+El Sistema debe integrar la supervisión, almacenamiento y consulta en video con base al requerimiento de seguridad y vigilancia que cada área demande, a través del sistema de cámaras IP. Las cámaras y elementos serán específicos con base en niveles de seguridad y áreas de aplicación.
+
+Todo el software y hardware involucrado del sistema de videovigilancia, deberá de incluir todas las ventajas tecnológicas que ofrecen las nuevas tecnologías de analíticas de video y de Inteligencia Artificial aplicados a estos sistemas, con el fin de ayudar a la gestión, búsqueda y mejoramiento de la seguridad y salvaguarda institucional.
+
+Las cámaras IP y en general todo el hardware asociado, manejarán tecnología 100% digital, sobre 5 megapixeles de resolución, a Color, con formatos de compresión: H264 y H265, Visión Nocturna en completa oscuridad y capacidad de manejar ambientes con baja iluminación, soporte ONVIF, y Pre-alimentación por el cable de Red (PoE - IEEE 802.3XX).
+
+Todas las cámaras deberán de ser del tipo varifocales con lentes motorizados (desde 2.7mm hasta 13.5mm como mínimo dependiendo el tipo de cámara), con el fin de ajustar encuadres, áreas de interés y resoluciones requeridas en cada área o local. Deberán de contar todas las cámaras con ranura y tarjeta de memoria (de capacidad máxima de acuerdo con la especificación de cada cámara) incluida para grabación de video local de cada cámara. Todas las cámaras deberán ser con grado de protección al menos de IP65 o IP66 e IK10.
+
+La interconexión que integrará a los equipos periféricos, cámaras (IP), controladores, entre otros, a la red ethernet IP del CECE, deberá ser en topología de estrella a equipos de conmutación switches 10/100/1000 Base-T, que cumplan con el manejo de la capa 2 y capa 3 para un mejor desempeño y rendimiento de la red, el switch contara con 24 o 48 puertos con conectores Jack RJ-45 así como los puertos de apilamiento, además de proporcionar tecnología de alimentación eléctrica a través del mismo medio de transmisión de señal (PoE y PoE+) para la alimentación eléctrica de dispositivos compatibles. La capacidad y la cantidad de los equipos LAN Switch estará determinada por la cantidad de puertos activos requeridos por los equipos periféricos IP (cámaras IP principalmente) que se tengan identificados en el proyecto, con base en los requerimientos de los párrafos siguientes, adicionalmente se deberá de considerar un 30% de puertos activos y presupuesto PoE, para los crecimientos futuros que se pudieran llegar a tener.
+
+Se deberá considerar la implementación de monitores de 32" (todos los que sean necesarios para la correcta visualización de las cámaras) 24/7, de uso exclusivo para sistemas profesionales de CCTV, respectivamente en donde los requieran las áreas operativas dentro del proyecto ejecutivo. Considerar todo el cableado necesario y los montajes respectivos para cada uno donde las áreas responsables del monitoreo y seguridad así los requieran.
+
+Se deberá considerar en el Proyecto Ejecutivo (PE) la instalación de un sistema de alimentación ininterrumpida (UPS) **específicamente dedicado al equipo activo del sistema de CCTV** (como NVR, cámaras y monitores). Este sistema UPS será complementario a los circuitos eléctricos dedicados, los cuales ya deberán contar con tensión regulada y respaldo de batería conforme a las especificaciones del sistema eléctrico del proyecto.
+
+La UPS deberá:
+*   Operar con voltaje de entrada y salida de 120 V,
+*   Tener una capacidad dimensionada y justificada por proyecto, capaz de mantener en funcionamiento la totalidad de los equipos de CCTV durante al menos 60 minutos en caso de interrupción del suministro eléctrico,
+*   Contar con indicadores LED y un display visual para la lectura de variables eléctricas críticas y el estado operativo del equipo
+*   Cumplir con las Normas Oficiales Mexicanas (NOM) aplicables en materia de seguridad y eficiencia energética
+
+**Nota Importante:** Con base en la distribución de los espacios arquitectónicos, se deberá asegurar que las cámaras instaladas en locales cerrados sean, como mínimo, capaces de proporcionar el reconocimiento facial de una persona a la máxima distancia de visualización correspondiente a cada cámara. Esto deberá lograrse considerando el tipo de lente y/o encuadre requerido para cada ubicación (con un ángulo de apertura horizontal de 90°), procurando en todo momento minimizar los puntos ciegos dentro del área de cobertura.
+
+El Servidor de gestión, visualización y monitoreo (sistema cliente-servidor), con acceso total desde las áreas administrativas que así lo requieran de manera simultánea, libre de latencias. Deberá considerar todo el hardware y software necesarios en todas las estaciones de trabajo (gestión, visualización y monitoreo) que se requieran. Deberá contar con licencias vitalicias permitiendo acceso pleno, simultáneo y concurrente de todos los usuarios autorizados, a todos los canales de video en vivo y video grabado.
+
+La capacidad mínima estimada del(os) servidor(es) de grabación (NVR's), considerando el área del CECI en su totalidad, considerando un mínimo de puntos ciegos, criterios de seguridad y salvaguarda, áreas restrictivas y el dimensionamiento definitivo del proyectista con base en un sembrado adecuado y suficiente, de acuerdo con lo mencionado en los párrafos anteriores, deberá considerar adicionalmente mínimo un 30% de canales disponibles para albergar un crecimiento futuro. Hasta 16 Librerías para imágenes de rostros. Base de datos para 20 mil imágenes de rostros. Salidas y entradas de alarmas (Alarmas 16 In / 4 Out como mínimo).
+
+Se debe especificar el almacenamiento directo en los servidores de grabación para la salvaguarda del video generado por todas las cámaras especificadas por el proyectista, considerando en su cálculo de unidades de almacenamiento, la resolución máxima de cada cámara, al máximo de FPS (25 o 30 FPS), para 24 hrs / 7 días a la semana, continuos sin configuración de disparo de grabación por evento de ningún tipo y configurados de manera circular de sobre escritura para un periodo mínimo de 90 días naturales (desde el día 01 hasta el día 90).
+
+El proyecto ejecutivo deberá respaldar el tamaño y cantidad de las unidades de grabación (HDD) necesarias considerando el Bit Rate necesario por cámara para un tiempo de grabación total de 90 días como mínimo en cada sistema. La marca para la tecnología de almacenamiento (HDD) deberá ser Premium, reconocida en México, exprofesa para videovigilancia.
+
+Los NVR, deberán contar con bahías HDD "Hot-Swap" para fácil mantenimiento. Los NVR's y el Sistema Externo Independiente de Almacenamiento, además de estar montados en un rack de 19" dentro del MDF (considerado en el proyecto de telefonía), deberán de estar confinados y resguardados dentro de un gabinete de seguridad para cada uno, que cuente con chapa y llave mecánica.
+
+El Sistema en su totalidad debe contar con todos los accesorios requeridos para el funcionamiento del sistema de vigilancia y monitoreo según lo demande el área a vigilar, tales como software de grabación, NVR's, monitores, lentes para Zoom, adaptadores, joystick, estaciones de trabajo-monitoreo, conectores, carcazas, deben ser productos de una sola Marca, así mismo, deben pertenecer a una misma línea, modelo o serie.
+
+Lo previamente mencionado, es enunciativo mas no limitativo en funcionalidad y alcances, siempre y cuando se aseguren todas las condiciones técnicas que garanticen la operación para cumplir con una videovigilancia local y remota, tanto activa como pasiva, en términos de seguridad institucional (video en tiempo real, alarmas, eventos y video grabado).
+
+Las áreas por monitorear son las siguientes:
+
+Áreas de Monitoreo.
+1. Pasillos.
+2. Vestíbulos.
+3. Salas de Espera.
+4. Zona de Accesos
+5. Almacenes y/o Bodegas (cualquiera que sea demandado por el proyecto).
+6. Casa de Máquinas (interiores y exteriores)
+7. Áreas Exteriores (estacionamiento, caseta(s) de Vigilancia, accesos principales y secundarios).
+8. Comedor.
+9. Distribuidores o Subdistribuidores de Telecomunicaciones (MDF e IDF's).
+10. Salidas de Emergencia (interiores).
+11. Administración
+12. Pedagogía
+13. Servicios Generales
+14. Entradas a sanitarios de infantes y adultos
+15. Perímetro exterior del CECI (todos los lados colindantes con banqueta deberán contar con cámaras en contraposición)
+
+Los equipos, sus capacidades y características mencionadas en el presente documento, son de carácter enunciativo más no limitativo y deberán corroborarse y sustentarse en el proyecto integral por el especialista de Ingeniería en telecomunicaciones seleccionado por la contratista y autorizado por el personal correspondiente del instituto y dependerá del proyecto arquitectónico en primera instancia.
+
+#### Sistema de Control de Acceso (2.6.1.6)
+
+##### 1. Plataforma de Control de Acceso:
+
+El sistema se fundamentará en tarjetas individuales e intransferibles (las necesarias, como mínimo 2,000 unidades), de igual forma en las áreas donde así se requiera, se implementarán lectoras de huella dactilar (biométricos) con privilegios y datos codificados, administrados por el software del sistema. Estas tecnologías se utilizarán para registro, monitoreo y control de los accesos de los usuarios a las diferentes áreas, así como, la contención y restricción de acceso a las mismas.
+
+Este control abarcará aspectos clave:
+
+*   Automatización del acceso y control de tránsito del personal operativo a las áreas de acceso restringido en el interior del inmueble.
+*   Registro de tiempo y asistencia del personal operativo con sistemas biométricos.
+*   Autentificación, registro, control y gestión de adultos para la entrega y retiro de infantes, sobre la plataforma universal de control a través de un sistema biométrico de huella dactilar.
+*   Sistema integral de seguridad visual y eléctrica en cerraduras, electroimanes y/o cualquier otro método de contención que se necesite.
+
+##### 2. Componentes del Sistema:
+
+*   Lectores de autentificación de última generación acordes al requerimiento de seguridad que se trate en cada punto de acceso y/o registro.
+*   Conmutación de seguridad y acceso con panel de control y controladores en gabinetes distribuidos.
+*   Dispositivos de alarmas de seguridad, interruptores magnéticos y sensores de estado de puertas.
+*   Dispositivos de contención electromagnéticos.
+*   Servidor y estaciones de trabajo para gestión y configuración local de la plataforma (cliente-servidor), donde residirán todo el software y licencias necesarias para la operación del sistema de control de accesos, para tener acceso pleno, simultáneo y concurrente de todos los usuarios autorizados a la gestión de la plataforma.
+*   Terminal de Control de accesos con Reconocimiento Facial y Medición de Temperatura (ubicada en el área de Recepción y Control).
+
+Descripción: Terminal de Control de accesos con Reconocimiento Facial y medición de Temperatura equipo que tendrá la funcionalidad de administrar la asistencia de los niños y evaluar la temperatura. (un equipo para cada inmueble (1 pieza)).
+
+Especificaciones:
+1. Pantalla curva 2.5 D, se refiere a pantalla de marco curveado.
+2. Pantalla LCD de al menos 7 pulgadas con resolución de 1024 × 600.
+3. 2MP CMOS, WDR.
+4. La iluminación automática reduce la contaminación lumínica.
+5. Puede contener al menos 5,000 usuarios, al menos 5,000 imágenes de caras, al menos 5,000 tarjetas, al menos 5,000 contraseñas, al menos 50 administradores y al menos 50,000 registros.
+6. Admite desbloqueo de rostro, tarjeta IC, contraseña y desbloqueo a través de sus combinaciones.
+7. Con caja de detección de rostros; se reconoce primero el rostro más grande entre los rostros que aparecen al mismo tiempo; el tamaño máximo de la cara se puede configurar en la web.
+8. Distancia entre el rostro y la cámara: 0.3 m – 2.0 m; altura humana: 0.9 m – 2.4 m (distancia de la lente al suelo: 1.4 m).
+9. Con el algoritmo de reconocimiento facial, el terminal puede reconocer más de 360 posiciones en el rostro humano.
+10. Velocidad de reconocimiento facial: 0.2 s por rostro.
+11. Soporte de detección de vitalidad.
+12. Reconocimiento preciso en luz de fondo y luz delantera.
+13. Varios modos de visualización del estado de desbloqueo protegen la privacidad del usuario.
+14. Soporte para habilitar / deshabilitar el modo de monitoreo de temperatura; el rango de control de temperatura es de 30 °C a 50 °C; el rango de distancia de monitoreo de temperatura es de 0.3 m – 1.8 m; el error de monitoreo de temperatura es ≤ 0.5 °C; reportar alarma de anomalía de temperatura.
+15. Admite detección de máscara, informe de alarma de eventos anormales sin usar una máscara.
+16. Admite alarma de coacción, alarma de manipulación, alarma de intrusión, alarma de tiempo de espera de contacto de puerta y alarma de tarjeta ilegal que excede el umbral.
+17. Admite usuarios generales, usuarios de patrulla, usuarios VIP, usuarios invitados y usuarios especiales.
+18. Licenciamientos para integrar e interactuar con nivel central
+19. Escalabilidad y flexibilidad, tener la capacidad de añadir nuevos usuarios, dispositivos o áreas
+
+##### 3. Características Adicionales (Enunciativo, no limitativo):
+
+*   Sistema de control y registro preautorizado de manera individual (niveles de acceso).
+*   Respaldo de alimentación eléctrica de 3 horas para emergencias. Esta fuente de alimentación ininterrumpible propia y exprofesa para el sistema de control de accesos (independiente y adicional a las referidas en otras especialidades)
+*   Ubicación del equipo controlador de accesos (gabinete) dentro del Site de Comunicaciones y/o Subdistribuidor de Telecomunicaciones. La puerta del MDF (Site) deberá tener por el lado de afuera un sistema a base de cerradura para desbloquear el electroimán de la puerta en caso de fallo o emergencia.
+*   Todas las puertas deberán tener botón RFE no touch con retroiluminación, palanca de emergencia para liberar la puerta con restablecimiento por medio de llave.
+*   Registro de consulta para la administración de la base de datos y privilegios del sistema (log de eventos).
+
+##### 4. Integración y Coordinación:
+
+*   Integración con los Sistemas de Detección de Incendios para liberar las puertas en caso de contingencia.
+*   Deberá estar integrado al sistema de videovigilancia para establecer protocolos de contingencia, en caso de una violación o intento de violación a la seguridad del inmueble.
+*   Monitoreo permanente del estado de la puerta de emergencia y aviso por medio de alarma audiovisual cada vez que ésta sea abierta.
+*   Licenciamientos para integrar e interactuar con el aplicativo de nivel central denominado Sistema de Información y Administración de Guarderías, "SIAG Web" para la etapa del pase de lista, por lo que será necesario realizar los ajustes para que el SIAG se comunique con los dispositivos de reconocimiento facial; El proceso de pase de lista se llevará a cabo completamente por el sistema del proveedor y únicamente se compartirán los datos hacia el SIAG Web, para lo cual el licitante deberán habilitar las interfaces para ello, considerando que entre los Datos que se compartan se Incluya la CURP de la persona identificada y el rol que juega (personal de Guardería, tutor, persona autorizada, niño, etc.). El sistema de control de acceso y asistencia provisto, instalado, configurado y puesto a punto por parte del proveedor deberá incluir una interfase para exportar información hacia los sistemas centrales de control de acceso y asistencia del IMSS y a los sistemas centrales de metadatos o inteligencia artificial que el IMSS determine.
+
+##### 5. Plataforma Basada en Controlador de Puertas (Enunciativo, no limitativo):
+
+*   Considerada como plataforma basada en controladores de puertas, preferiblemente libre de licenciamiento o, en su defecto, con licencias perpetuas de arquitectura distribuida.
+
+##### 6. Sistema de Enrolamiento (Enunciativo, no limitativo):
+
+*   Sistema de enrolamiento hardware y software para la administración y gestión de los usuarios en el área correspondiente.
+
+##### 7. Tecnología de Lectura (Enunciativo, no limitativo):
+
+*   En el caso de las lectoras para tarjetas, deberán ser Lectoras multitecnología, utilizando como mínimo tecnología MIFARE.
+*   Capacidad suficiente para gestionar eventos y usuarios, con escalabilidad de acuerdo con las necesidades del inmueble y su operación.
+
+##### 8. Cumplimiento de Normativas (Enunciativo, no limitativo):
+
+*   Las marcas de referencia deben cumplir con las especificaciones técnicas de calidad, garantía, seguridad y servicio, tal como se menciona en la primera parte de esta sección.
+
+##### 9. Licenciamiento de Software:
+
+*   Se priorizará el uso de software libre de licenciamiento. En caso de requerir software con licenciamiento, se optará por licencias vitalicias, de arquitectura distribuida para asegurar la viabilidad a largo plazo del sistema y que pueda ser integrado e interactuar con la plataforma de nivel central.
+
+##### 10. Áreas Incluidas en el Sistema de Control de Acceso (Enunciativo, no limitativo):
+
+Áreas con Acceso Controlado
+1. Toda puerta que tenga acceso desde el interior al exterior del inmueble y/o su reja o barda perimetral (dependiendo el concepto arquitectónico).
+2. Área de control y/o recepción
+3. Toda puerta que tenga acceso al interior de las áreas operativas y de custodia de los infantes
+4. MDF (Site) e IDF dependiendo el caso.
+5. Bodegas y almacenes de insumos
+6. Monitoreo de estado de puertas de emergencia.
+
+Las especificaciones proporcionan un marco técnico actualizado y detallado, pero general, para el Sistema de Control de Acceso, asegurando su integración eficiente y cumplimiento con los más altos estándares de seguridad.
+
+#### Memoria Técnico-Descriptiva y Especificaciones Técnicas.
+
+La Memoria técnico-descriptiva de los sistemas de Telecomunicaciones debe contener los cálculos de los sistemas a instalar, criterio de diseño, áreas de servicio, equipo empleado.
+
+Las especificaciones de Equipos deben contener las Descripciones y Especificaciones Técnicas de los mismos.
+
+## 7.3.17 SISTEMAS DE ACONDICIONAMIENTO DE AIRE, CALEFACCIÓN Y VENTILACIÓN MECÁNICA (2.7)
+
+Los licitantes, deben considerar en la elaboración de sus proposiciones técnico-económicas la aplicación de los sistemas de Acondicionamiento de Aire, Calefacción y Ventilación Mecánica el CECI, mismo que el Contratista debe diseñar este sistema para su correcta operación, debiendo apegarse a la Normatividad del IMSS, así como seguir criterios y lineamientos de los estándares de diseño vigentes, tomando en cuenta estrategias encaminadas a mejorar la eficiencia energética y minimizar el impacto ambiental de los edificios en los ecosistemas, identificando e implementando soluciones prácticas de diseño aplicando tecnología de punta, uso racional de energía (eficientar el
