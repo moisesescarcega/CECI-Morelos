@@ -1960,4 +1960,145 @@ Las especificaciones de Equipos deben contener las Descripciones y Especificacio
 
 ## 7.3.17 SISTEMAS DE ACONDICIONAMIENTO DE AIRE, CALEFACCIÓN Y VENTILACIÓN MECÁNICA (2.7)
 
-Los licitantes, deben considerar en la elaboración de sus proposiciones técnico-económicas la aplicación de los sistemas de Acondicionamiento de Aire, Calefacción y Ventilación Mecánica el CECI, mismo que el Contratista debe diseñar este sistema para su correcta operación, debiendo apegarse a la Normatividad del IMSS, así como seguir criterios y lineamientos de los estándares de diseño vigentes, tomando en cuenta estrategias encaminadas a mejorar la eficiencia energética y minimizar el impacto ambiental de los edificios en los ecosistemas, identificando e implementando soluciones prácticas de diseño aplicando tecnología de punta, uso racional de energía (eficientar el
+Los licitantes, deben considerar en la elaboración de sus proposiciones técnico-económicas la aplicación de los sistemas de Acondicionamiento de Aire, Calefacción y Ventilación Mecánica el CECI, mismo que el Contratista debe diseñar este sistema para su correcta operación, debiendo apegarse a la Normatividad del IMSS, así como seguir criterios y lineamientos de los estándares de diseño vigentes, tomando en cuenta estrategias encaminadas a mejorar la eficiencia energética y minimizar el impacto ambiental de los edificios en los ecosistemas, identificando e implementando soluciones prácticas de diseño aplicando tecnología de punta, uso racional de energía (eficientar el consumo energético), control de los recursos, también se debe fijar para diseño las condiciones climatológicas de la localidad.
+
+El PE de Ingeniería de Sistemas de Acondicionamiento de Aire, Calefacción y Ventilación Mecánica deberá cumplir con la consigna de favorecer primeramente al Instituto, debiendo tomar en cuenta los Requerimientos de los estándares siguientes:
+
+*   NORMA Oficial Mexicana (NOM) 008-ENER-2001 regula las características de la envolvente de edificios no residenciales. La envolvente es el conjunto de elementos que delimitan el espacio interior de un edificio.
+*   NORMA Oficial Mexicana NOM-012-ENER-2019, Eficiencia energética de unidades condensadoras y evaporadoras para refrigeración. Límites, métodos de prueba y etiquetado.
+*   NORMA Oficial Mexicana NOM-023-ENER-2018, Eficiencia energética en acondicionadores de aire tipo dividido, descarga libre y sin conductos de aire. Límites, métodos de prueba y etiquetado.
+*   NORMA Oficial Mexicana NOM-026-ENER-2015, Eficiencia energética en acondicionadores de aire tipo dividido (Inverter) con flujo de refrigerante variable, descarga libre y sin ductos de aire. Límites, métodos de prueba y etiquetado.
+*   ASHRAE 55, Condiciones Ambientales Térmicas, para la ocupación humana.
+*   ANSI/ASHRAE standard 62.1-2010, Ventilación para una calidad del aire aceptable.
+*   ANSI/ASHRAE standard 90.1-2017, Requisitos Energéticos para Edificios excepto los de baja Altura.
+*   ANSI/ASHRAE standard 170-2017, Ventilación de instalaciones de Atención Médica.
+
+#### Desarrollo de Red de Ductos.
+
+El Contratista debe considerar y aplicar en el diseño lo siguiente:
+*   El espacio mínimo requerido es de 0.60 m. a partir del lecho bajo de trabes.
+*   Longitud máxima de trayectoria de ducto no debe exceder 50 m.
+*   El PE deberá incluir la producción de los planos de la instalación de Redes de Ductos en planos de cortes arquitectónicos, para las trayectorias críticas, (detalles particulares, cruce de instalaciones y/o espacios reducidos).
+*   Aislar térmicamente todos los ductos de inyección y retorno, interiores y exteriores, con base a la Normatividad IMSS, Normas Oficiales Mexicanas y criterios y lineamientos de los estándares de diseño vigentes. También es factible considerar en su propuesta, ducto pre-aislado fabricado a base de panel de espuma rígida de 20 o 30 mm., con recubrimiento en ambas caras de foil de aluminio gofrado de 60 micras con tratamiento para la no proliferación microbiana, con una conductividad de 0.023 W/m°K a 10°C, utilizando esta aplicación solo para ductos con tendencia al aislamiento.
+*   Especificar en el PE que, durante el proceso de construcción del CECI, se deberá identificar cada una de las secciones de ducto principales (Inyección, Retorno, Extracción) con etiquetas o flechas indicando el flujo. Estas identificaciones deberán corresponder a los documentos y estar en lugar visible.
+
+#### Diseño de Equipos.
+
+El Contratista debe considerar y aplicar en el diseño lo siguiente:
+*   Considerar equipos de Expansión Directa tipo VRV o VRF con apoyo de sistemas divididos tipo Evaporador-Condensador,
+*   Los Equipos por especificar en el Proyecto por parte del Contratista, deben tener el filtrado del aire adecuado, para dar la calidad requerida en cada servicio, de acuerdo con los Criterios de Diseño Institucionales.
+*   Para la Instrumentación y control se debe aplicar lo siguiente en el desarrollo del PE: por especificar debe ser instrumentada con el tipo de sistema a instalar y el grado de control requerido. La unidad debe tener base antivibratoria, así como aisladores de vibración interna para sus componentes. También debe estar equipada para interrumpir automáticamente su funcionamiento desde los sistemas de control.
+
+#### a. Flujo de Aire en Ductos.
+
+La distribución de aire debe realizarse, a través de una red de ductos de inyección y de retorno de lámina galvanizada ASTM A 653/A 653M o equivalente, también es factible considerar el Ducto pre-aislado fabricado a base de panel de espuma rígida de 20 o 30 mm, con recubrimiento en ambas caras de foil de aluminio gofrado de 60 micras con tratamiento para la no proliferación microbiana, con una conductividad de 0.023 W/m°K a 10°C, utilizando esta aplicación solo para ductos con tendencia al aislamiento, los cuales deben colocarse sin interferir con otras instalaciones en todo su recorrido. Los ductos de inyección deben conectarse a difusores o rejillas de inyección; del mismo modo, las rejillas de retorno deben conectarse a los ductos de retorno, no debe diseñarse el retorno por cámaras plenas. Para lograr una buena distribución de aire los difusores o rejillas de inyección deben colocarse de acuerdo con el diseño arquitectónico, de alumbrado, detección de incendio, de voz y datos entre otros.
+
+#### Criterios de Selección del Sistema.
+
+El Contratista debe considerar y aplicar en el diseño lo siguiente:
+
+*   Aire Acondicionado (verano).
+
+*   Los factores del Coeficiente de Transmisión de Calor (Factor "U"), que sean utilizados para el diseño del sistema de aire acondicionado deben ser tomados de las especificaciones técnicas de los materiales certificados y avalados por el Área de Arquitectura del IMSS, no siendo estos valores de suposición. Estos deben plasmarse en el documento de Requerimientos del Propietario e incluidos en los formatos de Bases de Diseño.
+
+*   La caída de presión del aire en el Sistema de Aire Acondicionado deberá estar avalado bajo un cálculo, por lo que no debe ser un valor de suposición.
+
+*   Se debe realizar el Cálculo del Ciclo Termodinámico en la Carta Psicométrica de forma individual para cada equipo de Aire Acondicionado.
+
+*   En el proceso de Diseño, se debe entregar la secuencia de operación del Sistema de Aire Acondicionado para que durante el arranque y puesta en marcha de los equipos se tome como referencia o durante alguna falla o prueba.
+
+*   Sistema de Extracción en Sanitarios y locales que así lo requieran bajo lo establecido en la Norma ND-011MSS-AA-97 "Norma de Diseño de Ingeniería en Acondicionamiento de Aire.
+
+*   Se debe considerar el porcentaje de humedad relativa de acuerdo con la normatividad IMSS en los locales acondicionados, presentando el análisis correspondiente para la instalación de equipos humidificadores en condiciones 100% AE.
+
+*   Se debe considerar un sistema de renovación de aire independiente por cada evaporador conforme a lo establecido en la Norma ND-01IMSS-AA-97 "Norma de Diseño de Ingeniería en Acondicionamiento de Aire.
+
+Asimismo, se debe indicar, la Secuencia de Operación del Sistema de Aire Acondicionado, especificando pasos de paro y arranque de los equipos de los sistemas de aire acondicionado, contemplando las diferentes alternativas de acuerdo con el grado de automatización, así como con las alarmas visibles y audibles, para proporcionar las condiciones ambientales interiores.
+
+#### Diseño de Trayectorias de Fluidos.
+
+El Contratista debe considerar y aplicar en el diseño lo siguiente:
+
+##### a. Red de Gas Refrigerante.
+
+Los equipos, deben interconectarse por medio de tuberías, los cuales se deben diseñar de modo que no ocasionen sobredimensionamiento, utilizando para su construcción tubería de cobre tipo L, deberá utilizarse tubería diámetro de acuerdo con lo indicado en los criterios de diseño ND-01-IMSS-AA-97 o proponer otro sistema en conveniencia y beneficio a esta Institución, derivado de la aprobación de la oficina de Aire Acondicionado de la DARP.
+
+##### b. Flujo de Aire en Ductos.
+
+La distribución de aire debe realizarse, a través de una red de ductos de inyección y de retorno de lámina galvanizada ASTM A 653/A 653M o equivalente, también es factible considerar el Ducto pre-aislado fabricado a base de panel de espuma rígida de 20 o 30 mm, con recubrimiento en ambas caras de foil de aluminio gofrado de 60 micras con tratamiento para la no proliferación microbiana, con una conductividad de 0.023 W/m°K a 10°C, utilizando esta aplicación solo para ductos con tendencia al aislamiento, los cuales deben colocarse sin interferir con otras instalaciones en todo su recorrido. Los ductos de inyección deben conectarse a difusores o rejillas de inyección; del mismo modo, las rejillas de retorno deben conectarse a los ductos de retorno, no debe diseñarse el retorno por cámaras plenas. Para lograr una buena distribución de aire los difusores o rejillas de inyección deben colocarse de acuerdo con el diseño arquitectónico, de alumbrado, detección de incendio, de voz y datos entre otros.
+
+##### c. Ductos de Extracción de las Campanas de Cocina.
+
+En el Área de Cocción se debe realizar el diseño de la Campana de Extracción (pared, isla y doble isla), especificando que los ductos serán provistos con trampas de grasa para resistir temperaturas superiores a 149°C (300°F), en el primer codo vertical, con un registro que permita eliminar el exceso de grasa en el interior del ducto; asimismo, se debe especificar la instalación de una compuerta contra incendio, colocada antes de la trampa de grasas, se debe considerar presión negativa para evitar la introducción de aire desde el comedor.
+
+#### Sistemas de Ahorro de Energía.
+
+Los sistemas por considerar en el diseño del proyecto para el ahorro de energía son los siguientes:
+
+#### Sistemas de Volumen de Refrigerante Variable.
+
+Se debe emplear para el diseño e instalación en zonas de bajo riesgo el cual utiliza un refrigerante como medio de transmisión de frío y calor el cual es acondicionado mediante unidades exteriores e interiores las cuales se interconectan mediante tubos repartidos en varios espacios, deben cumplir con las especificaciones técnicas de calidad, garantía, seguridad y servicio.
+
+*   La temperatura se puede controlar de manera independiente en cada una de las zonas a acondicionar. Cada unidad interior trabaja de manera autónoma mediante válvula de expansión electrónicas, las cuales dejan pasar la cantidad justa de fluido refrigerante.
+
+#### Aislamientos Térmicos.
+
+Se debe emplear para el diseño e instalación de las tuberías de gas refrigerante, aislantes térmicos de 100% Elastómero con MICROBAN resistente a la humedad (barrera de vapor) y moho, cumplir con el Standard ASHRAE 90.1-2010, debe contener bajo nivel de compuestos orgánicos volátiles y bajo índice de propagación de flama, debe contar con certificado Green Guard, Las marcas de referencia deben cumplir con las especificaciones técnicas de calidad, garantía, seguridad y Servicio.
+
+#### Ingeniería de Detalle.
+
+El Contratista debe elaborar el PE indicando la ingeniería de detalle, para la correcta ejecución de las instalaciones de Aire Acondicionado en obra.
+
+##### a. Detalles Generales.
+
+Debe indicar: engargolado, compuertas de control, aislamiento en ductos y tuberías de gas refrigerante, soportería, apoyo de equipos, paso de ductos acotados desde el eje de ducto o equipo a ejes estructurales indicados en tabla de acotaciones. Así como algún otro detalle de relevancia para su ejecución. Deben dibujarse sin escala.
+
+##### b. Detalles Particulares.
+
+Deben realizarse para aquellos lugares en que se tengan limitaciones de área, espacio o de estructura; para instalación de equipo, ducto, tuberías de refrigerante y sistemas auxiliares, con acotaciones desde sus ejes respectivos hacia sus ejes estructurales. Deben dibujarse a escala 1:25.
+
+##### c. Plantas de tubería para refrigerante.
+
+Se debe indicar el equipo a escala, con sus accesorios como válvulas de control, entre otros. Acotando sus ejes a los ejes estructurales. Debe indicar temperaturas, de entrada y salida, con los flujos propios del equipo y los ramales con los diámetros correspondientes. Deben dibujarse en escalas: 1:20, 1:25 o 1:75.
+
+#### Memoria Técnico-Descriptiva y de Cálculo.
+
+Para determinar la capacidad de los diferentes sistemas, el Contratista debe elaborar los cálculos de ingeniería, lo cual es parte integral del proyecto, así como la memoria técnico-descriptiva de los sistemas y los servicios por acondicionar.
+
+El contenido de la memoria de cálculo debe ser presentado en forma clara y precisa, siguiendo un orden lógico para su adecuada interpretación, debiendo integrar como mínimo los siguientes conceptos:
+
+a. Localidad.
+b. Datos de situación geográfica.
+c. Condiciones de diseño interiores y exteriores.
+d. Fecha y hora de la localidad estimada para el cálculo.
+e. Cartas de los procesos psicométricos por cada equipo.
+f. Balances térmicos para verano en el que se consideran:
+g. Orientación del edificio.
+h. Cálculo de los factores de transmisión térmica de muros, losas, cubiertas y ventanas, tomados de referencia de los materiales aprobados por el área de arquitectura.
+i. Aportación de cargas térmicas generadas por equipos y personas.
+j. Resumen de cargas térmicas de zonas (por equipo).
+k. Resumen de cargas térmicas totales.
+l. Cálculo de sistemas de ventilación mecánica (extracción e inyección).
+m. Cálculo de caídas de presión estática, determinando RPM y potencia de motores.
+n. Elaboración de diagramas de control de temperatura y humedad (controladores).
+o. Selección de equipos, presentar las curvas de operación indicando el gasto máximo y mínimo al que estará trabajando cada equipo.
+p. Tabla de datos con códigos de errores comunes, con una breve descripción de las posibles soluciones en sitio.
+q. El desarrollo del proyecto planos y memoria de cálculo, deben utilizar las Unidades del Sistema Inglés, tal y como lo indica la normatividad IMSS.
+
+## 7.3.18 Memoria de cálculo de cargas en fachadas y azoteas que anteceden al estudio del dictamen para el cumplimiento a la NOM-008-ENER-2001, "Eficiencia Energética de Edificaciones, Envolvente de Edificios no Residenciales" (2.8)
+
+El Contratista debe realizar la Memoria del análisis, referente a la Eficiencia Energética del Inmueble, a través de su envolvente, a efecto de garantizar el mínimo consumo de energía por el uso de sistemas de enfriamiento y calefacción, misma que debe ser entregada al IMSS avalada por la Unidad de Verificación (UV/C), de acuerdo a lo establecido en la Norma Oficial Mexicana NOM-008-ENER-2001 "Eficiencia Energética de Edificaciones Envolvente de Edificios no Residenciales", incluyendo el diseño de la placa, misma que debe ser colocada en el Vestíbulo del CECI, una vez que éste sea construido.
+
+*   Para el diseño de la Envolvente, se debe utilizar materiales que cuenten con certificación de un Organismo Competente y avalados por el Área de Arquitectura del IMSS, con características de bajo Coeficiente de Transferencia de Calor que contribuyan a reducir la transferencia de calor por Conducción y Radiación, esto para dar cumplimiento a la NOM-008-ENER-2001 "Eficiencia Energética en Edificaciones, Envolvente para Edificios no Residenciales".
+*   Para la envolvente, debe utilizar elementos translúcidos (vidrios), que contribuyan a reducir la transferencia de calor por Conducción y Radiación, que aporten absorción acústica, elimine los rayos UV, bajo factor "U" ayude al Confort Térmico, mayor seguridad contra impactos.
+*   En el proceso de Diseño, se debe elaborar un Predictamen de Verificación foliado, elaborado en papel seguridad y firmado bajo la responsabilidad del Unidad de Verificación, en el cual consta que la Edificación cumple con la NOM-008-ENER-2001.
+*   El Contratista deben presentar al Instituto los resultados del estudio de Modelado Energético en la primera etapa del desarrollo del PE para verificar que efectivamente la solución constructiva seleccionada ha sido la mejor para el proyecto.
+
+### a. Relleno en azoteas
+
+El sistema debe especificarse a base de materiales que cumplan con la calidad y especificaciones técnicas, avaladas por el área de Ingeniería Civil de la DARP y la Residencia de Obra, así como a los sistemas constructivos de actualidad.
+
+Debiendo cumplir con la siguiente normatividad:
+
+*   NMX-C-126-ONNCCE-2010. "Industria de la Construcción-Materiales Termoaislantes en forma de bloque o placa - Densidad-Determinación". Densidad Húmeda y Densidad Seca.
+*   NMX-C-228-ONNCCE-2013 "Industria de la Construcción-Materiales Termoaislantes –Adsorción de humedad-Método de Prueba". Adsorción de humedad.
