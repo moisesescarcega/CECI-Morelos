@@ -2958,3 +2958,115 @@ El Contratista debe contar con un laboratorio acreditado, o en su caso subcontra
 ### 5.2.13. Carpintería, herrería y cancelería.
 
 La colocación de elementos de carpintería, herrería y cancelería se ajustarán en todos los casos, a las especificaciones de dimensiones, acabados y sistemas de sujeción indicados en el PE Autorizado por el IMSS.
+
+Previo a la fabricación y colocación de todos los elementos de herrería, carpintería o cancelería, el Contratista debe verificar en obra las dimensiones, espacios, escuadras y plomos de los elementos estructurales sobre los cuales se instalarán. De esta manera, todos los elementos se harán a la medida y con los ajustes que las condiciones requieran, salvo que en los planos se indique otra cosa.
+
+En el caso de marcos y puertas de madera o metal, se seguirán en todo momento las indicaciones de dimensiones, acabados, colores, abatimientos y herrajes que marquen los planos del PE Autorizado por el IMSS. De haber discrepancias entre las dimensiones o ubicaciones de los claros construidos y los establecidos originalmente en el proyecto, producto de ajustes realizados durante la construcción, el Contratista debe contactar al Residente de Obra del IMSS a fin de que se giren las instrucciones necesarias para su modificación.
+
+Toda la madera para usarse en elementos con vista será de primera calidad, a menos que los planos indiquen otra especificación y de madera con certificación FSC, en cuyo caso se debe presentar el número de cadena de custodia de la madera en mención.
+
+Se deben fabricar y montar piezas muestra de cada tipo para su aprobación por parte de la Residencia de Obra del IMSS, siendo motivo de rechazo todas aquellas piezas que sean diferentes a las muestras aprobadas o que no cumplan con las especificaciones del proyecto; todo cambio de especificación debe ser aprobado previamente por el IMSS a través de la Residencia de Obra y asentado en bitácora.
+
+Todos los perfiles metálicos deben apegarse a las especificaciones del proyecto en cuanto a materiales, secciones, calibres y tipo de perfil; los vidrios o cristales de ventanas y canceles deben cumplir con las especificaciones de espesor, color y, en su caso, dobles, templados o blindados. Serán motivo de rechazo por parte del IMSS las piezas fabricadas con perfiles o materiales fuera de especificaciones de proyecto, o con calibre y/o secciones distintas a las marcadas en los planos; las piezas mal soldadas o fuera de medida, piezas dañadas por golpes durante su colocación o almacenamiento durante el proceso de obra, o piezas parcial o totalmente sin la protección anticorrosiva especificada.
+
+Los licitantes deben considerar en sus proposiciones, el diseño adecuado de aislamiento térmico y acústico en fachadas con cancelería de aluminio y vidrio, para la optimización del acondicionamiento ambiental y atenuación del ruido. (ej. Cristales duo-vent).
+
+En caso de especificarse cristales tintados se utilizarán los de color "Verde claro".
+
+Se deben considerar de acuerdo al PE, mamparas para baños infantiles a una altura de 1.10 m., con el objetivo de garantizar la seguridad e integridad de los infantes.
+
+Para la cancelería exterior en fachadas, no se deberá considerar juntas de cristal y vidrio a hueso, lo anterior con el objetivo de garantizar la estanqueidad en el interior del inmueble.
+
+El PE, deberá considerar una reja perimetral con altura suficiente que garantice la seguridad y resguardo de los usuarios.
+
+### 5.2.14. Acabados Arquitectónicos.
+
+Todos los materiales deben ser de acuerdo al proyecto validado, con base a éstos y a los de la región, debe considerar los acabados que garanticen: amplia durabilidad, bajo costo de mantenimiento de los materiales, en apego a los límites de compuestos orgánicos volátiles, de acuerdo con el tipo de obra y diseño que se emplee para la elaboración de su propuesta técnica. En caso de especificarse algún material no incluido en el catálogo se requerirá la autorización previa del IMSS.
+
+Con el objetivo de unificar la identidad de los CECIs, el PE deberá unificar los criterios de acabados en las fachadas de cada uno de los cuerpos que conforman el conjunto.
+
+#### a. Pisos.
+
+Se colocarán recubrimientos en los pisos de las distintas áreas del CECI, empleando materiales considerados en el PE Autorizado, siguiendo los procedimientos que se indiquen en los planos correspondientes y las propias recomendaciones del proveedor. Esto con el objetivo de proteger las superficies del desgaste natural por el tráfico de usuarios, facilitar la limpieza de las superficies y con fines decorativos.
+
+Es responsabilidad del Contratista la verificación de la calidad de los materiales, quien a su vez debe entregar los certificados correspondientes a la Residencia de Obra del IMSS. En el caso de recubrimientos formados por placas o losetas, éstas deberán ser de primera calidad, de color, tamaño, bordes, calidad y tonalidad uniforme, sin alabeos, irregularidades o fisuras.
+
+El Contratista se debe asegurar que los recubrimientos se coloquen según las líneas, niveles y despiece que marque el proyecto. Las tolerancias máximas para pendientes, desfases y desniveles serán las indicadas por el proyecto y normas aplicables. Antes de proceder a la instalación de los recubrimientos, deben colocarse las maestras necesarias para la fijación de niveles.
+
+Para dar los acabados finales a los pisos, se pulirán y brillarán con los materiales y procedimientos que para cada caso señale el proyecto o sugiera el fabricante, protegiendo su brillo y limpieza durante el proceso de la obra.
+
+#### b. Muros.
+
+Antes de proceder a colocar los acabados en muros, se limpiarán los paños de éstos para dejarlos libres de polvo, materias extrañas, sobrantes de mezcla, rebabas de colado y materias sueltas. Es necesario que los elementos de concreto deban ser escarificados con cincel para asegurar la liga de los adhesivos, yesos o aplanados de mortero. Si existieran oquedades o partes de acero descubiertas por colados defectuosos, deben resanarse previamente con mortero cemento-arena y si en caso de requerirse y aprobarse con antelación por el IMSS, la aplicación de aditivos de línea.
+
+Los tipos de acabado, procedimientos de colocación, especificaciones de marcas, colores y modelos, serán los establecidos en los planos correspondientes del PE Autorizado. El Contratista seguirá en todos los casos las especificaciones de recubrimientos y acabados marcados en el proyecto; de no ser posible por causas no imputables a él, informará de inmediato a la Residencia de Obra, para que gire las instrucciones necesarias a considerar, sustituciones o cambios.
+
+En el caso de acabados que requieran procedimientos o sistemas de colocación o instalación específica, y que no estén contemplados en el PE, se seguirán las indicaciones que el fabricante establezca. Será responsabilidad del Contratista, verificar esta información con los fabricantes o proveedores y cumplir con los métodos y procedimientos determinados para ello.
+
+El Contratista debe entregar al Instituto un dictamen de cumplimiento de la norma antes mencionada firmado por personal autorizado, para el funcionamiento de dichas Áreas.
+
+#### c. Cielos falsos o plafones.
+
+Se consideran cielos falsos o plafones, a las superficies de los techos o cubiertas suspendidas, es decir que no están en contacto directo con la estructura. La separación existente del cielo con los elementos estructurales podrá ser motivada por requerimientos estéticos o funcionales, pero en todos los casos, las dimensiones, configuraciones, materiales y acabados serán determinados por el PE Autorizado por el IMSS.
+
+El Contratista debe asegurar que, al momento de cerrar plafones, se realice una limpieza general para asegurar la calidad de los ambientes en los que quedan instalados.
+
+Deben considerar dentro de sus proposiciones técnico-económicas el suministro e instalación de plafón en todas aquellas áreas, indicadas en el Manual de Diseño de Centros de Educación y Cuidado Infantil (CECI).
+
+El PE en todos los casos indicará el sistema de sujeción a losas de entrepiso, techos y elementos estructurales de concreto o acero por medio de colgantes o de estructuras ligeras fijadas al propio sistema de entrepisos o techado. Sin embargo, es responsabilidad del Contratista garantizar que la estructura de sujeción de los cielos falsos sea estable. Se asegurará de que los materiales empleados sean galvanizados o tratados con anticorrosivos para evitar la intemperización de estos.
+
+En los lugares indicados por el PE y/o el IMSS, se dejarán las preparaciones necesarias para registros, salidas de energía eléctrica, lámparas o cualquier otra instalación.
+
+El acabado final se ejecutará siguiendo las formas, líneas y niveles del PE. Al terminar su aplicación, se removerán todos los residuos del material depositados sobre los muros, ventanas o pisos cuando éstos todavía se conserven frescos a fin de facilitar la limpieza.
+
+El PE, no deberá considerar plafones inclinados que conduzcan la humedad al interior del inmueble, ya que dichas pendientes deterioran los acabados y comprometen la seguridad en las instalaciones eléctricas.
+
+#### d. Pintura.
+
+Sobre las áreas indicadas en los planos de acabados y siguiendo las especificaciones marcadas en los mismos, se aplicarán los recubrimientos de pintura respetando las especificaciones, código de colores del PE y muestras aprobadas por el IMSS.
+
+Los materiales que se empleen deben ser de primera calidad aprobada por el IMSS, respetando las marcas y especificaciones establecidas en el PE Autorizado. Las pinturas se aplicarán apegándose estrictamente a las indicaciones del fabricante.
+En ningún caso se aceptará que tengan contenido de plomo, cadmio ni cobre. Y se deberán respetar los niveles máximos de VOC de acuerdo con los estándares aplicables.
+
+Fachadas y Envolventes: Los elementos prefabricados deberán cumplir con criterios de aislamiento térmico, acústico, durabilidad y resistencia al viento, respetando el diseño estético definido.
+
+Obras exteriores: Andadores, rampas, plazas, patios, estacionamientos, áreas ajardinadas, banquetas y andenes de carga/descarga, construidos según la secuencia de tramos, sin considerarse m2 de "superficies adicionales".
+
+Patio Central, área de juegos y punto de reunión: Se debe considerar de acuerdo con el PE, una cubierta tipo velaría o lonaria que garantice la durabilidad, bajo mantenimiento y protección térmica contra rayos solares, la cual deberá ser ubicada de acuerdo con el estudio de asoleamiento.
+
+Los juegos infantiles que serán colocados en el patio central, deberán ser en plástico duro 100% pvc, sin elementos en madera o metálicos que sean susceptibles a deterioro prematuro por oxidación.
+
+Durante el desarrollo del PE, se deberá analizar de forma detallada la implementación de piso de caucho en patio central, ya que, debido a las altas temperaturas, este sistema es susceptible de sobre calentamiento, lo cual puede generar quemaduras graves a los infantes usuarios.
+
+Instalaciones:
+*   Hidráulicas y sanitarias conforme a los estudios de factibilidad y PE aprobado.
+*   Eléctricas y telecomunicaciones según normativa aplicable y PE, incluyendo acometidas y tableros de control.
+*   Mecánicas (aire acondicionado, ventilación, equipos electromecánicos) con eficiencia energética y compatibilidad con la estructura modular.
+
+### 5.2.15. Instalaciones Hidro-Sanitarias.
+
+Las instalaciones hidro-sanitarias consideradas para el CECI se instalarán según los planos del PE Autorizado por el IMSS. Cualquier modificación con respecto a las especificaciones originales, deben presentarse al IMSS para su evaluación y eventual autorización.
+
+El tipo, procedimiento y número de pruebas para tuberías, debe ajustarse a lo establecido en las especificaciones y normas aplicables. No se aceptarán instalaciones que no cumplan con este señalamiento, por lo que el Contratista debe tener especial atención en efectuar todas las pruebas y reparaciones en las instalaciones colocadas de manera que no interfieran con el proceso constructivo de otros elementos del CECI, tales como firmes, muros, losas y sus respectivos acabados. Todo trabajo rechazado producto de una mala planeación en este sentido, se considerará imputable al Contratista y no será considerado para pago.
+
+Será responsabilidad del Contratista, que todos los materiales instalados cumplan con las especificaciones de calibre, calidad, espesor, marca, considerados en el PE Autorizado por el IMSS. Asimismo, se deberá verificar que, en todos los casos, se coloquen los elementos de conexión correspondientes en los cruces o cambios de dirección de las instalaciones, como codos, coples, tees, cruces, tuercas unión. No se permitirá el empleo de materiales usados o de mala calidad en las instalaciones.
+
+Previo a la colocación de las instalaciones hidráulicas y/o sanitarias, el Contratista verificará que los niveles, trazos, despiece, longitudes y dimensiones de las líneas, correspondan a las indicadas en el PE. De presentarse variaciones derivadas de los ajustes al PE durante la construcción, informará a la Residencia de Obra del IMSS para obtener la autorización de la modificación en trazo o nivel. No se aceptarán instalaciones que presenten descargas o desagües que no cumplan con los niveles especificados en los planos autorizados y no estén asentadas en bitácora por la Residencia de Obra del IMSS, de igual manera serán rechazadas aquellas tuberías que no cumplan con las pendientes mínimas necesarias, así como bajadas de aguas negras o salidas de ventilación desplomadas o mal ubicadas.
+
+### 5.2.16. Instalaciones eléctricas, alumbrado y contactos.
+
+Para los fines de este capítulo, se definirá como instalaciones eléctricas al sistema que tiene como función el suministro y control de energía en baja tensión de fuerza y alumbrado, para el funcionamiento y operación del CECI. Los trabajos relativos al equipamiento del CECI para el suministro, distribución y control de energía en media y alta tensión, así como los bancos de baterías, soporte UPS, sistema de tierras, transformadores y demás equipos relacionados, se incluirán en el alcance de la obra electromecánica, la cual se describe en el apartado de este documento correspondiente a esa especialidad.
+
+En el alcance de este apartado, el Contratista debe incluir todo lo necesario para dotar de energía al CECI, incluyendo cualquier apoyo que requiera la Residencia de Obra.
+
+La instalación del sistema eléctrico se ejecutará según el PE Autorizado por el IMSS, siendo obligación del Contratista la responsabilidad técnica del mismo, así como las memorias de cálculo correspondientes.
+
+El tipo, procedimiento y número de pruebas para las instalaciones eléctricas deberá ajustarse a lo establecido en las especificaciones y normas aplicables. No se aceptarán instalaciones que no cumplan con todas pruebas establecidas en las normas del proyecto, o que se hayan ejecutado usando materiales fuera de especificaciones de calibre, calidad, marca.
+
+### 5.2.17. Guías táctiles y señalamientos.
+
+En el PE Autorizado, se deben detallar los señalamientos indicativos, conductivos, informativos, restrictivos y educativos para los usuarios y empleados del CECI, así como para las personas con capacidades diferentes que requieren este tipo de señalamientos especiales. Adicionalmente, se deberán señalar los anuncios de las áreas restringidas para el público, como las zonas donde estarán ubicados los equipos eléctricos.
+
+La instalación de los elementos de señalización se regirá, en todos los casos, a las especificaciones de dimensiones, acabados y sistemas de sujeción marcados en los planos del PE Autorizado por el IMSS y en las normas aplicables.
+
+Los señalamientos deben cumplir con las normas y estándares Internacionales, por lo que el Contratista garantizará que los elementos se apeguen completamente a lo establecido en los planos del proyecto. Antes de entregar el paquete de señalamientos para su instalación, el Contratista debe verificar en obra las dimensiones, espacios y plomos de los elementos estructurales sobre los cuales se instalarán. El Contratista debe fabricar y colocar una muestra para la aprobación del Residente de Obra del IMSS. Los colores de los símbolos, líneas y fondo de los anuncios deben corresponder exactamente a lo establecido en el PE Autorizado y a la Imagen Institucional establecida en las normas.
