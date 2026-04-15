@@ -1,5 +1,7 @@
 # GUÍA INTEGRAL DETALLADA: TÉRMINOS DE REFERENCIA PARA EL PROYECTO CECI YECAPIXTLA
 
+Ver documento completo: [https://github.com/moisesescarcega/CECI-Morelos/blob/main/F1_TR/F1_TR.md](https://github.com/moisesescarcega/CECI-Morelos/blob/main/F1_TR/F1_TR.md)
+
 ## 1. Visión General y Metodología Contractual
 El proyecto consiste en un contrato de **Obra Integral a Precio Alzado** para el desarrollo del Proyecto Ejecutivo, Construcción y Equipamiento de un Centro de Educación y Cuidado Infantil (CECI) en Yecapixtla, Morelos.
 
