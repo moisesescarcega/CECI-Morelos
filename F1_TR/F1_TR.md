@@ -3070,3 +3070,625 @@ En el PE Autorizado, se deben detallar los señalamientos indicativos, conductiv
 La instalación de los elementos de señalización se regirá, en todos los casos, a las especificaciones de dimensiones, acabados y sistemas de sujeción marcados en los planos del PE Autorizado por el IMSS y en las normas aplicables.
 
 Los señalamientos deben cumplir con las normas y estándares Internacionales, por lo que el Contratista garantizará que los elementos se apeguen completamente a lo establecido en los planos del proyecto. Antes de entregar el paquete de señalamientos para su instalación, el Contratista debe verificar en obra las dimensiones, espacios y plomos de los elementos estructurales sobre los cuales se instalarán. El Contratista debe fabricar y colocar una muestra para la aprobación del Residente de Obra del IMSS. Los colores de los símbolos, líneas y fondo de los anuncios deben corresponder exactamente a lo establecido en el PE Autorizado y a la Imagen Institucional establecida en las normas.
+
+Las estructuras de los gabinetes de señalamiento, letreros y módulos de información deben ejecutarse de acuerdo con las especificaciones del proyecto en cuanto a materiales, secciones, calibres y tipo de perfil; los frentes deben cumplir con las especificaciones de calibre, color y acabado. Serán motivo de rechazo por parte del IMSS las piezas fabricadas con perfiles o materiales fuera de especificaciones de proyecto, o con calibre y/o secciones distintas a las indicadas en los planos; las piezas mal soldadas o fuera de medida, piezas dañadas por golpes durante su colocación o almacenamiento durante el proceso de obra.
+
+### 5.2.18. Adecuaciones viales y señalamiento provisional.
+
+El Contratista debe en todo momento acatar las indicaciones del Residente de Obra del IMSS relativas a garantizar la seguridad de trabajadores, visitantes y vehículos, atendiendo de manera inmediata cualquier situación de riesgo o conflicto que llegase a ocurrir derivada de los trabajos de construcción. Para ello, colocará de manera oportuna las señales necesarias para hacer de conocimiento público los límites de las áreas de trabajo y los riesgos que éstas representan.
+
+El señalamiento vertical informativo y de protección, se debe colocar de acuerdo con lo establecido en el PE Autorizado y a los lineamientos de Imagen Institucional descrita en las especificaciones particulares respectivas y conforme a lo dispuesto por el IMSS. Todos los señalamientos indicativos, conductivos, informativos, restrictivos y educativos, deben cumplir con las dimensiones, alturas y acabados autorizados por las dependencias correspondientes.
+
+El Contratista debe considerar dentro de su análisis de costos la fabricación o renta de letreros, los cuales deben permanecer instalados las veinticuatro horas del día durante el tiempo que perdure la obra.
+
+### 5.2.19. Obra Electromecánica.
+
+Todas las obras que se relacionan en el siguiente apartado, deben ejecutarse de acuerdo con el PE Autorizado y/o lo que ordene el IMSS, siguiendo los lineamientos que en términos generales apliquen.
+
+En general se describen a continuación las partidas principales de Obra Electromecánica:
+
+*   Sistemas de Calefacción, Ventilación y Aire Acondicionado.
+*   Instalaciones Hidráulicas y Sanitarias.
+*   Drenaje Pluvial.
+*   Subestaciones eléctricas.
+*   Acometidas eléctricas.
+*   Tableros eléctricos.
+*   Sistemas de alumbrado y receptáculos.
+*   Sistemas de Fuerza.
+*   Sistemas de tierras.
+*   Sistema de voz y datos.
+*   Cableado Estructurado.
+*   Pararrayos.
+*   Sistema de Detección de Incendio.
+*   Sistema de Control de Acceso.
+*   Instalación de Circuito Cerrado de TV.
+
+Al formular su proposición, debe considerar ejecutar la obra integral, con base a la programación simultánea de actividades, de acuerdo con una planeación congruente con los tiempos, recursos disponibles y programas de trabajo.
+
+Equipamiento Integral: Mobiliario, juegos, cocinas y equipos, instalados al concluir cada tramo constructivo, cumpliendo estándares de seguridad, ergonomía y durabilidad.
+
+---
+
+### 5.2.20. Equipamiento.
+
+El Contratista se debe coordinar con la Residencia de Obra, para proporcionar el acceso de mobiliario por el IMSS. Se tendrán en cuenta que el arribo de dichos bienes, en función del avance de la obra.
+
+Así mismo, debe facilitar el acceso a los proveedores para la revisión y cualquier otra previa a criterio del IMSS.
+
+Una vez estos equipos se encuentren en la obra, el Contratista debe garantizar el funcionamiento de las instalaciones necesarias, así como la seguridad e integridad de los equipos hasta la finalización de las obras.
+
+Debe considerar en su proposición, los costos correspondientes al resguardo, almacenaje, traslado, movimiento e instalación del equipo asociado a obra suministrado por el IMSS. Para el equipo Médico, el resguardo, almacenaje, traslado desde la zona de descarga en la obra, hasta la zona o local de destino, así como el acomodo y limpieza, de éstos, según instrucciones del IMSS y en concordancia con los "Planos de ruta de arrastre" previstos en el proyecto de Equipamiento.
+
+Para los núcleos sanitarios infantiles, deberá considerar muebles de baño (wc, lavamanos, mingitorios) en tamaño infantil.
+
+Pruebas y Puesta en Marcha: Cada tramo y la obra completa deberán pasar pruebas funcionales de instalaciones, equipos y sistemas, dejando el inmueble totalmente operativo.
+
+Control de Calidad y Documentación: Documentar cada etapa con informes, registros fotográficos y planos actualizados, entregados al IMSS para su revisión y autorización antes de continuar con el siguiente tramo.
+
+### 5.2.21. Especificaciones Generales de Construcción. Basadas en las Guías Técnicas de Construcción.
+
+El Contratista debe apegarse y dar cumplimiento a lo especificado en las Guías Técnicas de Construcción del IMSS.
+
+### 5.2.22. Especificaciones Particulares de Construcción.
+
+El Contratista debe apegarse a la forma, parámetros y condiciones que se establezcan en estos T.R., así como en el contrato que se celebre para la ejecución de los trabajos del CECI y está obligado a llevarlos a cabo con estricto cumplimiento a la información contenida en el PE Autorizado por el IMSS.
+
+El Contratista adquiere el compromiso de:
+
+a.  Que los materiales, insumos y equipos que se utilicen en los trabajos y en la realización de todas y cada una de las actividades, se efectúen de conformidad con las especificaciones particulares y calidad establecidas, con estricto apego al PE Autorizado por el IMSS y al contrato pactado.
+b.  Sujetarse a todos los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, uso de la vía pública, protección ecológica y del medio ambiente que rijan en el ámbito federal, estatal y municipal, así como las instrucciones que al efecto señale el IMSS.
+c.  Asumir los riesgos de conservación de los trabajos ejecutados, hasta el momento de su entrega al IMSS.
+
+Lo indicado en el presente capítulo es de carácter enunciativo más no limitativo, lo no previsto en éste, debe regirse por las Guías Técnicas de Construcción del IMSS, Procedimiento de Construcción propuesto y en las especificaciones.
+
+El licitante deberá tomar en consideración el grado de dificultad técnica, seguridad, logística y organización, que representa la ejecución de los trabajos en el sitio de la obra, aplicando todas las especialidades requeridas en el proyecto ejecutivo así como en el catálogo de actividades proporcionado por el IMSS, considerando el medio ambiente, topografía y demás aplicables, siendo de vital importancia las condiciones climatológicas prevalentes en la localidad, que garanticen la calidad, funcionamiento y viabilidad del mismo, sometiendo su proceso de elaboración y desarrollo, a la revisión y aprobación de las Áreas Normativas del IMSS.
+
+---
+
+## 6. SUBCONTRATACIÓN
+
+De la parte o partes de los trabajos que, en su caso podrán subcontratarse serán los referentes a:
+
+Pruebas de laboratorio de concreto, acero, soldadura (ultrasonido),
+
+Terracerías.
+Telecomunicaciones.
+Aire Acondicionado
+
+### 6.1. Plantilla Mínima de Personal Técnico Requerida en el Alcance II
+
+La plantilla mínima de personal técnico para la Construcción del CECI deberá estar conformada por profesionistas calificados y con experiencia en Obras de características, complejidad y magnitud similares o mayores. La integración de la plantilla debe considerar:
+
+#### PLANTILLA MÍNIMA DE PERSONAL TÉCNICO REQUERIDA
+
+| CANT. | PERSONAL | GRADO ACADÉMICO | EXPERIENCIA |
+|-------|----------|-----------------|-------------|
+| 1 | Superintendente de construcción | Arquitecto, Ingeniero-Arquitecto, Ingeniero Civil. | 3 años de experiencia comprobables y acreditables en la construcción de obras de características similares o de mayor complejidad a las solicitadas a nivel público o privado. |
+| 1 | Especialista en programación y Control de Obra | Arquitecto, Ingeniero-Arquitecto, Ingeniero Civil. | 2 años de experiencia comprobables y acreditables en programación y control de obras, a través de Software en obras con características similares o de mayor complejidad a las solicitadas a nivel público o privado. |
+| 1 | Residente o Jefe de Frente (Obra Civil) | Arquitecto, Ingeniero-Arquitecto, Ingeniero Civil. | 3 años de experiencia comprobables y acreditables en construcción de obras con características similares o de mayor complejidad, efectuadas para el sector público o privado. |
+| 1 | Residente o Jefe de Frente (Instalaciones electromecánicas) | Ingeniero Electricista, Ingeniero Mecánico, Ingeniero Electromecánico, etc. | 3 años de experiencia comprobables y acreditables en construcción de obras con características similares o de mayor complejidad, efectuadas para el sector público o privado. |
+| 1 | Especialista en topografía | Ingeniero Topógrafo o equivalente, Ingeniero Civil, Arquitecto, Ingeniero-Arquitecto | 3 años de experiencia comprobables y acreditables en la elaboración de Levantamientos Topográficos de Precisión, Desarrollo de Planos de Trazo de Edificaciones y Obras Exteriores, en obras similares o de mayor complejidad, efectuadas para el sector público o privado. |
+| 1 | Coordinador de Seguridad e Higiene en Obra | Ingeniero Civil, Ingeniero Industrial o Arquitecto | 1 años de experiencia comprobable y acreditable en Supervisión y/o construcción de Obras en el sector público o privado con características, complejidad y magnitud similar o mayor a las del objeto del presente procedimiento de contratación. |
+
+Cabe señalar que, para la integración de su propuesta técnica y económica, en la plantilla mínima que el licitante proponga para el Frente de Obra 1, tendrá que ser distinto al personal que proponga para los demás frentes de obra.
+
+Adicionalmente, el personal que integre la Plantilla de Personal Técnico para la Construcción del CECI, deberá conocer la Ley de Obra Pública y Servicios Relacionados con las Mismas, así como la Normatividad aplicable.
+
+Si el contratista, durante la ejecución de la obra, por causas imputables a él, requiere incrementar la Plantilla de Personal Técnico, no tendrá derecho a reclamación de pagos adicionales, por lo que deberá considerar en cada frente personal técnico suficiente de acuerdo con su experiencia.
+
+Como se indica en la plantilla anterior, es la mínima requerida por especialidades, siendo la responsabilidad del Contratista contar con el personal de apoyo para cumplir con los trabajos que se demandan.
+
+La experiencia comprobable y acreditable, será presentada dentro de los Currículos Vitae, indicando específicamente su participación en los trabajos descritos, los plazos de ejecución, ubicación del proyecto, la descripción de sus actividades será determinante para ayudar en la evaluación técnica.
+
+El Contratista, como empresario y empleador del personal que integre su Plantilla Técnica, con motivo de la prestación de los trabajos a realizar, será el único responsable de las obligaciones derivadas de las disposiciones legales y demás ordenamientos en materia de trabajo y de seguridad social, asimismo, conviene por lo mismo en responder de todas las reclamaciones que sus trabajadores presentarán en su contra o en contra del Instituto, en relación con los trabajos objeto de los presentes TR.
+
+Los licitantes deberán considerar que, en caso de que le sea adjudicado el contrato, no se permitirán cambios de personal especializado de la Plantilla de Personal Técnico presentada en su propuesta técnica, salvo que se presente una justificación debidamente fundamentada por causas de fuerza mayor que les impida realizar sus funciones lo cual quedará a consideración del Instituto para su aprobación, o que durante el desarrollo del servicio, el Coordinador de proyecto detecte falta de probidad, profesionalismo o experiencia de resolución.
+
+El Licitante Ganador deberá integrar un Expediente Administrativo del Contrato, el cual estará dividido en 3 Secciones, cada Sección corresponderá a cada una de las Etapas del Proyecto Integral
+
+Por cuanto hace al Alcance II, Obra, el Superintendente, bajo la supervisión del Residente del Proyecto Integral, deberá conformar el expediente administrativo del contrato del Alcance II, mismo que se integra por toda la documentación generada en el proceso Constructivo tanto en archivos electrónicos (en formato PDF) en disco duro externo o memoria USB, como en documentos impresos, compilando la información en carpetas y subcarpetas, que contengan en su portada el nombre y ubicación del CECI, nombre del Contratista, número de contrato, fecha y logotipo del IMSS y descripción del contenido de la carpeta. Todo ello debe realizarse en forma ordenada cronológicamente, tipo de documento, especialidad y que contendrá cuando menos las minutas de trabajo, copias de los oficios de entregas parciales y definitivas realizadas con acuse de recibido, aviso de terminación de los Servicios, Actas (Entrega-Recepción, Finiquito, Extinción de Derechos) en su caso Dictámenes y/o Convenios, así como la impresión de las notas de bitácora, copias de estimaciones, planos testigo digitalizados (formato PDF) de todas las revisiones debidamente integrados de acuerdo con cada una de las especialidades del producto esperado, incluyendo las revisiones realizadas a las memorias descriptivas y de cálculo y paquete de diseño.
+
+---
+
+## 7. FORMA DE PAGO DEL ALCANCE II.
+
+Los trabajos del Alcance II serán contratados bajo la condición de pago a "Precio Alzado" en el que el importe de la remuneración o pago total fijo que deba cubrirse al licitante que resulte adjudicado será por los trabajos totalmente terminados y ejecutados en el plazo establecido, con base en lo determinado en la cédula de avance y pagos programados, mismos que serán pagados mediante la formulación de la o las estimaciones mensuales conforme al catálogo de actividades correspondiente.
+
+Todos los materiales, papelería, mano de obra, herramientas, maquinaria y equipo que se requieran para ejecutar los trabajos del trámite, traslados al sitio de los trabajos, oficinas de la autoridad reguladora y en su caso a las oficinas del Instituto, deberá considerarlo en su propuesta económica (indirectos).
+
+La cuantía de la penalización y el porcentaje de retención a estipular será la siguiente:
+
+#### RETENCIONES Y PENALIZACIONES ECONÓMICAS DEFINITIVAS
+
+| Importe contratado | Retención por periodo de pago único, semanal, quincenal o mensual, según sea determinado de acuerdo con el numeral 5.40 de los POBALINES. | Penalizaciones económicas definitivas por cada día de atraso. |
+|--------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Más de 200 millones de pesos. | 3.0% | 1 al millar |
+| Más de 100 millones y hasta 200 millones de pesos. | 5.0% | 2 al millar |
+| Más de 50 millones y hasta 100 millones de pesos. | 7.0% | 3 al millar |
+| Más de 30 millones y hasta 50 millones de pesos. | 9.0% | 4 al millar |
+| De 30 millones de pesos o menos. | 11% | 5 al millar |
+
+Los precios de los trabajos deberán expresarse en moneda nacional.
+
+---
+
+## 8. PRODUCTO ESPERADO
+
+### Expediente Administrativo de Obra
+
+Durante la ejecución de los trabajos el Residente de Obra conjuntamente con el licitante ganador, será responsable de documentar e integrar en el "Expediente Administrativo de la Obra", la memoria documental desde la concepción del proyecto hasta su cierre, el cual contendrá al menos la documentación relacionada en el Tabla 1.
+
+#### TABLA 1
+##### EXPEDIENTE ADMINISTRATIVO DE LA OBRA
+
+| No. | Documento |
+|-----|-----------|
+| 1.1. | Contrato de obra o servicios con anexos |
+| 1.2. | Convenio |
+| 1.3. | Fianza y endosos de garantía de cumplimiento y/o anticipo |
+| 1.4. | Designación del residente de obra |
+| 1.5. | Designación del superintendente |
+| 1.6. | Acta entrega recepción del inmueble donde se ejecutará la obra |
+| 1.7. | Listado de insumos (materiales, equipo de instalación permanente, mano de obra, maquinaria y equipo de construcción) |
+| 1.8. | Planos de anteproyecto (oficios y planos) |
+| 1.9. | Planos de proyecto ejecutivo autorizado (oficios y planos) |
+| 1.10. | Memorias técnico-descriptivas y de cálculo del proyecto ejecutivo (arquitectónica, estructural, instalaciones hidráulicas, sanitarias, eléctricas, aire acondicionado, voz y datos, sistema contra incendio, etc.) |
+| 1.11. | Programas de ejecución general de los trabajos (de contrato, convenios, suspensiones) en archivos Excel y PDF con firmas |
+| 1.12. | Programas de utilización de materiales y equipo de instalación permanente de la obra, calendarizados y cuantificados (archivos en Excel y PDF con firmas) |
+| 1.13. | Programas de utilización de maquinaria y equipo de construcción durante la obra o servicio (de contrato, convenios, suspensiones) en archivos Excel y PDF con firmas |
+| 1.14. | Programas de materiales e insumos (de contrato, convenios, suspensiones) en archivos Excel y PDF con firmas |
+| 1.15. | Programas de utilización del personal técnico y administrativo (de contrato, convenios, suspensiones) en archivos Excel y PDF con firmas |
+| 1.16. | Catálogo de conceptos de obra, propuesto por el contratista |
+| 1.17. | Bitácora electrónica y seguimiento a Obra Pública (BESOP), antes BEOP |
+| 1.18. | Minutas de trabajo |
+| 1.19. | Comunicados de incumplimiento al contratista, terminación anticipada o rescisión |
+| 1.20. | Documentación de terminación anticipada o rescisión, notificación del inicio del procedimiento, resolución, notificación de la resolución |
+| 1.21. | Acta circunstanciada de suspensión de obra o servicios |
+| 1.22. | Estimaciones |
+| 1.23. | Cédulas de avance físico financiero semanales y mensuales con fotografías, gráficas, etc. |
+| 1.24. | Presupuestos de conceptos no contemplados en el catálogo de contrato (extraordinarios autorizados) presupuesto N° 1, 2, 3... |
+| 1.25. | Solicitud de autorización de ajuste de costos |
+| 1.26. | Estudio del análisis de ajuste de costos |
+| 1.27. | Solicitud de análisis del costo indirecto |
+
+---
+
+| 1.28. | Estudio del análisis del costo indirecto |
+| 1.29. | Solicitud de análisis del costo de financiamiento |
+| 1.30. | Estudio del análisis del costo de financiamiento |
+| 1.31. | Actas administrativas y/o circunstanciadas según el caso |
+| 1.32. | Correspondencia de entrada |
+| 1.33. | Correspondencia de salida |
+| 1.34. | Cédulas de seguridad e higiene con firmas del DRO |
+| 1.35. | Documentos solicitando cambios, complementación o especificaciones a la división de análisis y revisión de proyectos |
+| 1.36. | Modelado BIM reportes e interferencias |
+| 1.37. | Planos, boletines, croquis, estudios de costo beneficio, autorizados por la división de análisis y revisión de proyectos |
+| 1.38. | Autorización escrita de la división de análisis y revisión de proyectos de cambios, complementación o especificaciones al proyecto |
+| 1.39. | Planos actualizados "As-Built" (número de referencia, título del plano y número de modificación) |
+| 1.40. | Pago de conexión de servicios |
+| 1.41. | Constancia de realización de capacitación al personal de los equipos suministrados |
+| 1.42. | Manuales e instructivos de operación de los equipos instalados y suministrados en la obra |
+| 1.43. | Garantías de los equipos instalados y suministrados en la obra |
+| 1.44. | Documentación que compruebe la debida operación de los equipos (protocolo de pruebas) |
+| 1.45. | Oficio de solicitud de estado presupuestal, validado por la división de trámite de erogaciones (finanzas) |
+| 1.46. | Estado presupuestal, validado por la división de trámite de erogaciones (finanzas) |
+| 1.47. | Acta de extinción de derechos y obligaciones del contrato de obra o servicios |
+| 1.48. | Aviso de terminación de los trabajos por parte de la contratista, realizado por BESOP y/u oficio (con firma de recibido del residente de obra) |
+| 1.49. | Entrega del expediente único de obra por parte del residente |
+| 1.50. | Acta de recepción física de los trabajos (con anexos) |
+| 1.51. | Fianza de vicios ocultos |
+| 1.52. | Acta de entrega recepción de la residencia de obra al área operativa (conservación) con anexos. |
+| 1.53. | Documento que hace constar el finiquito del contrato de obra (con anexos). |
+| 1.54. | Oficio de orden de auditoría. |
+| 1.55. | Documentos de solicitud de información por parte de los órganos fiscalizadores (ASF, SFP, OIC). |
+| 1.56. | Documentos de entrega de información. |
+| 1.57. | Cedulas de observaciones realizadas al contrato de obra. |
+| 1.58. | Documentos de seguimiento y atención a las observaciones. |
+| 1.59. | Realizadas al contrato de obra. |
+| 1.60. | Documento que haga constar la solvatación de la auditoría relativa al contrato de obra. |
+| 1.61. | Entre otros. |
+
+---
+
+## 9. DISPOSICIONES NORMATIVAS.
+
+### 9.1. Normas Oficiales Mexicanas (NOM).
+
+*   NOM-001-CONAGUA-2011.- Sistemas de agua potable, toma domiciliaria y alcantarillado sanitario-Hermeticidad-Especificaciones y métodos de prueba.
+*   NOM-001-CONAGUA-2011.- Toma domiciliaria para abastecimiento de agua potable. Especificaciones y método de prueba.
+*   NOM-002-CONAGUA-2021.- Aparatos y accesorios de uso sanitario.
+*   NOM-008-CONAGUA-1998.- Regaderas empleadas en el aseo corporal —especificaciones y métodos de prueba.
+*   NOM-007-ENER-2004.- Eficiencia energética en sistemas de alumbrado en edificios no residenciales.
+*   NOM-008-ENER-2001.- Eficiencia energética en edificaciones envolvente de edificios no residenciales.
+*   NOM-009-ENER-2014.- Eficiencia energética en aislamientos térmicos industriales.
+*   NOM-001-SCFI-2018.- Aparatos electrónicos-Requisitos de seguridad y métodos de prueba.
+*   NOM-008-SCFI-2002.- Sistema General de Unidades de Medida.
+*   NOM-012-SCFI-1994.- Medición de flujo de agua en conductos cerrados de sistemas hidráulicos. Medidores para agua potable fría, especificaciones.
+*   NOM-004-SEDG-2004.- Instalaciones de aprovechamiento de gas L.P. diseño y construcción.
+*   NOM-001-SEDE-2012.- Instalaciones eléctricas (utilización).
+*   NOM-004-SEDG-2004.- Instalaciones de aprovechamiento de gas L.P. Diseño y Construcción.
+*   NOM-009-SESH-2011.- Recipientes para contener gas L.P., Tipo no transportable. Especificaciones y métodos de prueba.
+*   NOM-200-SCFI-2017.- Calentadores de agua de uso doméstico y comercial que utilizan como combustible Gas L.P. o Gas Natural.- Requisitos de seguridad, especificaciones, métodos de prueba, marcado e información comercial
+*   NOM-003-SEGOB/2011.- Señales y Avisos para Protección Civil. -Colores formas y símbolos a utilizar.
+*   NOM-001-SEMARNAT 2021.- Que establece los límites permisibles de contaminantes en las descargas de aguas residuales en cuerpos receptores propiedad de la nación.
+*   NOM-002-SEMARNAT-1996.- Límites máximos permisibles de contaminantes en las descargas de aguas residuales a los sistemas de alcantarillado urbano o municipal.
+*   NOM-003-SEMARNAT 1997.- Establece límites máximos permisibles de contaminantes para las aguas residuales tratadas que se rehusen en servicios al público.
+*   NOM-052-SEMARNAT-2005.- Establece las características, el procedimiento de identificación, clasificación y los listados de los residuos peligrosos.
+*   NOM-059-SEMARNAT-2010.- Protección ambiental – especies nativas de México de flora y fauna silvestres – categorías de riesgo y especificaciones para su inclusión, exclusión o cambio —Lista de especies en riesgo.
+*   NOM-085-SEMARNAT-2011.- Contaminación atmosférica-Niveles máximos permisibles de emisión de los equipos de combustión de calentamiento indirecto y su medición.
+*   NOM-087-SEMARNAT-SSA1-2002.- Protección ambiental -salud ambiental-residuos peligrosos biológico-infecciosos —clasificación y especificaciones de manejo.
+*   NOM-230-SSA1-2002.- Salud ambiental. Agua para uso y consumo humano, requisitos sanitarios que se deben cumplir en los sistemas de abastecimiento públicos y privados durante el manejo del agua. Procedimientos sanitarios para el muestreo.
+*   NOM-016-SSA3-2012, Establece las características mínimas de infraestructura y equipamiento de hospitales y consultorios de atención médica especializada
+*   NOM-127-SSA1-2021.- Agua para uso y consumo humano. Límites permisibles de la calidad del agua.
+*   NOM-007-SSA3-2011.- Para la organización y funcionamiento de los laboratorios clínicos.
+*   NOM-003-SSA3-2010.- Para la práctica de hemodiálisis.
+*   NOM-015-SSA3-2012.- Para la atención integral a personas con discapacidad.
+*   NOM-005-SSA3-2018.- Establece los requisitos mínimos de infraestructura y equipamiento de establecimientos para la atención médica de pacientes ambulatorios.
+*   NOM-229-SSA1-2002.- Salud Ambiental. Requisitos técnicos para las instalaciones, responsabilidades sanitarias, especificaciones técnicas para los equipos y protección radiológica en establecimientos de diagnóstico médico con Rayos "X".
+*   NOM-030-SSA3-2013.- Establece las características arquitectónicas para facilitar el acceso, tránsito, uso y permanencia de las personas con discapacidad en establecimientos de atención médica ambulatoria y hospitalaria del Sistema Nacional de Salud.
+*   NOM-002-STPS-2010.- Condiciones de Seguridad-Prevención y Protección contra Incendios en los Centros de Trabajo.
+*   NOM-020-STPS-2011.- Recipientes sujetos a presión, recipientes criogénicos y generadores de vapor o calderas – Funcionamiento – Condiciones de Seguridad.
+*   NOM-026-STPS-2008.- Colores y señales de seguridad e higiene e identificación de riesgos por fluidos conducidos por tuberías.
+*   NOM-100-STPS-1994.- Seguridad – Extintores contra incendio a base de polvo químico seco con presión contenida —especificaciones-.
+*   NOM-101-STPS-1994.- Seguridad extintores a base de espuma química.
+*   NOM-102-STPS-1994.- Seguridad — Extintores contra incendio a base de bióxido de carbono — Parte 1: Recipientes.
+*   NOM-103-STPS-1994.- Seguridad-Extintores contra incendio a base de agua con presión contenida.
+
+---
+
+### Normas Mexicanas (NMX).
+
+*   NMX-C-294-1980.-Determinación de las características del quemado superficial de los materiales de construcción.
+*   NMX-C-155-ONNCCE-2014.- Industria de la construcción-concreto hidráulico-dosificado en masa especificaciones y métodos de ensayo
+*   NMX-C-404-ONNCCE-2012.- Industria de la construcción-mampostería-bloques, tabiques o ladrillos y tabicones para uso estructural-especificaciones y métodos de ensayo.
+*   NMX-C-415-ONNCCE-2013.- Industria de la construcción válvulas y grifos para agua especificaciones y métodos de ensayo
+*   NMX-C-423-ONNCCE-2019.- Industria de la construcción-pinturas-pinturas arquitectónicas-especificaciones físico químicas, desempeño y métodos de prueba.
+*   NMX-ES-001-NORMEX-2018.- Energía solar- rendimiento térmico y funcionalidad de colectores solares para calentamiento de líquidos – métodos de prueba y etiquetado.
+*   NMX-J-098-ANCE-2014.- Sistemas eléctricos – tensiones eléctricas normalizada
+*   NMX-J-116-ANCE-2017.- Transformadores de distribución tipo poste y tipo subestación – especificaciones
+*   NMX-J-118/1-ANCE-2000.- Productos Eléctricos. – Tableros de alumbrado y distribución en baja tensión, especificaciones y métodos de prueba.
+*   NMX-J-118/2-ANCE-2007.- Productos Eléctricos. – Tableros de distribución de fuerza en baja tensión, especificaciones y métodos de prueba.
+*   NMX-J-142/2-ANCE-2011.- Conductores — cables de energía con pantalla metálica, aislados con polietileno de cadena cruzada o a base de etilenopropileno para tensiones de 69 kV hasta 115 kV —Especificaciones y métodos de prueba.
+*   NMX-J-266-ANCE-1999.- Productos Eléctricos — Interruptores — Interruptores automáticos en caja moldeada, Especificaciones y métodos de prueba.
+*   NMX-J-323-ANCE-2005.- Cuchillas seccionadoras de operación con carga para media tensión, Especificaciones y métodos de prueba.
+*   NMX-J-351-1-ANCE-2021. Transformadores y autotransformadores de distribución y potencia tipo seco-parte 1: especificaciones
+*   NMX-J-353-ANCE-2021.- Centro de control de motores — Especificaciones y métodos de prueba.
+*   NMX-J-511-ANCE-2011.- Soporte para conductores eléctricos — Sistemas de soportes metálicos tipo charola — Especificaciones y métodos de prueba.
+*   NMX-J-535-ANCE-2008.- Tubos rígido de acero tipo semipesados y sus accesorios para la protección de conductores – Especificaciones y métodos de prueba.
+*   NMX-J-549-ANCE-2005.- Sistema de Protección Contra Tormentas Eléctricas Especificación de Materiales y Métodos de Medición.
+*   NMX-I-248- NYCE- 2008.- Telecomunicaciones —cableado- cableado estructurado genérico —cableado de telecomunicaciones para edificios comerciales, edificaciones y métodos de prueba.
+
+### Normas y Lineamientos Internacionales.
+
+Se tomarán en cuenta, solo como complemento a la Reglamentación Nacional vigente o en los casos especiales en los que no existe Reglamentación Nacional.
+
+*   American Concrete Institute (ACI).
+*   American Institute of Steel Construction (AISC).
+*   American Society for Testing and Materials (ASTM).
+*   American Welding Society (AWS) Code.
+*   ANSI.- American National Standard Institute (instituto nacional norteamericano de estándares).
+*   ANSI C2-1981.- Código nacional de seguridad eléctrica.
+*   ANSI/UL 797.- Tubería Metálica Eléctrica.
+*   ASHRAE.- American Society of Heating, Refrigeration and Air-conditioning Engineers.
+*   EIA/TIA-Electronic Industries Association.- (Asociación de Industrias Electrónicas)/ Telecommunications Industry Association (Asociación de Industrias de Telecomunicaciones).
+*   ANSI/TIA/EIA-568-B.- Cableado de telecomunicaciones en edificios comerciales.
+*   ANSI/TIA/EIA-568-B1.- Requerimientos generales.
+*   ANSI/TIA/EIA-568-B2.- Componentes de cableado mediante par trenzado balanceado.
+*   ANSI/TIA/EIA-568-B3.- Componentes de cableado, fibra óptica.
+*   ANSI/TIA/EIA-569-A.- Norma de recorridos y espacios de cableado y espacios de telecomunicaciones para edificaciones en cableado categoría 6ª.
+*   ANSI/TIA/EIA-606.- Norma de Administración para la Infraestructura de Telecomunicación de Edificios.
+*   FCC.- Federal Communications Commission (Comisión Federal de Comunicaciones).
+*   GREEN GUIDE FOR HEALTH CARE.
+*   IEEE.- Institute of Electrical and Electronic Engineers (Instituto de Ingenieros Eléctricos y Electrónicos).
+*   ISO.- International Organization for Standardization (Organización Internacional para la Estandarización)
+*   ISO/ IEC DIS 11801.
+*   NEC.- Código Eléctrico Nacional.
+*   NEMA.- National Electrical Manufactures Association.
+*   NEMA VE1-2009.- Metal cable tray systems (Estandarización de Portacables). NFPA 20 2010: Standard for the installation of stationary pumps for fire protection.
+*   NFPA 70-2011.- National Electric Code.
+*   NFPA 99 2012.- Health Care Facilities Code.
+*   Reglas y Regulaciones de la COFETEL.- Parte 68.
+*   UIT.- Unión Internacional de Telecomunicaciones.
+*   UL.- Underwrites Laboratories (laboratorios de Certificación).
+*   UL 497.- Equipos de Conexión a Tierra y Unión de Tierras.
+
+### Estándares y Reglamentos
+
+*   Ley Ambiental del Distrito Federal y su Reglamento o su equivalente de acuerdo con la legislación de la localidad.
+*   Manual de Diseño de Obras Civiles de la C.F.E.
+*   NADF-008-AMB-2005.- Especificaciones técnicas para aprovechamiento de energía solar para calentamiento.
+*   Normas Oficiales Mexicanas vigentes y aplicables emitidas por la Secretaría de Comunicaciones y Transportes (SCT).
+*   NRF-022-PEMEX-2008.- Norma de Referencia para Redes de Cableado Estructurado.
+*   Normas Técnicas Complementarias para el Proyecto Arquitectónico del Reglamento de Construcciones para el Distrito Federal (Gaceta Oficial del Distrito Federal, México, D.F., 29 de enero de 2004. Reimpresión 2009).
+*   Reglamento de Construcciones de la localidad y sus Normas Técnicas Complementarias respectivas o supletoriamente del D.F.
+*   Reglamento de la Ley de Protección Civil de la localidad y sus Normas Técnicas complementarias respectivas o supletoriamente del DF.
+
+---
+
+## LEYES Y REGLAMENTOS
+
+*   Ley de Aguas Nacionales.
+*   Ley de Aguas de la localidad y sus Normas Técnicas Complementarias respectivas o supletoriamente.
+*   Ley Ambiental de la localidad y sus Normas Técnicas Complementarias respectivas o supletoriamente.
+*   Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público.
+*   Ley de Aguas del Distrito Federal (Gaceta del 27 de mayo 2003).
+*   Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+*   Ley General de Equilibrio Ecológico y la Protección al Ambiente.
+*   Ley General de Salud.
+*   Leyes Estatales y Reglamentos Estatales y Municipales Aplicables.
+*   Reglamento de la Comisión Interinstitucional de Cuadro Básico de Insumos del Sector Salud.
+*   Reglamento de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+---
+
+## NORMAS DEL IMSS.
+
+### Normas de Proyecto de Arquitectura
+
+*   Tomo I.- Funcionamiento de Unidades Médicas.
+*   Tomo II.- Consulta Externa, Hospitalización, Medicina Física y Rehabilitación.
+*   Tomo III.- Servicios Auxiliares de Diagnóstico y Tratamiento.
+*   Tomo IV.- Gobierno, Paramédicos y Servicios Generales.
+*   Tomo VII.- Normas Bioclimáticas.
+
+---
+
+*   Tomo VIII.- Diseño Urbano.
+*   Instructivo Básico para la Elaboración del Proyecto de Arquitectura.
+
+### Criterios de Proyecto de Arquitectura.
+
+*   1130-018-002.- Señalización de Unidades Médicas. 2006. Actualización Permanente.
+*   1130-018-003.- Imagen Institucional. 2006 actualización Permanente.
+*   1130-018-004.- Servicio de Medicina Preventiva en Hospitales. 2005. Actualización Permanente.
+*   1130-018-005.- Accesibilidad de Personas con Discapacidad. 2009. Actualización Permanente.
+*   1130-018-006.- Servicios de la Unidad de Medicina Familiar de 10 Consultorios. 2009. Actualización Permanente.
+*   1130-018-011.-Depósitos Transitorios para Residuos Peligrosos Biológico-Infecciosos. 2005 actualización Permanente.
+
+### Normas de Diseño de Ingeniería Electromecánica
+
+*   ND-01-IMSS-AA-97.- Ingeniería de Aire Acondicionado.
+*   ND-01-IMSS-HSE-1997.- Instalaciones Hidráulica, Sanitaria y Especiales.
+*   ND-01-IMSS-IE-97.- Ingeniería Eléctrica.
+*   ND-01-IMSS-IT-99.- Instalaciones en Telecomunicaciones.
+*   Normas de Ingeniería de Diseño. -Locales Especiales.
+
+### Normas de Diseño de Ingeniería Civil
+
+*   Estructuras.
+*   Mecánica de suelos.
+*   Obras Exteriores.
+*   Tratamiento de Aguas.
+
+### Normas de Proyecto de Ingeniería
+
+*   Infraestructura de Servicios.
+
+### Guías Técnicas de Construcción
+
+*   Tomo 1.- Unidades Médicas, Unidades Administrativas, Unidades Sociales Obra Civil.
+*   Tomo 2.- Unidades Médicas, Unidades Administrativas, Unidades Sociales. Instalaciones Eléctricas Telefonía y Sonido.
+*   Tomo 3.- Unidades Médicas, Unidades Administrativas, Unidades Sociales Instalaciones Hidráulicas, Sanitarias y Especiales.
+*   Tomo 4.- Unidades Médicas, Unidades Administrativas, Unidades Sociales Instalaciones de Aire Acondicionado.
+
+### Catálogos de Especificaciones Técnicas
+
+*   1130-008-001.- Catálogo de Especificaciones Técnicas Generales de Equipo Electromecánico. 2011 actualización Permanente.
+*   1130-003-011.- Procedimiento para el Equipamiento de Obras Nuevas, Ampliaciones y/o Remodelaciones.
+*   1130-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. 2009. Actualización Permanente Grupo 511 Mobiliario Administrativo.
+*   1130-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. 2009. Actualización Permanente. Grupo 513 Mobiliario Médico.
+*   1130-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. 2009. Actualización Permanente Grupo 515 Mobiliario de Laboratorio.
+*   1130-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. 2009. Actualización Permanente. Grupo 517 Mobiliario para Nutrición y Dietética (Cocina y Comedor).
+*   1130-008-002- Catálogo de Especificaciones Técnicas de: Mobiliario. 2009. Noviembre. Actualización Permanente. Grupo 519 Mobiliario de Salas de Espera, Almacenes, Lavanderías y Auditorios.
+
+---
+
+*   Certificados de Equipo Electromecánico. 2011. Actualización Permanente.
+
+(*) Las Leyes, Normas, Procedimientos, Catálogos o Lineamientos enlistados en este Numeral, son de referencia y solo deberán aplicarse en el desarrollo de los servicios los que garanticen la correcta ejecución de la obra; en caso de existir otro tipo de normatividad aplicable y que no se haya señalado, deberá contemplarla, previo aviso al Instituto.
+
+---
+
+## 10. DOCUMENTALES QUE ENTREGA EL INSTITUTO (ARCHIVOS ELECTRÓNICOS).
+
+Se entregará al licitante ganador los documentos en archivos electrónicos, conforme al numeral 12 Alcance I: Desarrollo del Proyecto Ejecutivo.
+
+---
+
+## 11. CONFIDENCIALIDAD
+
+Los trabajos que se deriven de los presentes T.R. serán propiedad del IMSS, por lo tanto, el contratista se obliga a no publicarlos bajo ningún medio, incluyendo la reprografía, el tratamiento informático y conferencias, entre otros, sin la autorización expresa y por escrito del IMSS.
+
+---
+
+**Elaboró**
+
+Ing. Abigail Aíde Camargo Arteaga
+Titular de la Subjefatura de División de Control y Seguimiento de Obra Pública Zona Centro-Sur
+
+---
+
+**Validó y Autorizó**
+
+Arq. María Concepción Mendoza Espinoza
+Titular de la Coordinación Técnica de Construcción
+
+---
+
+# ALCANCE III
+## SUMINISTRO Y COLOCACIÓN DE EQUIPAMIENTO
+
+---
+
+## ÍNDICE
+
+| NUMERAL | CAPÍTULO | PÁG. |
+|---------|----------|------|
+| | PRESENTACIÓN. | 110 |
+| 1.0 | Objeto de la Contratación | 110 |
+| 2.0 | Descripción del Alcance III | 110 |
+| 3.0 | Plazo de Ejecución | 110 |
+| 4.0 | Requisitos de Participación | 111 |
+| 5.0 | Lugar y Condiciones de entrega | 112 |
+| 6.0 | Licencias, permisos, registros, certificados o autorizaciones de los equipos y bienes muebles | 113 |
+| 7.0 | Forma de pago | 113 |
+| 8.0 | Mecanismos de comprobación, verificación y entrega de los equipos y bienes muebles | 113 |
+| 9.0 | Confidencialidad | 114 |
+
+---
+
+## PRESENTACIÓN
+
+El presente apartado establece los **requisitos, condiciones y términos** que los **LICITANTES** deberán cumplir en la presentación de sus proposiciones técnico-económicas, relativas al Alcance III: Suministro y colocación de equipamiento para el CECI.
+
+Lo anterior se integra por el **Anexo III.1. Descripción, Unidad y Cantidad Mobiliario** y **Anexo III.2. Cédulas de Especificaciones Técnicas de Mobiliario**, los cuales definen los productos esperados y forma de presentación que deberá observar el Licitante Ganador para el suministro de bienes muebles.
+
+### 1.0 OBJETO DE LA CONTRATACIÓN
+
+El objeto de la presente contratación es la realización del **"PROYECTO INTEGRAL PARA EL DESARROLLO DEL PROYECTO EJECUTIVO, CONSTRUCCIÓN Y EQUIPAMIENTO DEL CENTRO DE EDUCACIÓN Y CUIDADO INFANTIL PARA 200 NIÑAS Y NIÑOS EN PEDRO ESCOBEDO, QUERÉTARO"**, ubicado en Boulevard Bicentenario s/n (km 0.0 + 0.164), Colonia Fraccionamiento La Lira, Municipio de Pedro Escobedo, Estado de Querétaro. Código Postal 76713.
+
+Para lo anterior el Instituto ha desarrollado **Guía de Equipamiento** correspondiente al modelo lo cual, se entregará como información a los Licitantes. Por lo cual los productos deberán desarrollarse con estricto apego a lo anterior.
+
+### 2.0. DESCRIPCIÓN DEL ALCANCE III
+
+Consiste en el suministro y colocación de equipos y bienes muebles necesarios para la operación y funcionamiento del CECI, las denominaciones y especificaciones se describen en el **Anexo III.1. Descripción, Unidad y Cantidad Mobiliario** y **Anexo III.2. Cédulas de Especificaciones Técnicas de Mobiliario**.
+
+### 3.0. PLAZO DE EJECUCIÓN
+
+El **plazo de ejecución** del Frente de obra 1 es de Ciento sesenta (170) días naturales, contados a partir de la fecha de inicio que determine el Instituto.
+
+#### Alcance I.
+El plazo para la elaboración, revisión, corrección, aprobación y entrega de Proyecto Ejecutivo será de 65 días naturales contados a partir de la fecha de inicio del **CONTRATO**.
+
+#### Alcances II y III.
+El plazo para la ejecución de obra civil y equipamiento será de 155 días naturales contados a partir del día 16 del plazo establecido del **CONTRATO**.
+
+Para mayor claridad, se precisa que los **170 días naturales** incluyen los **65 días** destinados al Proyecto Ejecutivo y los **145 días** de obra civil y equipamiento, los cuales se traslapan entre sí.
+
+El Alcance III, se encuentra incluido dentro de este plazo, por lo que será responsabilidad del contratista, especificarlo dentro del cronograma o programa general de trabajo, considerando por cada tipo de bien (indicativo, no limitativo) lo siguiente:
+
+a) Autorización
+b) Período de Adquisición
+c) Entregas en sitio de obra.
+d) Montaje
+e) Pruebas
+f) Capacitación para la operación de los equipos.
+
+---
+
+Lo anterior de conformidad con el calendario siguiente (indicativo, no limitativo).
+
+| Actividad | Mes 1 | Mes 2 | Mes 3 | Mes 4 | Mes 5 |
+|-----------|-------|-------|-------|-------|-------|
+| a) Autorización | | | | | |
+| b) Adquisición de bienes | | | | | |
+| c) Entregas en sitio de obra. | | | | | |
+| d) Montaje | | | | | |
+| e) Pruebas | | | | | |
+| f) Capacitación para la operación de los equipos. | | | | | |
+
+---
+
+### 4.0. REQUISITOS DE PARTICIPACIÓN
+
+**EL LICITANTE** deberá presentar dentro de su proposición la documentación siguiente, en hoja membretada:
+
+1.  **Proposición técnica** que incluya la totalidad de las especificaciones técnicas contenidas en el **Anexo III.1 Descripción, Unidad y Cantidad Mobiliario**, y **Anexo III.2 "Cédulas de Especificaciones Técnicas de Mobiliario"**, lo cual se entregará de la siguiente manera:
+
+    a) **Manifestación escrita** donde se compromete a cumplir con el número de bienes y las especificaciones técnicas de cada uno de los bienes.
+
+    Deberá presentarse preferentemente en papel membretado del Licitante, donde manifieste bajo protesta decir verdad que, en el caso de ser adjudicado con el contrato, cumplirá con el número de bienes y las especificaciones técnicas de cada uno de los bienes de conformidad con el **Anexo III.1** y **Anexo III.2** señalados en los Términos de Referencia.
+
+    b) **Manifestación escrita**, donde se compromete a cumplir con la entrega de la totalidad de bienes.
+
+    Deberá presentarse preferentemente en papel membretado del licitante, donde manifieste bajo protesta decir verdad que, en el caso de ser adjudicado cumplirá con la entrega de la totalidad de bienes a que hace referencia el **Anexo III.1**, lo que quedará sujeto a la validación que para tal caso emita la Unidad de Atención y Cuidado Infantil, previo a la compra de los bienes". Deberá integrar en este apartado el **Anexo III.1** (Descripción, unidad y cantidad mobiliario).
+
+    c) **Manifestación escrita**, donde se compromete a cumplir con las especificaciones técnicas.
+
+    Deberá presentarse preferentemente en papel membretado del licitante, donde manifieste bajo protesta decir verdad que, en el caso de ser adjudicado el contrato, cumplirá con las especificaciones técnicas a que hace referencia la ficha correspondiente al **Anexo III.2** (Cédulas de especificaciones técnicas de mobiliario), lo que quedará sujeto a la validación que para tal caso emita la Unidad de Atención y Cuidado Infantil, previo a la adquisición de los bienes".
+
+    d) **Manifestación escrita**, de contar con una garantía de fabricación de al menos 6 (seis) meses.
+
+    Escrito libre preferentemente en papel membretado del Licitante, donde manifieste, bajo protesta decir verdad que, en el caso de resultar adjudicado los equipos y bienes ofertados contarán con una garantía de fabricación de al menos 6 (seis) meses a partir de la recepción de estos a entera satisfacción del Instituto Mexicano del Seguro Social.
+
+    e) **Manifestación escrita**, donde constate que los equipos y bienes ofertados cuando menos el 65% serán hechos en México.
+
+    Escrito libre preferentemente en papel membretado del Licitante, donde manifieste, bajo protesta decir verdad que, los equipos y bienes ofertados cuando menos el 65% serán hechos en México, los cuales serán sujetos a la recepción a entera satisfacción del Instituto Mexicano del Seguro Social.
+
+2.  **Proposición económica.** Para su formulación se deberá utilizar el formato denominado: Catálogo de Conceptos ALCANCE III. Suministro y Colocación de Equipamiento del Centro de Educación y Cuidado Infantil en Yecapixtla, Morelos.
+
+Para efectos de evaluación de la propuesta técnica, se verificará que cumpla con la entrega de las cartas manifestación solicitadas y los anexos debidamente firmados.
+
+En caso de no presentar la documentación antes señalada en los términos establecidos, será causa de desechamiento de la proposición.
+
+### 5.0. LUGAR Y CONDICIONES DE ENTREGA
+
+| | |
+|---|---|
+| **Tipo de Unidad:** | Centro de Educación y Cuidado Infantil para 200 niñas y niños |
+| **Ubicación:** | Carretera Cuautla-Yecapixtla, Agua Hedionda Km.2.5, Colonia Industrial textil, Municipio Yecapixtla, Morelos. Código Postal 62820 (Reserva de la UMF 24). |
+
+Los equipos y bienes muebles serán recibidos por la persona que designe el **ÁREA TÉCNICA RESPONSABLE PARA EL EQUIPAMIENTO** para tal fin.
+
+El Licitante que resulte adjudicado previo a la adquisición de los bienes muebles deberá entregar Folletos, manuales de usuario, catálogos, o instructivos donde se indique la operación y mantenimiento de cada uno de los bienes y equipos requeridos, en idioma español y fotografías del bien mueble ofertado a color indicando sus dimensiones alto, ancho y altura. Para que el Instituto Mexicano del Seguro Social verifique que cumple con lo solicitado en las cédulas de especificaciones técnicas (**Anexo III.2**) Sin esta autorización los bienes muebles no podrán ser adquiridos.
+
+El Licitante que resulte adjudicado se compromete a entregar los equipos y bienes muebles en su empaque original, nuevo, libre de defectos, con su folleto o manual de usuario en idioma español y con las características especificadas en el **Anexo III.1** sin costo adicional para el Instituto Mexicano del Seguro Social (IMSS).
+
+Los equipos y bienes muebles deben estar perfectamente empacados para su transporte, en contenedores que permitan su resguardo de cualquier condición climática durante su transportación y hasta su entrega en el lugar y condiciones de entrega.
+
+El Licitante Ganador cubrirá todos los gastos y absorberá todos los riesgos que impliquen el traslado de los equipos y bienes muebles hasta su entrega en el lugar de entrega, así como los relativos al aseguramiento de estos a entera satisfacción del Instituto.
+
+En el destino de entrega, la Coordinación del Servicio de Guardería para el Desarrollo Integral Infantil designará al responsable de la recepción por parte del Residente designado por el **ÁREA RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS**, de los equipos y bienes muebles y el Licitante que resulte adjudicado, elaborarán y firmarán el "Acta de Aceptación o Rechazo" de los equipos y bienes muebles. En dicha Acta se asentará si la entrega de los equipos y bienes muebles se realizó en tiempo y forma y conforme a las especificaciones establecidas en el **Anexo III.1**, así como los presentes Términos de Referencia, y si la entrega fue realizada a entera satisfacción del Instituto o no, siendo esta Acta, el documento con el que se validará la entrega para cuestiones de trámite de pago al Licitante que resulte adjudicado.
+
+A la entrega de los bienes el Licitante Ganador deberá entregar las **Cartas de Garantía** de los proveedores y/o fabricantes de los bienes muebles debidamente formalizados (Sellados o firmados).
+
+### 6.0. LICENCIAS, PERMISOS, REGISTROS, CERTIFICADOS O AUTORIZACIONES DE LOS EQUIPOS Y BIENES MUEBLES
+
+Conforme a lo establecido en el **Anexo III.2**, el Contratista entregará lo siguiente:
+
+#### 6.1 DOCUMENTACIÓN TÉCNICA NECESARIA COMO PUEDEN SER: FOLLETOS, CATÁLOGOS, FOTOGRAFÍAS, MANUALES ENTRE OTROS, EN CASO DE QUE SE REQUIERAN PARA COMPROBAR SUS ESPECIFICACIONES.
+
+Para corroborar las especificaciones y requisitos de los bienes, se requiere que el licitante presente anexos técnicos, así como folletos, catálogos o material ilustrativo con fotografías que indiquen de manera precisa dimensiones (alto, ancho, profundidad, peso), color, material, marca y país de origen del total de los bienes.
+
+Asimismo, deberá incluir imágenes, instructivos y/o manuales del fabricante, así como los certificados vigentes correspondientes a cada uno de los bienes muebles requeridos en el procedimiento de contratación.
+
+Toda la documentación presentada deberá corresponder fielmente a las marcas, modelos y catálogos indicados, y coincidir con la descripción establecida en el **Anexo III.2**.
+
+La documentación deberá ser completa y deberá presentarse en idioma español.
+
+El Instituto podrá verificar la autenticidad de la información contenida en dichos documentos.
+
+### 7.0. FORMA DE PAGO
+
+La Forma de Pago para el suministro y colocación de equipamiento, será sobre la base de **Precios Unitarios** de acuerdo con el Catálogo de Conceptos, el cual también forma parte de los Anexos del Contrato correspondiente.
+
+En la propuesta económica, los licitantes deberán integrar sus propuestas mediante análisis de precios unitarios de acuerdo con lo estipulado en el Capítulo Sexto del Reglamento de la LOPSRM.
+
+Los precios unitarios del catálogo de conceptos deberán expresarse en moneda nacional.
+
+Los Trabajos, serán pagados mediante la formulación de estimaciones mensuales por conceptos concluidos, esto una vez que los trabajos sean entregados, revisados y aprobados
+
+Lo anterior, en apego a lo dispuesto en el numeral I. del Artículo 45 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+### 8.0. MECANISMOS DE COMPROBACIÓN, VERIFICACIÓN Y ENTREGA DE LOS EQUIPOS Y BIENES MUEBLES
+
+Se establece que el **ÁREA RESPONSABLE DE LA EJECUCIÓN DE LOS TRABAJOS**, a través del Residente, será el responsable de la recepción de los equipos y bienes muebles, quien se apoyará del **ÁREA TÉCNICA RESPONSABLE PARA EL EQUIPAMIENTO** para llevar a cabo una comprobación con objeto de revisar que los equipos y bienes muebles cumplan lo establecido en los presentes Términos de Referencia y en los **Anexos III.1 y III.2**, considerando tiempo, lugar, cantidad, características en los términos requeridos y buenas condiciones, en el entendido de que hasta en tanto ello no se cumpla, los equipos y bienes muebles no se tendrán por recibidos o aceptados.
+
+Para lo anterior, el responsable de la recepción de los equipos y bienes muebles, requisitará el Acta de Aceptación o Rechazo, junto con el Superintendente del Contratista, donde se asienten el número de equipos y bienes muebles entregados y recibidos a entera satisfacción del Instituto de lo establecido en los presentes Términos de Referencia por parte del Contratista Dicha Acta se levantará en 3 (tres) originales, entregando en ese momento dos tantos al Superintendente del Contratista y la otra quedará en poder del responsable de la recepción de los equipos y bienes muebles.
+
+---
+
+Una vez terminada por parte del Contratista la entrega de la totalidad de los equipos y bienes muebles, el responsable de la recepción de los equipos y bienes muebles requisitará el Acta de Aceptación o Rechazo por la totalidad de los equipos y bienes muebles recibidos, a partir de las Actas enviadas por los responsables de la recepción de los equipos o bienes muebles.
+
+Para efectos del pago, se atenderá lo dispuesto en el artículo 54 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+### 9.0 CONFIDENCIALIDAD
+
+Los trabajos que se deriven de los presentes Términos de Referencia serán propiedad del IMSS, por lo tanto, el contratista se obliga a no publicarlos bajo ningún medio, incluyendo la reprografía, el tratamiento informático y conferencias, entre otros, sin la autorización expresa y por escrito del IMSS.
+
+---
+
+**Elaboró, revisó y autorizó**
+
+Lic. Fenya Quintero Martínez
+Titular de la División de Expansión del Servicio de Atención y Cuidado Infantil
