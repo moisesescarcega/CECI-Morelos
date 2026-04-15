@@ -2230,3 +2230,731 @@ Adicionalmente deberá presentar el **Cronograma o Programa de trabajo**, que co
 | 2.1.1.9 | CORTES GENERALES A DETALLE |
 | 2.1.1.10 | CORTES POR FACHADA |
 | 2.1.1.11 | ALZADOS INTERIORES |
+| 2.1.12 | DETALLES DE BAÑOS |
+| 2.1.13 | DETALLES CONSTRUCTIVOS GENERALES |
+| 2.1.14 | PLAFONES CON DISEÑO DE ACCESORIOS ELECTROMECANICOS (LUMINARIAS,SENSORES CON DIFUSORES Y REJILLAS ENTRE OTROS) |
+| 2.1.15 | DESPIECE DE PISOS |
+| 2.1.16 | ACABADOS |
+| 2.1.17 | ALBAÑILERÍAS |
+| 2.1.18 | HERRERÍAS (CLOSETS ELÉCTRICOS EN SU CASO) |
+| 2.1.19 | PUERTAS (MADERA, SÓLIDAS, ALUMINIO, HIERRO) Y CERRAJERÍA |
+| 2.1.20 | CARPINTERÍAS (GUARDAS Y CLOSETS, CLOSETS ELÉCTRICOS EN SU CASO). |
+| 2.1.21 | MUEBLES SOBRE DISEÑO. |
+| 2.1.22 | CANCELERÍAS |
+| 2.2 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE EQUIPAMIENTO Y GUÍAS MECÁNICAS, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 2.2.1 | PROYECTO DE EQUIPAMIENTO |
+| 2.2.1.1 | PLANOS DE SEÑALAMIENTO, AMBIENTACIÓN E IMAGEN INSTITUCIONAL |
+| 2.2.1.2 | PLANOS DE MOBILIARIO Y EQUIPO |
+| 2.2.2 | **PROYECTO DE GUÍAS MECÁNICAS** |
+| 2.2.2.1 | COCINA |
+| 2.2.2.2 | LABORATORIO DE LECHES |
+| 2.2.2.3 | LAVANDERÍA |
+| 2.3 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE INGENIERÍA CIVIL, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 2.3.1 | PROYECTO DE INGENIERÍA CIVIL |
+| 2.3.1.1 | PLANTA DE PLATAFORMAS, INDICANDO EL NIVEL DE DESPLANTE DEL PISO TERMINADO CON NIVELES DE OBRA CIVIL, REFERENCIADOS EN COORDENADAS UTM. |
+| 2.3.1.2 | MOVIMIENTOS DE TIERRAS, CORTES Y SECCIONES DE CADA PLATAFORMA. |
+| 2.3.1.3 | PLANTA DE CIMENTACIÓN Y ALZADOS REFERENCIADOS A LA TOPOGRAFÍA ACTUAL Y PROYECTADA |
+| 2.3.1.4 | PLANTAS DE CUBIERTAS (LOSAS Y AZOTEAS) |
+| 2.3.1.5 | PASOS, CUBIERTA LIGERA Y ESTRUCTURAS DE APOYO Y SOPORTE DE INSTALACIONES |
+| 2.3.1.6 | CUARTO(S) DE EQUIPOS(S) |
+| 2.3.1.7 | TRABES, VIGAS Y COLUMNAS |
+| 2.3.1.8 | MUROS DE CARGA Y DE CONTENCIÓN |
+| 2.3.1.9 | DETALLES ESTRUCTURALES Y GENERALES |
+| 2.3.1.10 | PLANO (S) DE MONTAJE Y DETALLES CONSTRUCTIVOS |
+| 2.3.1.11 | PLANO (S) DE CONEXIONES ENTRE PREFABRICADOS Y ANCLAJE A CIMENTACIONES |
+| 2.3.1.12 | MEMORIA DE CÁLCULO ESTRUCTURAL |
+| 2.3.1.13 | EMBLEMAS INSTITUCIONALES Y ASTA BANDERA. |
+| | **PROYECTOS DE INGENIERÍA ELECTROMECÁNICA** |
+| 2.4 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE INGENIERÍA ELÉCTRICA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 2.4.1 | PROYECTO DE INGENIERÍA ELÉCTRICA. |
+| 2.4.1.1 | SISTEMA DE ALUMBRADO. |
+| 2.4.1.2 | SISTEMA DE CONTACTOS (RECEPTÁCULOS). |
+| 2.4.1.3 | SISTEMA DE CONTACTOS (RECEPTÁCULOS) TENSIÓN REGULADA. |
+| 2.4.1.4 | FUERZA MOTRIZ HIDRÁULICA Y AIRE ACONDICIONADO |
+| 2.4.1.5 | GUÍAS MECÁNICAS ELÉCTRICAS |
+| 2.4.1.6 | SISTEMA DE ALIMENTACIONES EN BAJA TENSION |
+| 2.4.1.7 | SISTEMA DE ALIMENTACIONES EN MEDIA TENSION |
+| 2.4.1.8 | CUARTOS DE EQUIPOS |
+| 2.4.1.9 | CUADROS DE CARGA |
+| 2.4.1.10 | DIAGRAMA UNIFILAR. |
+| 2.4.1.11 | MEMORIA DE CÁLCULO TÉCNICA Y DESCRIPTIVA |
+| 2.4.1.12 | FICHAS TÉCNICAS DE EQUIPOS Y ACCESORIOS |
+| 2.5 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE INGENIERÍA HIDRÁULICA Y SANITARIA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 2.5.1 | PROYECTO DE INGENIERÍA HIDRÁULICA |
+| 2.5.1.1 | SISTEMA DE FILTRADO Y DESARENDADOR CONFORME AL ESTUDIO FISICO-QUIMICO DEL AGUA |
+| 2.5.1.2 | SISTEMA DE AGUA POTABLE; SISTEMA DE DISTRIBUCIÓN DE AGUA FRÍA; SISTEMA DE PRODUCCIÓN Y DISTRIBUCIÓN AGUA CALIENTE Y RETORNO PARA SERVICIOS. |
+| 2.5.1.3 | SISTEMA DE PROTECCIÓN CONTRA INCENDIO CON GABINETES, EXTINTORES Y ROCIADORES |
+| 2.5.1.4 | CUARTOS DE EQUIPOS (EQUIPOS PROPIOS DEL INMUEBLE) |
+| 2.5.1.5 | AZOTEAS |
+| 2.5.1.6 | ISOMÉTRICOS |
+| 2.5.1.7 | GUÍAS MECÁNICAS |
+| 2.5.1.8 | PLANOS DE DETALLE |
+| 2.5.2 | **PROYECTO DE INGENIERÍA SANITARIA** |
+| 2.5.2.1 | SISTEMA DE DESALOJO DE AGUAS NEGRAS, PLUVIALES Y VENTILACIÓN. |
+| 2.5.2.2 | ISOMÉTRICOS |
+| 2.5.2.3 | GUÍAS MECÁNICAS |
+| 2.5.2.4 | AZOTEAS |
+| 2.5.2.5 | MEMORIA DE CÁLCULO TÉCNICA Y DESCRIPTIVA DE INGENIERÍA HIDRÁULICA, SANITARIA Y PLUVIAL |
+| 2.5.2.6 | FICHAS TÉCNICAS DE EQUIPOS, MATERIALES Y ACCESORIOS DE INGENIERÍA HIDRÁULICA, SANITARIA Y PLUVIAL |
+| 2.6 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE INGENIERÍA EN TELECOMUNICACIONES, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 2.6.1 | PROYECTO DE INGENIERÍA EN TELECOMUNICACIONES. |
+| 2.6.1.1 | SISTEMA DE TELEFONÍA IP, INFORMÁTICA Y CABLEADO ESTRUCTURADO |
+| 2.6.1.2 | SISTEMA DE VOCEO Y SONORIZACIÓN |
+| 2.6.1.3 | SISTEMA DE DETECCIÓN DE INCENDIO |
+| 2.6.1.4 | SISTEMA DE CIRCUITO CERRADO DE TELEVISIÓN ENTRETENIMIENTO |
+| 2.6.1.5 | SISTEMA DE CIRCUITO CERRADO DE TELEVISIÓN, VIGILANCIA IP |
+| 2.6.1.6 | SISTEMA DE CONTROL DE ACCESOS |
+| 2.6.1.7 | DIAGRAMAS DE CONECTIVIDAD GENERAL Y PARTICULARES. |
+| 2.6.1.8 | INGENIERÍA DE DETALLES. |
+| 2.6.1.9 | MEMORIA DE CÁLCULO TÉCNICA Y DESCRIPTIVA DE CADA SISTEMA |
+| 2.6.1.10 | ESPECIFICACIONES DE EQUIPOS Y ACCESORIOS DE CADA SISTEMA. |
+| 2.7 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE AIRE ACONDICIONADO, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 2.7.1 | PROYECTO DE AIRE ACONDICIONADO. |
+| 2.7.1.1 | PLANTAS DE CONJUNTO |
+| 2.7.1.2 | LOCALIZACIÓN DE EQUIPOS |
+| 2.7.1.3 | REDES DE TUBERIA EN PLANOS ARQUITECTÓNICOS |
+| 2.7.1.4 | REDES DE DUCTOS EN PLANOS ARQUITECTÓNICOS |
+| 2.7.1.5 | GUÍAS MECÁNICAS |
+| 2.7.1.6 | ESPECIFICACIONES DE EQUIPOS |
+| 2.7.1.7 | DETALLES DE INSTALACIÓN Y DIAGRAMAS DE CONTROL |
+| 2.7.1.8 | MEMORIA DE CÁLCULO TÉCNICA Y DESCRIPTIVA |
+| 2.7.1.9 | FICHAS TÉCNICAS DE EQUIPOS |
+| 2.8 | **ELABORACIÓN Y ENTREGA DE LA MEMORIA DEL DICTAMEN DE EFICIENCIA ENERGÉTICA DEL INMUEBLE, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 2.8.1 | MEMORIA DE DICTAMEN DE EFICIENCIA ENERGÉTICA DEL INMUEBLE |
+| 3.0 | **OBRAS EXTERIORES** |
+| 3.1 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE OBRAS EXTERIORES ARQUITECTÓNICO Y DOCUMENTACIÓN COMPLEMENTARIA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 3.1.1 | PROYECTO ARQUITECTONICO |
+| 3.1.1.1 | PLANTAS DE OBRAS EXTERIORES CON DETALLES |
+| 3.1.1.2 | PLANTAS DE NIVELES DE PISOS TERMINADO |
+| 3.1.1.3 | PLANTAS ARQUITECTÓNICA DE CONJUNTO CON AZOTEAS |
+| 3.1.1.4 | BARDA, REJA PERIMETRAL Y PUERTAS DE ACCESOS CON DETALLES |
+| 3.1.1.5 | ÁREA DE AMORTIGUAMIENTO Y/O JARDINERÍA Y DETALLES (ARQUITECTURA DEL PAISAJE) |
+| 3.1.1.6 | PATIO DE MANIOBRAS |
+| 3.1.1.7 | CISTERNAS Y CARCAMOS |
+| 3.1.1.8 | PLAZA DE ACCESO CON CUBIERTA |
+| 3.1.1.9 | BAHÍAS DE ACCESO |
+| 3.1.1.10 | ESTACIONAMIENTOS DESCUBIERTOS (EN SU CASO) |
+| 3.1.1.11 | RAMPAS, BANQUETAS Y GUARNICIONES |
+| 3.2 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE OBRAS EXTERIORES DE INGENIERÍA CIVIL, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 3.2.1 | PROYECTO DE INGENIERÍA CIVIL |
+| 3.2.1.1 | PLANTA DE PLATAFORMAS, INDICANDO EL NIVEL DE DESPLANTE DEL PISO TERMINADO CON NIVELES DE OBRA CIVIL, REFERENCIADOS EN COORDENADAS UTM. |
+| 3.2.1.2 | MOVIMIENTOS DE TIERRAS, CORTES Y SECCIONES DE CADA PLATAFORMA. |
+| 3.2.1.3 | PROYECTO DE PAVIMENTOS (EN CASO DE QUE SE REQUIERA) |
+| 3.2.1.4 | PLANTA DE CIMENTACIÓN Y ALZADOS REFERENCIADOS A LA TOPOGRAFÍA ACTUAL Y PROYECTADA |
+| 3.2.1.5 | PASOS, CUBIERTAS Y ESTRUCTURAS DE APOYO Y DE SOPORTE DE INSTALACIONES |
+| 3.2.1.6 | RAMPAS. (EN CASO DE QUE SE REQUIERA) |
+| 3.2.1.7 | CISTERNA(S). EN SU CASO, CÁRCAMOS, TANQUE DE TORMENTAS |
+| 3.2.1.8 | TRABES, CONTRATRABES, VIGAS, COLUMNAS. (ESCALA LEGIBLE). |
+| 3.2.1.9 | EMBLEMAS INSTITUCIONALES Y ASTA BANDERA. (EN CASO DE QUE SE REQUIERA) |
+| 3.2.1.10 | PLANTAS DE CUBIERTA DE ACCESO |
+| 3.2.1.11 | MUROS DE CARGA, MUROS DE CONTENCIÓN Y BARDAS (EN SU CASO) |
+| 3.2.1.12 | DETALLES ESTRUCTURALES Y GENERALES |
+| 3.2.1.13 | PLANO (S) DE MONTAJE Y DETALLES CONSTRUCTIVOS |
+| 3.2.1.14 | MEMORIA DE CÁLCULO ESTRUCTURAL |
+| 3.3 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE OBRAS EXTERIORES DE INGENIERÍA ELÉCTRICA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 3.3.1 | PROYECTO DE INGENIERÍA ELÉCTRICA. |
+| 3.3.1.1 | SISTEMA DE ALUMBRADO. |
+| 3.3.1.2 | SISTEMA DE CONTACTOS (RECEPTÁCULOS). |
+| 3.3.1.3 | FUERZA MOTRIZ HIDRÁULICA (EN SU CASO) |
+| 3.3.1.4 | ALIMENTADOR GENERAL EN MEDIA TENSION |
+| 3.3.1.5 | SUBESTACIÓN ACOMETIDA ELÉCTRICA Y DE MEDICION |
+| 3.3.1.6 | SISTEMA DE DESCARGAS ATMOSFÉRICAS (PARARRAYOS). |
+| 3.3.1.7 | SISTEMA DE PUESTA A TIERRA. |
+| 3.4 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE OBRAS EXTERIORES DE INGENIERÍA HIDRÁULICA Y SANITARIA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 3.4.1 | PROYECTO DE INGENIERÍA HIDRÁULICA |
+| 3.4.1.1 | SISTEMA DE RIEGO |
+| 3.4.1.2 | CISTERNAS (EQUIPOS PROPIOS DEL INMUEBLE) |
+| 3.4.1.3 | ISOMÉTRICOS |
+| 3.4.1.4 | REDES EXTERIORES (SISTEMA DE ABASTECIMIENTO DE AGUA POTABLE, RED MUNICIPAL, REDES DE LLENADO DE CISTERNAS DE AGUA POTABLE, SISTEMA DE PROTECCIÓN CONTRA INCENDIOS (INCLUYENDO TOMAS SIAMESAS). |
+| 3.4.1.5 | PLANOS DE DETALLES |
+| 3.4.2 | **PROYECTO DE INGENIERÍA SANITARIA** |
+| 3.4.2.1 | REDES EXTERIORES SANITARIAS Y PLUVIALES. |
+| 3.4.2.2 | CARCAMOS Y TANQUES DE TORMENTAS (EQUIPO DE BOMBEO, ISOMETRICO, DETALLES, CORTES Y ESPECIFICACIONES) EN SU CASO. |
+| 3.4.2.3 | ISOMÉTRICOS |
+| 3.4.2.4 | MEMORIA DE CÁLCULO TÉCNICA Y DESCRIPTIVA DE OBRAS EXTERIORES DE INGENIERÍA HIDRÁULICA, SANITARIA Y PLUVIAL |
+| 3.4.2.5 | FICHAS TÉCNICAS DE EQUIPOS, MATERIALES Y ACCESORIOS DE OBRAS EXTERIORES DE INGENIERÍA HIDRÁULICA, SANITARIA Y PLUVIAL |
+| 3.5 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO DE OBRAS EXTERIORES DE INGENIERÍA EN TELECOMUNICACIONES, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 3.5.1 | PROYECTO DE INGENIERÍA EN TELECOMUNICACIONES. |
+| 3.5.1.1 | ACOMETIDA |
+| 3.5.1.2 | SISTEMA DE CONTROL DE ACCESOS |
+| 3.5.1.3 | CONJUNTO PARA CANALIZACIÓN EXTERIOR Y ACOMETIDAS |
+| 3.5.1.4 | DIAGRAMAS DE CONECTIVIDAD GENERAL Y PARTICULARES. |
+| 3.5.1.5 | INGENIERÍA DE DETALLES. |
+| 3.5.1.6 | SISTEMA DE VOCEO Y SONORIZACIÓN (EN SU CASO) |
+| 3.5.1.7 | SISTEMA DE CIRCUITO CERRADO DE TELEVISIÓN, VIGILANCIA IP (EN SU CASO) |
+| 4.0 | **SUMINISTRO Y ELABORACIÓN DEL PROYECTO Y DOCUMENTACIÓN COMPLEMENTARIA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 4.1.1 | PROYECTO DE PROTECCIÓN CIVIL |
+| 4.1.1.1 | RUTAS DE EVACUACIÓN, SALIDAS DE EMERGENCIA Y ZONAS DE RIESGO. |
+| 4.1.1.2 | SEÑALAMIENTO DE PROTECCIÓN CIVIL. |
+| 4.1.1.3 | EQUIPAMIENTO DE PROTECCION CIVIL. (SISTEMAS DE ALARMA Y DETECCIÓN DE INCENDIO, VENTILADORES PRESURIZADORES DE ESCALERAS DE EMERGENCIA, SISTEMA DE BOMBEO CONTRA INCENDIO, HIDRANTES, TOMAS SIAMESAS, EXTINTORES, CARRETILLAS DE BÍOXIDO DE CARBONO, TAMBOS DE ARENA, EXTINTORES (TIPO: ABC, BC.) |
+| 4.2.1 | **DOCUMENTACIÓN** |
+| 4.2.1.1 | MEMORIA DESCRIPTIVA ARQUITECTONICA. |
+| 4.2.1.2 | CÉDULA DE SUPERFICIES E ÍNDICES. |
+| 4.2.1.3 | LÁMINA DE LOCALIZACIÓN DEL CENTRO DE EDUCACION Y CUIDADO INFANTIL |
+| 4.2.1.4 | LÁMINA CON PLANTA ARQUITECTÓNICA DE CONJUNTO |
+| 4.2.1.5 | LÁMINA(S) CON PERSPECTIVAS (3 INTERIORES). |
+| 4.2.1.6 | LÁMINA(S) CON PERSPECTIVAS (1 AÉREA DE CONJUNTO Y 2 EXTERIORES) |
+| 4.2.1.7 | RECORRIDO VIRTUAL |
+| 5.0 | **SUMINISTRO Y ELABORACIÓN DEL CATÁLOGO DE CONCEPTOS Y CANTIDADES DE OBRA, INCLUYE: CARGO DIRECTO POR EL COSTO DE MANO DE OBRA, MATERIALES, SOFTWARE Y EQUIPO REQUERIDO, EL CONCEPTO A DESARROLLAR SE REALIZARÁ EN ESTRICTO APEGO A LO ESPECIFICADO EN LOS TÉRMINOS DE REFERENCIA QUE CONTIENEN LA DESCRIPCIÓN DETALLADA DE LA ESPECIALIDAD, INCLUYE LAS REVISIONES NECESARIAS A ENTERA SATISFACCIÓN DEL INSTITUTO, CONFORME LOS SIGUIENTES ALCANCES:** |
+| 5.1 | CATÁLOGO DE CONCEPTOS, CANTIDADES DE OBRA Y MATRICES DE PRECIOS |
+
+A continuación, se especifican los criterios generales que deben aplicarse para la presentación de los planos y documentación general:
+
+### Documentos y planos.
+
+*   Todos los textos deben redactarse en idioma español y presentarse en formato tamaño carta, salvo el caso de planos o dibujos que, por su naturaleza, requieran un tamaño distinto.
+*   Se debe utilizar el **sistema métrico decimal** como sistema oficial de medición en todos los documentos y planos.
+*   El Contratista debe cumplir con los lineamientos de dibujo y distribución de información establecidos a continuación.
+
+### Material y tamaños del papel
+
+El juego final de planos deberá entregarse en papel Bond con las siguientes dimensiones:
+
+| Tipo | Descripción | Dimensiones del área de impresión (cm.) | Dimensiones del área del papel (cm.) |
+|---|---|---|---|
+| A. | Carta | 19 x 25 | 21.6 x 28 |
+| B. | Oficio | 10 x 31 | 21.6 x 34 |
+| C. | Doble carta | 25 x 40 | 28 x 43 |
+| D. | Tamaño "D" | 57 x 87 | 91 x 61 |
+| E. | Tamaño "E" | 87 x 117 | 91 x 121 |
+| F. | Tamaño "F" | 37 x 57 | 40 x 60 |
+
+*   Los tamaños oficiales para planos serán "D" y "E"; los demás podrán usarse previa autorización del Instituto.
+*   Los tamaños para estudios (memorias descriptivas y de cálculo) serán "A" y "C".
+*   El membrete o pie de plano debe ser el autorizado por el IMSS y todos los campos deberán ser debidamente requisitados.
+*   El IMSS proporcionará los membretes para tamaños "D" y "E"; el Contratista deberá escalarlo a otros tamaños conforme a la tabla.
+
+### Criterios de representación gráfica
+
+*   Los cortes deben indicarse siempre con letra. Solo en casos estrictamente necesarios podrán mostrarse en otro sentido.
+*   Los detalles deben ser compatibles con la posición de origen (no girados). Su escala será mayor para facilitar la comprensión y deberán identificarse con número o letra.
+
+### Entrega de información Revisión, autorización y emisión de documentos
+
+*   El Contratista debe documentar por escrito las entregas parciales y finales correspondientes al Desarrollo del PE al Instituto, mediante oficio(s) dirigido(s) al Residente del Servicio especificando:
+    *   Listado de planos y/o documentos indicando; especialidad, número consecutivo, clave, título y número de revisión.
+    *   Número de CD o DVD´S entregados.
+*   Los planos y documentos deben emitirse inicialmente en revisión "A". Las revisiones subsecuentes usarán letras consecutivas ("B", "C", "D", etc.) hasta cumplir los requisitos técnicos, normativos, formales y contractuales.
+*   Para emitir la revisión "0" (cero), el Contratista debe contar con la anuencia del personal del Instituto en su especialidad.
+*   La cantidad de planos e información dependerá del grado de especificación y complejidad del proyecto.
+*   Las revisiones se realizarán sobre planos impresos en papel bond en las escalas establecidas y sobre archivos electrónicos, en el entendido de que son instrumentos de trabajo, no definitivos y se debe entregar la cantidad suficiente hasta el entero cumplimiento de los requisitos y aspectos de carácter, técnico, normativo, formal y contractual y a entera satisfacción del IMSS. Para Ingeniería Civil, el responsable estructural debe presentar los modelos 3D en laptop, ajustados a la arquitectura autorizada; de no existir ésta, cualquier ajuste posterior será responsabilidad exclusiva del Contratista.
+
+### Entregables específicos del Proyecto Ejecutivo (PE)
+
+*   **Láminas de presentación**
+    Las láminas del PE deben entregarse a color, en tamaño "E", impresas en papel Photo Glossy, Kromate o Couché, y montadas en mamparas de foam board kraft.
+*   **Planos**
+    *   Para la entrega final, los planos del PE deben elaborarse en la escala autorizada, impresos en papel en papel bond, firmados por el Representante Legal, Superintendente, especialistas de la Contratista y especialistas de la DARP.
+    *   Se entregarán también en formato digital (PDF).
+    *   Los archivos electrónicos autorizados del PE se entregarán en disco duro externo, USB, CD o DVD (3 juegos), rotulados con: nombre y ubicación del CECI, nombre del Contratista, fecha, especialidad y logotipo del IMSS.
+    *   Las etiquetas de los discos deben contener el nombre y ubicación del CECI, nombre del Contratista, fecha, especialidad y logotipo del IMSS.
+
+### Documentos Generales (memorias, paquete de diseño, especificaciones, catálogos)
+
+*   Deben ser realizados con Procesador de Palabras MS-Word y en documentos donde sea necesario utilizar hojas de cálculo en MS-Excel, ambos en versión Office.
+*   Impresos en papel bond, tamaño carta (preferentemente) para su revisión.
+*   Deberá contener en sus hojas el membrete de la contratista y deberán presentarse debidamente foliados y firmados, tanto por el Representante Legal, Superintendente de Servicios, especialistas del Contratista, con firma completa en los planos y en las carátulas y última hoja, en su caso, de cada documento complementario del estudio y rúbrica en cada una de sus páginas.
+*   La documentación correspondiente al PE autorizado debe ser entregada en un original, compilados en carpetas de 3 aros en forma "D".
+*   Todos los planos del PE autorizado, así como los documentos y los CD o DVD, deben estar firmados por el responsable Legal de la Contratista, el Superintendente y por los Proyectistas Responsables del diseño, especificando sus nombres y números de cédula profesional, así mismo deben ser rubricados en cada una de sus páginas.
+*   Será responsabilidad del Contratista que, una vez aprobados y firmados los estudios por el responsable técnico del Instituto, el escanearlos en formato digital, con extensión de archivo de lectura PDF e integrarlos a los discos duros externos o memorias USB. Dicha actividad deberá realizarse antes de requisitar el Acta de Finiquito.
+
+### Entregables complementarios
+
+*   Paleta de Acabados y Especificaciones de Materiales: Debe ser entregada en carpeta(s) de 3 aros en "D" (1 juego).
+*   Recorrido Virtual: Con base al PE autorizado del CECI, se debe desarrollar en software de renderizado 3D con estudio de iluminación global, con calidad de 24 a 30 (fps) cuadros por segundo, con formato de salida de DVD de 720*480 (tamaño de imagen); edición de Audio y Video y formato Avi (Windows Media) policromático, con acabados, transparencias, brillos y musicalizado, figura humana, ambientación, con una duración mínima de 2 (dos) minutos; éste debe entregarse en CD o DVD (3 juegos), mismos que deberán ser rotulados.
+
+### Expediente Administrativo del Contrato.
+
+El Licitante Ganador deberá integrar un Expediente Administrativo del Contrato, el cual estará dividido en 3 secciones, cada sección corresponderá a cada uno de los Alcances del Proyecto Integral.
+
+Por cuanto hace al **Alcance I**, Proyecto Ejecutivo, el Superintendente, bajo la supervisión del Residente, deberá conformar el expediente administrativo del contrato, mismo que se integra por toda la documentación generada en el proceso del desarrollo de los Estudios de Infraestructura y Proyecto Ejecutivo, tanto en archivos electrónicos (en formato PDF) en disco duro externo o memoria USB, como en documentos impresos, compilando la información en carpetas y subcarpetas, que contengan en su portada el nombre y ubicación del CECI, nombre del Contratista, número de contrato, fecha y logotipo del IMSS y descripción del contenido de la carpeta. Todo ello debe realizarse en forma ordenada cronológicamente, tipo de documento, especialidad y que contendrá cuando menos las minutas de trabajo, copias de los oficios de entregas parciales y definitivas realizadas con acuse de recibido, aviso de terminación de los Servicios, Actas (Entrega-Recepción, Finiquito, Extinción de Derechos) en su caso Dictámenes y/o Convenios, así como la impresión de las notas de bitácora, copias de estimaciones, planos testigo digitalizados (formato PDF) de todas las revisiones debidamente integrados de acuerdo con cada una de las especialidades del producto esperado, incluyendo las revisiones realizadas a las memorias descriptivas y de cálculo y paquete de diseño.
+
+## 9.0. FORMA DE PAGO DEL ALCANCE I.
+
+La Forma de Pago para el **Alcance I** por el desarrollo del Proyecto Ejecutivo será sobre la base de Precio Alzado, de acuerdo con las actividades y subactividades validadas y descritas en el Catálogo de Actividades y Cedula de avances y pagos programados, los cuales también forman parte de los Anexos del Contrato correspondiente; en ese sentido, el importe de la remuneración o pago total fijo que deba cubrirse al contratista se realizará por los trabajos totalmente terminados y ejecutados en el plazo establecido, pudiéndose estipular el pago del importe de los trabajos hasta su total terminación o, en su caso, cuando se finalice cada actividad principal conforme a lo previsto en dichos documentos.
+
+En la propuesta económica, los Licitantes deberán integrar sus propuestas de acuerdo con lo estipulado en el Capítulo Séptimo del Reglamento de la LOPSRM.
+
+El importe correspondiente deberá expresarse en moneda nacional.
+
+Los Trabajos, serán pagados mediante la formulación de estimaciones, pudiendo estipularse el pago del importe de los trabajos hasta su total terminación o cuando se finalice cada actividad principal una vez que los trabajos sean entregados, revisados y aprobados por los especialistas y el Coordinador de Proyecto por parte del Instituto.
+
+Lo anterior, en apego a lo dispuesto en la fracción II del Artículo 45 de la Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+
+## 10.0. TABULADORES DE SALARIOS Y HONORARIOS PROFESIONALES
+
+En cumplimiento a lo dispuesto en el párrafo XVIII del Art. 31 de la Ley, se les indica a los participantes que para la conformación de sus proposiciones técnicas-económicas podrán considerar los tabuladores publicados por las cámaras industriales y colegios de profesionales, mismos que servirán de referencia para determinar los sueldos y honorarios profesionales del personal técnico que realizará los servicios del **Alcance I**, de conformidad con lo establecido por la Comisión Nacional de los Salarios Mínimos
+
+## 11.0. DISPOSICIONES NORMATIVAS.
+
+### Normas Oficiales Mexicanas (NOM).
+
+*   NOM-007-ENER-2014.- Eficiencia energética en sistemas de alumbrado en edificios no residenciales.
+*   NOM-008-ENER-2001.- Eficiencia energética en edificaciones envolvente de edificios no residenciales.
+*   NOM-009-ENER-2014.- Eficiencia energética en aislamientos térmicos.
+*   NOM-009-SSPC-2015.- Medidas de previsión, prevención y mitigación de riesgos en centros de atención infantil en la modalidad pública, privada y mixta.
+*   NOM-018-ENER-2011.- Aislantes Térmicos para edificaciones –características, y métodos de prueba.
+*   NOM-008-SCFI-2002.- Sistema General de Unidades de Medida.
+*   NOM-001-SEDE-VIGENTE.- Instalaciones eléctricas (utilización).
+*   NOM-003-SSPC-2015.- Señales y Avisos para Protección Civil. -Colores formas y símbolos a utilizar.
+*   NOM-052-SEMARNAT-2005.- Establece las características, el procedimiento de identificación, clasificación y los listados de los residuos peligrosos.
+*   NOM-059-SEMARNAT-2010.- Protección ambiental - especies nativas de México de flora y fauna silvestres –categorías de riesgo y especificaciones para su inclusión, exclusión o cambio –Lista de especies en riesgo.
+*   NOM-127-SSA1-2021.- Agua para uso y consumo humano. Límites permisibles de la calidad del agua.
+*   NOM-015-SSA3-2012.- Para la atención integral a personas con discapacidad.
+*   NOM-002-STPS-2010.- Condiciones de Seguridad-Prevención y Protección contra Incendios en los Centros de Trabajo.
+*   NOM-026-STPS-2008.- Colores y señales de seguridad e higiene e identificación de riesgos por fluidos conducidos por tuberías.
+*   NOM-100-STPS-1994.- Extintores contra incendio a base de polvo químico seco con presión contenida –especificaciones-.
+*   NOM-101-STPS-1994.- Seguridad extintores a base de espuma química.
+*   NOM-102-STPS-1994.- Seguridad – Extintores contra incendio a base de bióxido de carbono – Parte 1: Recipientes.
+*   NOM-103-STPS-1994.- Seguridad – Extintores contra incendio a base de agua con presión contenida.
+*   NOM-032-SSA3-2010.- Asistencia social. Prestación de servicios de asistencia social para niños, niñas y adolescentes en situación de riesgo y vulnerabilidad.
+
+### Normas Mexicanas (NMX).
+
+*   NMX-C-126-ONNCCE-2010. "Industria de la Construcción-Materiales Termoaislantes en forma de bloque o placa-Densidad-Determinación". Densidad Húmeda y Densidad Seca.
+*   NMX-C-155-ONNCCE-2014. Correlación de la resistencia a la compresión en cubos y cilindros.
+*   NMX-C-228-ONNCCE-2013 "Industria de la Construcción – Materiales Termoaislantes – Determinación de la Adsorción de Humedad y Absorción de Agua". Adsorción de humedad.
+*   NMX-C-181-ONNCE-2010 "Industria de la Construcción-Materiales Termoaislantes-Transmisión térmica en estado estacionario-Método de Prueba". Resistencia Térmica.
+*   NMX-C-307-1-ONNCCE-2016 "Industria de la Construcción-Edificaciones-Resistencia al Fuego de Elementos y Componentes- Especificaciones y Métodos de Ensayo-Parte 1: Elementos Estructurales"
+*   NMX-C-404-2012.- Industria de la Construcción –Bloques, Tabiques ó ladrillos y tabicones para uso estructural –especificaciones y métodos de pruebas.
+*   NMX-C-423-ONNCCE-2019.- Industria de la Construcción –pinturas- pinturas látex (antes pinturas vinílicas) –especificaciones y métodos de prueba.
+*   NMX-AA-164-SCFI-2013.-Edificación Sustentable-Criterios y Requerimientos Ambientales Mínimos.
+*   NMX-I-248-NYCE-2008.- Telecomunicaciones –cableado- cableado estructurado genérico –cableado de telecomunicaciones para edificios comerciales, edificaciones y métodos de prueba.
+*   NMX-ES-001-NORMEX-2005.- Rendimiento térmico y funcionalidad de colectores solares para calentamiento de agua.
+
+### Normas y Lineamientos Internacionales.
+
+Se tomarán en cuenta, solo como complemento a la Reglamentación Nacional vigente o en los casos especiales en los que no existe Reglamentación Nacional.
+
+*   American Concrete Institute (ACI).
+*   American Institute of Steel Construction (AISC).
+*   American Society for Testing and Materials (ASTM).
+*   American Welding Society (AWS) Code.
+*   ANSI. - American National Standard Institute (instituto nacional norteamericano de estándares).
+*   ANSI C2-1981.- Código nacional de seguridad eléctrica.
+*   ANSI/UL 263.- Fire Resistance Ratings.
+*   ANSI/UL 797.- Tubería Metálica Eléctrica.
+*   ASHRAE.- American Society of Heating, Refrigeration and Air-conditioning Engineers (90.1-2010, 62.1-2010, 170-2008, 55-2010, Guideline 2010).
+*   EIA/TIA–Electronic Industries Association / Telecommunications Industry Association.-(Asociación de Industrias Electrónicas /Asociación de Industrias de Telecomunicaciones).
+*   ANSI/TIA/EIA-568-B.- Cableado de telecomunicaciones en edificios comerciales.
+*   ANSI/TIA/EIA-568-B1.- Requerimientos generales.
+*   ANSI/TIA/EIA-568-B2.- Componentes de cableado mediante par trenzado balanceado.
+*   ANSI/TIA/EIA-568-B3.- Componentes de cableado, fibra óptica.
+*   ANSI/TIA-569-D.- Norma de cableado estructurado.
+*   ANSI/TIA/EIA-606.- Norma de Administración para la infraestructura de Telecomunicación de Edificios.
+*   FCC.- Federal Communications Commission (Comisión Federal de Comunicaciones).
+*   IEEE.- Institute of Electrical and Electronic Engineers (Instituto de Ingenieros Eléctricos y Electrónicos).
+*   ISO.- International Organization for Standardization (Organización Internacional para la Estandarización).
+*   ISO/ IEC DIS 11801.
+*   NEC.- Código Eléctrico Nacional.
+*   NEMA.- National Electrical Manufactures Association.
+*   NEMA VE1-2009.- Metal cable tray systems (Estandarización de portacables).
+*   NFPA70.- National Electric Code.
+*   NFPA90A-2018.- Instalación de Sistemas de Ventilación y Aire Acondicionado.
+*   NFPA90B-2018.- Instalación de Calefacción de Aire Caliente y Aire Acondicionado.
+*   NFPA 72 (Alarma de incendios) Requiere detectores automáticos, alarmas audibles y visuales en zonas infantiles.
+*   NFPA 101 (Life Safety Code Especifica requisitos de construcción segura, salidas de emergencia y protección contra incendios.
+*   ISO 7240 (Sistemas de detección de incendio) Regula la calidad y funcionamiento de los equipos de alarma y detección.
+*   Reglas y Regulaciones de la COFETEL.- Parte 68.
+*   UIT.- Unión Internacional de Telecomunicaciones.
+*   UL.- Underwriters Laboratories (laboratorios de Certificación).
+*   UL 497.- Equipos de Conexión a Tierra y Unión de Tierras.
+
+### Estándares y Reglamentos.
+
+*   Ley Ambiental de Protección a la Tierra en la Ciudad de México y su Reglamento ó su equivalente de acuerdo con la legislación de la localidad.
+*   Manual de Diseño de Obras Civiles de la C.F.E.
+*   Normas Oficiales Mexicanas vigentes y aplicables emitidas por la Secretaría de Infraestructura, Comunicaciones y Transportes (SICT).
+*   NRF-022-PEMEX-2008.- Norma de Referencia para Redes de Cableado Estructurado.
+*   Normas Técnicas Complementarias para el Proyecto Arquitectónico del Reglamento de Construcciones para el Distrito Federal (Gaceta Oficial del Distrito Federal, México, D.F., 29 de enero de 2004. Reimpresión 2009 o la que se encuentre vigente).
+*   Reglamento de Construcciones de la localidad y sus Normas Técnicas Complementarias respectivas o supletoriamente el del D.F.
+*   Reglamento de la Ley de Protección Civil de la localidad y sus Normas Técnicas complementarias respectivas o supletoriamente de la CDMX
+*   Ley de Edificaciones del Estado y su reglamento.
+*   Reglamento de Obras Públicas y Servicios Relacionados con las Mismas.
+
+### Leyes.
+
+*   Ley de Aguas de la localidad y sus Normas Técnicas Complementarias respectivas o supletoriamente.
+*   Ley Ambiental de la localidad y sus Normas Técnicas Complementarias respectivas o supletoriamente.
+*   Ley de Aguas del Distrito Federal (Gaceta del 27 de mayo 2003 o la que se encuentre vigente).
+*   Ley de Obras Públicas y Servicios Relacionados con las Mismas.
+*   Ley General de Salud.
+*   Ley General de Protección Civil de México.
+*   Ley de Centros de Cuidado Infantil.
+
+### Normas del IMSS.
+
+*   Normas de Proyecto de Arquitectura.
+*   Instructivo Básico para la Elaboración del Proyecto de Arquitectura.
+*   Criterios de Proyecto de Arquitectura
+*   Normas de Diseño de Ingeniería Civil.
+*   Topografía
+*   Estructuras
+*   Mecánica de Suelos.
+*   Obras Exteriores.
+*   Normas de Proyecto de Ingeniería.
+*   Estudios de Infraestructura de Servicios
+*   Normas de Diseño de Ingeniería Electromecánica.
+*   ND-01-IMSS-AA-97.- Ingeniería de Aire Acondicionado.
+*   ND-01-IMSS-HSE-1997.- Instalaciones Hidráulica, Sanitaria y Especiales.
+*   ND-01-IMSS-IE-97.- Ingeniería Eléctrica.
+*   ND-01-IMSS-IT-99.- Instalaciones en Telecomunicaciones.
+*   Normas de Diseño de Ingeniería Civil.
+*   Mecánica de Suelos.
+*   Obras Exteriores.
+
+**Nota Importante:** Considerar solamente las que apliquen para el desarrollo del Servicio. Asimismo, se deberá incluir todas aquellas que no se encuentren enunciadas en estos T.R. y que repercutan en el desarrollo y alcances de este.
+
+## 12.0. DOCUMENTOS QUE ENTREGA EL INSTITUTO (ARCHIVOS ELECTRÓNICOS).
+
+La DARP entregará al licitante ganador los siguientes documentos en archivos electrónicos.
+
+**Anexo I.1** Proyecto Prototipo y Programa Arquitectónico
+**Anexo I.2** Manual de Diseño CECI
+**Anexo I.3** Tabla de referencias de acabados y juegos infantiles
+**Anexo I.4** Sembrado Preliminar
+**Anexo I.5** Croquis de Ubicación
+
+¡Asimismo, se hace entrega de la Normatividad Institucional, para su cumplimiento, durante el desarrollo del Proyecto Ejecutivo.
+
+### Normas de Proyecto de Arquitectura.
+*   Instructivo Básico para la Elaboración del Proyecto de Arquitectura.
+*   Tomo VI. Unidades de Prestaciones Sociales y Administrativas.
+
+### Criterios de Proyecto de Arquitectura.
+*   CPA para Depósitos Transitorios para Residuos Peligrosos Biológicos Infecciosos.
+*   CPA para Imagen Institucional.
+*   CPA para la- Accesibilidad de Personas con Discapacidad.
+*   CPA para la Señalización de CECI.
+*   Criterios de Diseño de Accesibilidad Universal
+
+### Normas de Diseño de Ingeniería Electromecánica.
+*   ND-01-IMSS-AA-97.- Ingeniería en Acondicionamiento de Aire.
+*   ND-01-IMSS-IE-97.- Ingeniería Eléctrica.
+*   ND-01-IMSS-HSE-1997.- Instalaciones Hidráulica, Sanitaria y Especiales.
+*   ND-01-IMSS-IT-99.- Instalaciones de Telecomunicaciones.
+
+### Guías Técnicas de Construcción.
+*   Tomo 1.- Unidades Médicas, Unidades Administrativas, Unidades Sociales Obra Civil.
+*   Tomo 2.- Unidades Médicas, Unidades Administrativas, Unidades Sociales. Instalaciones Eléctricas Telefonía y Sonido.
+*   Tomo 3.- Unidades Médicas, Unidades Administrativas, Unidades Sociales Instalaciones Hidráulicas, Sanitarias y Especiales.
+*   Tomo 4.- Unidades Médicas, Unidades Administrativas, Unidades Sociales Instalaciones de Aire Acondicionado.
+
+### Normas de Diseño de Ingeniería Civil.
+*   Estructuras.
+*   Obras Exteriores.
+*   Tratamiento de Aguas.
+
+### Normas de Proyecto de Ingeniería.
+*   Infraestructura de Servicios.
+
+### Catálogos de Especificaciones Técnicas y Guías Técnicas.
+
+a. 1CHB-008-001.- Catálogo de Especificaciones Técnicas Generales de Equipo Electromecánico. Actualización Permanente.
+b. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 511 Mobiliario Administrativo.
+c. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 513 Mobiliario Médico.
+d. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 515 Mobiliario de Laboratorio.
+e. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 517 Mobiliario para Nutrición y Dietética (Cocina y Comedor).
+f. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 519 Mobiliario de Salas de Espera, Almacenes, Lavanderías y Auditorios.
+g. 1CHB-008-003.- Catálogo de Especificaciones Técnicas Generales de: Materiales para la Construcción. Actualización Permanente.
+
+## 13.0. CONFIDENCIALIDAD
+
+Los trabajos que se deriven de los presentes T.R. serán propiedad del IMSS, por lo tanto, el contratista se obliga a no publicarlos bajo ningún medio, incluyendo la reprografía, el tratamiento informático y conferencias, entre otros, sin la autorización expresa y por escrito del IMSS.
+
+---
+
+**Validó**
+
+Arq. Elías Arredondo Ortega
+Titular de la Coordinación Técnica de Proyectos de Infraestructura
+
+**Revisó**
+
+Ing. Arq. Jessica Cindy Juárez Espidio
+Titular de la División de Análisis y Revisión de Proyectos
+
+**Elaboración e Integración**
+
+Ing. Ricardo García Zamudio
+Titular de la Subjefatura de División de Revisión de Proyectos Arquitectónicos e Ingenierías.
+
+---
+
+# ALCANCE II. CONSTRUCCIÓN DEL CENTRO DE EDUCACIÓN Y CUIDADO INFANTIL
+
+---
+
+## ÍNDICE
+
+| NUMERAL | CAPÍTULO | PÁG. |
+|---|---|---|
+| | PRESENTACIÓN. | 85 |
+| 1.0 | UBICACIÓN Y DATOS GENERALES DEL PREDIO. | 85 |
+| 2.0 | METODOLOGÍA QUE EMPLEARÁ EN LA PRESTACIÓN DE LOS TRABAJOS. | 85 |
+| 3.0 | PLAZO DE EJECUCIÓN. | 85 |
+| 4.0 | OBLIGACIONES DE LOS LICITANTES Y DEL CONTRATISTA. | 86 |
+| 5.0 | ESPECIFICACIONES GENERALES Y PARTICULARES. | 87 |
+| 6.0 | SUBCONTRATACIÓN. | 99 |
+| 7.0 | FORMA DE PAGO DEL ALCANCE II. | 100 |
+| 8.0 | PRODUCTO ESPERADO. | 101 |
+| 9.0 | DISPOSICIONES NORMATIVAS. | 102 |
+| 10.0 | DOCUMENTALES QUE ENTREGA EL INSTITUTO (ARCHIVOS ELECTRÓNICOS). | 107 |
+| 11.0 | CONFIDENCIALIDAD. | 107 |
+
+## PRESENTACIÓN
+
+El presente apartado establece los requisitos y condiciones que deberán cumplir los **LICITANTES** en la elaboración y entrega de sus proposiciones técnico-económicas, relativas a la construcción del CECI.
+
+## 1. UBICACIÓN Y DATOS GENERALES DEL PREDIO
+
+| | | |
+|---|---|---|
+| I. | Tipo de Unidad: | Centro de Educación y Cuidado Infantil de 200 niñas y niños |
+| II. | Tipo de Obra: | Nueva |
+| III | Ubicación: | Carretera Cuautla-Yecapixtla, Agua Hedionda Km.2.5, Colonia Industrial textil, Municipio Yecapixtla, Morelos. Código Postal 62820 (Reserva de la UMF 24). |
+| IV | Superficie de Terreno: | Corresponderá a la superficie resultante del levantamiento que el contratista realizará, considerando de manera preliminar un área de estudio aproximada de: 3,000.00 m² |
+| V | Superficie Útil de Construcción Estimada del CECI: | 1,700.00 m² (El inmueble principal consta de 1,387.32 m2 y se consideran 312.68 m2 para cubiertas en el área exterior en punto de reunión, por lo que son costos diferentes por m2) |
+
+## 2. METODOLOGÍA QUE EMPLEARÁ PARA LA REALIZACIÓN DE LOS TRABAJOS
+
+La ejecución de los trabajos comprende la construcción del Centro de Educación y Cuidado Infantil (CECI), bajo un esquema de secuencia por tramo o etapas, de manera que cada etapa validada conforme al alcance I permita la ejecución de la obra.
+
+La ejecución de los trabajos deberá realizarse con estricto apego al Proyecto ejecutivo y a la información técnica proporcionada por el Instituto.
+
+En todo momento y conforme a la metodología establecida para el desarrollo del Proyecto Ejecutivo consistente en seguir un sistema modular o etapas, donde cada módulo será liberado para la construcción únicamente tras la pre validación y aprobación correspondiente, esto constituirá una condición obligatoria para la liberación de cada tramo constructivo. No obstante, el contratista deberá planificar y organizar sus recursos de manera que ciertas actividades de obra puedan avanzar en paralelo a los procesos de diseño y revisión, garantizando eficiencia en la ejecución y cumplimiento de los plazos establecidos.
+
+Finalmente, con el fin de optimizar tiempos, se permite programar obras exteriores en paralelo con las últimas etapas del edificio principal, siempre que no interfieran con el avance del montaje modular ni con pruebas de sistemas.
+
+## 3. PLAZO DE EJECUCIÓN
+
+El plazo de ejecución del Frente de obra 1 es de Ciento sesenta (170) días naturales, contados a partir de la fecha de inicio que determine el Instituto.
+
+Alcance I.
+El plazo para la elaboración, revisión, corrección, aprobación y entrega de Proyecto Ejecutivo será de 65 días naturales contados a partir de la fecha de inicio del CONTRATO.
+
+Alcances II y III.
+El plazo para la ejecución de obra civil y equipamiento será de 155 días naturales contados a partir del día 16 del plazo establecido del CONTRATO.
+
+Para mayor claridad, se precisa que los 170 días naturales incluyen los 65 días destinados al Proyecto Ejecutivo y los 145 días de obra civil y equipamiento, los cuales se traslapan entre sí.
+
+## 4. OBLIGACIONES DE LOS LICITANTES Y DEL CONTRATISTA
+
+Son obligaciones, tanto de los Licitantes (durante la preparación y presentación de sus proposiciones técnico-económicas ante el Área Responsable de la Contratación), como del Contratista (durante el desarrollo del Proyecto Integral), las que se detallan a continuación de manera enunciativa, sin que ello limite otras responsabilidades inherentes al contrato.
+
+### 4.1. Obligaciones de los Licitantes
+
+*   Conocer y aplicar lo indicado en la Convocatoria y sus Anexos, los cuales son de observancia obligatoria para la preparación de sus proposiciones técnico-económicas.
+*   **Presentar su proposición en tiempo y forma, conforme a los plazos, requisitos y medios señalados en la Convocatoria.**
+*   Incluir en su proposición todas las consideraciones y previsiones necesarias para garantizar la ejecución completa del alcance solicitado por el IMSS, considerando el esquema modular por tramos y la secuencia de liberación de obra.
+*   Apegarse en todo momento a la normatividad, reglamentación y especificaciones vigentes de carácter Institucional, Federal, Estatal o Municipal, garantizando la máxima calidad, seguridad y durabilidad.
+*   Comprobar, mediante Curriculum Vitae detallado, la experiencia de los profesionales propuestos para el desarrollo de los servicios, acreditando capacidad en proyectos de características, complejidad y magnitud similares.
+*   No incluir en la plantilla de personal técnico al personal administrativo de apoyo, el cual deberá considerarse dentro de los costos indirectos.
+*   Incluir en su propuesta los viáticos que, en su caso, deriven de las visitas y trabajos de campo, considerando el grado de dificultad que pueda representar el tipo, ubicación y condiciones actuales del terreno y su entorno.
+*   **Acreditar su capacidad legal y financiera, mediante la documentación que al efecto establezca la Convocatoria.**
+*   **Manifestar, bajo protesta de decir verdad, que no se encuentran inhabilitados o impedidos legalmente para participar en procedimientos de contratación con el IMSS o con la Administración Pública Federal.**
+
+### 4.2. Obligaciones del Contratista
+
+*   Garantizar al IMSS la sustitución del personal especializado cuando se detecte falta de probidad, profesionalismo o capacidad de resolución, proponiendo reemplazos mediante Currículum Vitae para su aprobación.
+*   Realizar las visitas necesarias al sitio para considerar aspectos físico-geográficos, condiciones del terreno, restricciones, entorno inmobiliario y servicios existentes que impacten en el desarrollo integral del Proyecto Ejecutivo.
+*   Ratificar por escrito al IMSS la designación del Superintendente del Proyecto Integral encargado de coordinar los trabajos
+*   Asistir a las juntas definidas por el IMSS, para acordar criterios, informar avances, revisar programas, atender observaciones y documentar acuerdos mediante minutas.
+*   Presentar todos los planos y documentos firmados por el profesionista responsable del desarrollo del estudio, el Superintendente y el Representante Legal, incluyendo nombre, firma, profesión y número de cédula profesional cuando corresponda.
+*   Programar, desarrollar y entregar los trabajos del Proyecto Integral siguiendo un orden lógico y secuencial por tramos o etapas, considerando que la liberación de cada tramo constructivo depende de la pre validación y aprobación del PE correspondiente.
+*   Cubrir la totalidad de los requerimientos arquitectónicos especificados en materia de diseño y construcción, demás se deberán seguir los criterios establecidos en el Manual de Diseño en materia de Imagen Institucional y Construcción Eficiente.
+*   Por tratarse de la elaboración de una ingeniería de detalle, el Contratista debe especificar en el PE las marcas, modelos y/o especificaciones técnicas, fichas técnicas y características de operación de los equipos mecánicos, electrónicos y/o electromecánicos, mismos que deberán cumplir con los certificados de calidad, avalados por un Organismo de Acreditación Nacional o Internacional, así como lo correspondiente a los materiales, mobiliario, accesorios y sistemas constructivos a emplear, en apego a los presentes Términos de Referencia, los cuales deberá someter para su autorización al IMSS. Asimismo, debe indicar que las marcas especificadas podrán ser similares, entendiendo por éstas, aquellos que cumplan como mínimo con las mismas especificaciones técnicas de calidad, duración y garantía de servicio que las de la marca señalada como referencia.
+*   Los materiales de construcción, sistemas y equipos eléctricos, electrónicos, hidráulicos, sanitarios, electromecánicos y accesorios a especificar en el PE deben acreditar su calidad, por medio de un certificado de calidad vigente, emitido por un Organismo de Acreditación Nacional o Internacional, según corresponda. Asimismo, los motores de los equipos electromecánicos a especificar deben ser de alta eficiencia.
+*   La fabricación de elementos modulares sólo podrá iniciarse tras la aprobación del PE del tramo correspondiente, pudiéndose realizar en paralelo con obras civiles preliminares, garantizando programación, transporte, almacenamiento y montaje seguro.
+*   Asegurar que el personal autorizado para acceso a la BESOP cuente con e.firma (antes FIEL) y cumpla los requisitos de la Secretaría Anticorrupción y Buen Gobierno, con registro, apertura y cierre conforme a los artículos 122, 123, 125 y 126 del RLOPSRM.
+*   Es responsabilidad del Contratista designado para el desarrollo del Proyecto Integral asegurarse de que cada uno de los especialistas involucrados en la elaboración del Proyecto Ejecutivo sea el encargado de desarrollar sus respectivas especialidades, garantizando que se consideren todos los aspectos necesarios del proyecto ejecutivo de manera integral.
+*   Escanear y entregar toda la documentación y planos generados durante revisiones y validaciones en formato electrónico, de manera ordenada y accesible para el Coordinador del PE.
+*   **El Contratista es responsable ante el IMSS del cumplimiento integral de los Términos de Referencia, incluyendo calidad, seguridad, plazos y corrección de desviaciones. Las garantías y penas convencionales se aplicarán en caso de incumplimiento o errores imputables al Contratista.**
+
+## 5. ESPECIFICACIONES GENERALES Y PARTICULARES
+
+El alcance de los presentes Términos de Referencia considera, de manera enunciativa pero no limitativa, todas las actividades necesarias para cumplir con los requerimientos del IMSS. Estas deben ser consideradas por los **LICITANTES** en la elaboración de sus proposiciones técnico-económicas y serán desarrolladas y ejecutadas por el Contratista a **total satisfacción del IMSS**, cumpliendo con la reglamentación de orden Federal, Estatal o Local que sea aplicable, en apego a la normatividad vigente aplicable, garantizando el producto esperado.
+
+### 5.1. ESPECIFICACIONES GENERALES
+
+Los conceptos que el **Contratista** debe observar y aplicar en la ejecución de los trabajos son los siguientes:
+
+#### 5.1.1. Institucionalmente
+*   Uso del **Manual de Diseño de CECI** para la aplicación de la imagen institucional en el desarrollo del diseño de fachadas exteriores, interiores, patios centrales, criterios de diseño estructural, criterios de diseño de cubiertas, uso de gama cromática y demás componentes que estén presentes en dichos criterios.
+
+#### 5.1.2. En Términos de los Servicios del IMSS
+*   Aumentar la **calidad y seguridad** del servicio para los usuarios del CECI.
+*   Aplicación de la **Imagen Institucional** de acuerdo con la normatividad vigente.
+*   Utilización de mobiliario y equipo del Cuadro Básico del IMSS.
+
+#### 5.1.3. En Términos de Diseño
+*   Establecer **especificaciones técnicas claras, precisas, homogéneas y congruentes** entre todas las especialidades que integran el proyecto.
+*   Garantizar la **constructibilidad, operación y mantenimiento** del edificio bajo el esquema modular por tramos.
+*   Establecer mecanismos de coordinación entre las especialidades (arquitectura, estructura, instalaciones, etc.) para evitar interferencias en obra y asegurar coherencia entre planos.
+
+#### 5.1.4. En Términos de Operación
+*   Facilitar el **mantenimiento preventivo** y reducir el **mantenimiento correctivo**.
+*   Asegurar la **disposición adecuada de los residuos** generados conforme a la normativa vigente.
+*   Cumplimiento riguroso de la **seguridad en construcción y protección civil**.
+
+#### 5.1.5. En Términos de Eficiencia Energética
+*   Garantizar el **uso eficiente y ahorro de agua y energía eléctrica**.
+*   Asegurar la eficiencia energética de la envolvente y el confort para niños y niñas en cumplimiento con la NOM-008-ENER-2001
+
+#### 5.1.6. En Términos de Edificación Sustentable
+*   Uso de **vegetación nativa o adaptativa** en áreas verdes.
+*   Generación de **áreas sombreadas al exterior** mediante vegetación.
+*   Recolección, filtración y aprovechamiento de **aguas pluviales**.
+*   Selección de **materiales de bajo impacto ambiental**, de larga duración y bajo costo de mantenimiento.
+
+#### 5.1.7. Normatividad y Reglamentación
+*   Todos los trabajos deberán ejecutarse conforme a la normatividad y reglamentación vigente de carácter Federal, Estatal, Municipal e Institucional, aplicando criterios que garanticen calidad, seguridad, durabilidad y funcionalidad.
+*   Incluir lineamientos de accesibilidad para personas con discapacidad, conforme a la Ley General para la Inclusión de las Personas con Discapacidad, Normas Técnicas Complementarias, Manuales y Criterios del Instituto y NOM aplicable
+
+#### 5.1.8. Calidad de Materiales y Equipos
+*   Los materiales de construcción, sistemas y equipos eléctricos, hidráulicos, sanitarios, electromecánicos y accesorios deberán contar con **certificado de calidad vigente**, emitido por Organismos de Acreditación Nacional o Internacional, según corresponda.
+*   Implementar elementos o materiales que reduzcan costos de operación y mantenimiento futuro del CECI.
+
+#### 5.1.9. Compatibilidad Modular
+*   Todas las soluciones arquitectónicas y estructurales deberán desarrollarse bajo un **esquema modular**, asegurando que los elementos prefabricados sean compatibles entre tramos y permitan un montaje eficiente.
+
+#### 5.1.10. Control de Calidad y Supervisión
+*   Se deberán realizar inspecciones periódicas, pruebas y registros que aseguren la correcta ejecución de la obra, incluyendo verificación de instalaciones, acabados y funcionalidad de sistemas.
+
+#### 5.1.11. Seguridad en la Construcción
+*   Todas las actividades deberán cumplir con los estándares de seguridad y prevención de riesgos laborales, considerando la manipulación de prefabricados, equipos pesados y montaje modular.
+
+### 5.2. ESPECIFICACIONES PARTICULARES
+
+El Contratista debe iniciar los trabajos preliminares como son, entre otros: deshierbe, desenraice, limpieza y delimitación del predio, instalación de sus oficinas y servicios de campo y una vez que cuente con los planos de trazo-plataformas y cimentación dará inicio con la construcción del CECI.
+
+El contratista debe considerar dentro de sus indirectos, el suministro y colocación de una caseta móvil con sanitario para residencia de obra del IMSS, proveyendo de mobiliario, energía eléctrica e internet durante todo el proceso de la obra.
+
+Se deben implementar planes para el control de la Erosión y Sedimentación para evitar el daño al exterior del predio a desarrollar y evitar la contaminación de las vías públicas, así como proteger los drenajes y evitar su saturación. Al igual que implementar planes para cuidar la calidad de los espacios durante la construcción y previo a la ocupación.
+
+El Contratista debe contar con una plantilla de personal técnico-administrativo que garantice la elaboración oportuna y completa de los documentos que soporten las estimaciones de avance de obra, bitácora, minutas de juntas y otros documentos que se requieran para el apoyo en la integración del expediente administrativo de obra.
+
+El acceso de materiales y equipos a la zona de construcción debe ser tomado en cuenta con base a los reglamentos municipales o por la autoridad competente.
+Debe efectuar la verificación de calidad de materiales para terracerías que utilice, mediante la presentación de los resultados de calidad provenientes de pruebas índice, granulometrías y demás parámetros incluidos en las normas y especificaciones.
+
+El seguimiento a la implementación de los Planes para el Control de la Contaminación debe ser semanal, a través de la documentación con fotografías y la entrega de reportes.
+
+### 5.2.1. Pruebas de control de calidad.
+
+El Contratista debe realizar las pruebas de control de calidad en los conceptos de suelos, acero de refuerzo y concretos, capacidad de carga, compactación en terracerías, pavimentos, entre otras, de acuerdo con las especificaciones y normas que el diseño establezca y a los requerimientos del IMSS. Los informes o reportes del control de calidad deben ser emitidos y avalados por un laboratorio certificado por la EMA.
+
+### 5.2.2. Topografía.
+
+Debe contar con las cuadrillas y equipos necesarios para llevar a cabo la verificación topográfica del predio, así como el control geométrico de los procesos constructivos que se requieran durante el desarrollo de la obra.
+
+### 5.2.3. Recursos necesarios para cumplimiento del programa.
+
+Para el cumplimiento del plazo de ejecución debe considerar los recursos necesarios en las diferentes jornadas ordinarias y extraordinarias, de acuerdo con la programación, oportunidad y naturaleza de las actividades. El IMSS no aceptará ninguna reclamación de costos adicionales por laborar tiempos extraordinarios y tiempos muertos.
+
+### 5.2.4. Seguridad e higiene.
+
+Debe contar con un técnico en seguridad industrial con especialidad en construcción, quien participará de manera conjunta con la Residencia de Obra del IMSS, apegándose a los lineamientos incluidos en el manual de seguridad e higiene presentado por el Contratista y autorizado por el IMSS, aplicando los recursos necesarios que se requieran para la ejecución de la obra de acuerdo a los reglamentos y ordenamientos de las autoridades competentes en materia de construcción, seguridad, higiene y uso de la vía pública. Las responsabilidades y los daños y perjuicios que resulten por su inobservancia serán a su cargo.
+
+El Contratista deberá en todo momento acatar las indicaciones del IMSS relativas a garantizar la seguridad de peatones y vehículos, atendiendo de manera inmediata cualquier situación de riesgo o conflicto que llegase a ocurrir derivado de los trabajos de construcción.
+
+### 5.2.5. Impacto Ambiental.
+
+El Contratista debe conocer y aplicar las medidas de mitigación a los problemas que pudieren generarse previo, al inicio y durante la construcción, las cuales se describen en el documento "Manifestación de Impacto Ambiental".
+
+El manejo y mitigación ambiental durante la ejecución de la construcción, relacionado con las actividades que conlleva esta etapa; comprende entre otros: las características básicas, sistemas constructivos, programas y procedimientos necesarios para que se ejecute la obra sin riesgo para su personal y la comunidad, depósito de desechos y facilidades, sitios de descarga, manejo y disposición de combustibles y contaminantes, bancos de material, áreas de trabajo del personal, operación y mantenimiento del sistema, seguridad laboral.
+Los conceptos que se describen en el siguiente apartado deben realizarse de acuerdo con lo que fije el PE y/o lo que indique el IMSS, siguiendo los lineamientos que en términos generales apliquen.
+
+### 5.2.6. Lineamientos Generales.
+
+Los licitantes deben considerar los siguientes lineamientos generales al formular su proposición técnico-económica.
+
+### 5.2.7. Preliminares.
+
+Debe asegurarse una coordinación con las dependencias y/o compañías de servicios para ejecutar los trabajos que correspondan a la reubicación de líneas de servicios, desmontaje y reubicación de estructuras, demoliciones y adecuaciones necesarias con base al PE Autorizado por el IMSS.
+
+El letrero informativo de la obra, así como el señalamiento vertical informativo y de protección, se colocará de acuerdo con lo que indique el IMSS y, en su caso, las autoridades competentes, considerando lo establecido en la especificación particular respectiva.
+
+Se deberá colocar un cercado de protección provisional, mediante malla ciclónica en el límite del predio con las vialidades o propiedades colindantes al área en que se realicen los trabajos de construcción del inmueble. La colocación se realizará de acuerdo con lo que ordene el IMSS y/o la especificación particular correspondiente. Además, se deberá proteger el terreno que no fuera a ser intervenido con dicha malla ciclónica para prevención de erosión y sedimentación que estarán especificados en el Plan de Erosión y Sedimentación, a efecto de evitar el daño al exterior del predio a desarrollar y evitar la contaminación de las vías públicas, así como proteger los drenajes y evitar su saturación. Al igual que implementar planes para cuidar la calidad de los espacios durante la construcción y previo a la ocupación.
+
+El Contratista debe de mantener permanentemente en buenas condiciones las circulaciones interiores y accesos al predio.
+
+### 5.2.8. Demoliciones.
+
+En el caso que se requieran demoliciones de estructuras o elementos de concreto ubicados dentro del predio, el Contratista debe efectuarlas evitando afectar la integridad estructural de otros inmuebles, sin interferir en otros frentes de trabajo.
+
+Los trabajos de demolición una vez aprobados, deben realizarse bajo medidas de seguridad que garanticen la integridad de terceros, en sus personas y propiedades, así como a las instalaciones propias de la construcción y del personal, debiendo de manera inmediata retirar todo el material producto de las demoliciones a los tiraderos autorizados.
+
+### 5.2.9. Trazo y nivelación.
+
+Es responsabilidad del Contratista definir y marcar los puntos, distancias, ángulos, cotas y niveles para la localización y configuración general del terreno donde estará ubicado el inmueble, partiendo del PE y de los datos proporcionados por el IMSS.
+
+Asimismo, es responsabilidad de la cuadrilla de topografía verificar las dimensiones, distancias y tolerancias de construcción establecidas en las especificaciones, a fin de cumplir con la normatividad aplicable en la materia.
+
+El Contratista debe considerar que su cuadrilla de topografía permanezca hasta la conclusión de la obra.
+
+### 5.2.10. Terracerías.
+
+#### a. Excavaciones.
+
+El Contratista debe realizar las excavaciones necesarias para alojar cimentaciones, ductos, drenajes o cualquier otro elemento que así lo requiera, de forma manual o empleando equipo mecánico dependiendo de la dureza del material del que se trate o del volumen por remover y el sitio donde se lleve a cabo la excavación, atendiendo en todo momento a lo dispuesto en el PE Autorizado, así como a las especificaciones y procedimientos avalados por la Residencia de Obra del IMSS. No se permitirá el uso de explosivos en excavaciones o demoliciones, salvo excepciones donde sea justificable y se obtenga la autorización por escrito previa del Residente de Obra del IMSS.
+
+Todo el material producto de las excavaciones deberá retirarse de forma inmediata del área de la obra y depositarse en los lugares autorizados.
+
+El Contratista debe incluir en su proposición el empleo de bombas de achique para desalojar el agua producto de lluvia y del propio nivel freático que llegue a acumularse dentro de las excavaciones.
+
+#### b. Rellenos y Terraplenes.
+
+Los rellenos y terraplenes necesarios para obtener los niveles de desplante de cimentaciones u otros elementos arquitectónicos o estructurales marcados en los planos del PE Autorizado, podrán realizarse empleando para ello materiales naturales apropiados, producto de excavaciones previas o bancos de préstamo.
+
+Para el empleo de materiales producto de excavaciones dentro de la misma obra, el Contratista deberá obtener previamente la autorización del IMSS. En este caso, el Contratista deberá tomar las precauciones necesarias para evitar que los materiales estén contaminados. Por otra parte, deberá buscar siempre que sea posible, de acuerdo con la planeación de las obras, combinar los trabajos de extracción y colocación del material en los sitios que el proyecto requiera. Cuando esta operación no sea factible, previa aprobación del IMSS, el material aprovechable se depositará en bancos de almacenamiento para su utilización posterior.
+
+De ser necesario, podrá utilizarse para la conformación de rellenos y terraplenes material natural procedente de bancos de préstamo, los cuales deberán ser previamente autorizados por el IMSS. El Contratista iniciará la explotación de estos bancos ajustándose al programa aprobado por el Residente de Obra del IMSS.
+
+La ejecución de rellenos y terraplenes se hará dentro de las líneas y niveles que fije el proyecto. Todos los materiales indeseables, tales como ramas, raíces, hierbas y piedras de dimensiones mayores serán retirados previamente. El equipo que se utilice deberá ser el adecuado para garantizar la compactación uniforme de cada capa en toda la sección del proyecto; garantizando que el espesor de las capas sueltas sea tal, que se obtenga el grado de compactación fijado en el proyecto de forma uniforme, dando al material la humedad necesaria para ello. Cualquier material colocado de manera deficiente por causas imputables al Contratista, deberá ser retirado y repuesto a sus expensas.
+
+Obra Civil por Tramos: La ejecución se realizará por tramos liberados tras la aprobación del Proyecto Ejecutivo, incluyendo cimentaciones, estructuras, instalaciones y acabados correspondientes.
+
+### 5.2.11. Estructuras.
+
+Para cada uno de los casos se deberán construir los elementos de la estructura que a continuación se indican de manera enunciativa y no limitativa, de acuerdo con lo que establezca el PE Autorizado y/o lo que ordene el IMSS.
+Se deberá procurar que los materiales utilizados cuenten con algún criterio de sustentabilidad como lo son: ser productos de procedencia regional (extraídos, procesados dentro de un radio de 800 km), tener algún porcentaje de contenido reciclado, que sea rápidamente renovable.
+
+#### a. Plantillas para desplante de cimentación.
+
+Una vez que se haya verificado el cumplimiento con las especificaciones de compactación y capacidad de carga del terreno, así como los niveles indicados de desplante de las cimentaciones y previo a la colocación de los materiales que formarán la estructura, deberá darse un tratamiento adecuado a la superficie de desplante. Dependiendo del tipo de terreno encontrado en el área de trabajo, el objetivo es proporcionar un apoyo estable y seguro a las estructuras en general, así como una superficie uniforme y limpia para el desplante de las cimentaciones, evitando así la contaminación de los materiales con que se construyen.
+
+Para su ejecución, la superficie del terreno sobre la que se va a colocar la plantilla deberá limpiarse de cuerpos extraños que pudieran afectar los trabajos. El terreno deberá compactarse, siempre y cuando no se altere la estructura de éste y se humedecerá la superficie de desplante para evitar pérdidas de agua durante el fraguado del concreto.
+
+Para cimentaciones coladas en sitio, los espesores de plantillas y resistencias del concreto deberá efectuarse de acuerdo con lo que fije la especificación particular del proyecto.
+
+#### b. Estructuras.
+
+Para las estructuras de los diferentes cuerpos a diseñar, se deberá considerar y aplicar que el diseño y dimensionamiento podrá ser de concreto prefabricado o de acero estructural en sus dos direcciones principales, columnas conformadas según el requerimiento específico, la definición del sistema estructural deberá conciliarse y autorizarse por parte de la DARP.
+
+#### c. Rampas.
+
+Es responsabilidad de cada licitante realizar todas las consideraciones necesarias en su proposición técnica-económica para el suministro, fabricación, instalación, pruebas, puesta en operación y capacitación de personal asignado por el IMSS para todos los elementos como son las rampas y escaleras para garantizar el óptimo funcionamiento del CECI.
+
+Los trazos, dimensiones, pendientes, sistemas constructivos, materiales y acabados de las rampas y escaleras de acceso al CECI, debe regirse en todo momento a lo establecido en el PE Autorizado por el IMSS y las Guías Técnicas de Construcción y Normas aplicables.
+
+Es responsabilidad del Contratista revisar e integrar desde el PE Autorizado, la información relativa a pendientes y longitudes de desarrollo de rampas, con el objetivo de apegarse a los parámetros establecidos en las normas que rigen las instalaciones para discapacitados (Norma ADA).
+
+#### d. Construcción de muros de tabique, block de concreto y panel de yeso o cemento.
+
+Para los fines de este documento, se considerarán muros todos aquellos elementos arquitectónicos y/o estructurales construidos de forma vertical para delimitar espacios y/o transmitir cargas. En la construcción de muros se deben emplear los materiales especificados en el proyecto.
+
+Para lo referente a refuerzos de concreto armado en los muros (como dalas, castillos y cerramientos), deben atenderse íntegramente a lo indicado en el PE Autorizado por el IMSS.
+
+Las dimensiones, disposición de las piezas, juntas, tratamiento superficial y demás características de acabados en muros están determinadas por los planos y especificaciones del proyecto.
+
+Para dar por terminada la construcción de los muros, se verificará que los alineamientos, posiciones, niveles, dimensiones, formas y acabados de los elementos estructurales cumplan con lo fijado en el proyecto y/o con las modificaciones y ajustes propuestos por el proyectista y avalados por el IMSS, para su registro en la bitácora correspondiente. Las tolerancias para los acabados, espesores, desplazamientos, desplomes y distancias estarán contenidas en las especificaciones correspondientes.
+
+Si el PE lo indica, se deberá construir doble muro en las fachadas envolventes para evitar la transferencia de calor en los espacios interiores, lo anterior con el objetivo de optimizar y reducir el uso de los equipos de aire acondicionado.
+
+### 5.2.12. Consideraciones adicionales.
+
+El Contratista debe contar con un laboratorio acreditado, o en su caso subcontratarlo conforme a lo contemplado en las especificaciones particulares y estos T.R, para el aseguramiento y control de calidad de materiales (aceros, concreto, compactaciones, calidad de suelos) y en general de todos y cada uno de los procesos que se detallaron anteriormente, de acuerdo con lo que indique el proyecto y/o lo que ordene el IMSS.
+
+### 5.2.13. Carpintería, herrería y cancelería.
+
+La colocación de elementos de carpintería, herrería y cancelería se ajustarán en todos los casos, a las especificaciones de dimensiones, acabados y sistemas de sujeción indicados en el PE Autorizado por el IMSS.
