@@ -1,7 +1,3 @@
-Aquí tienes la guía reestructurada y ampliada. He profundizado significativamente en cada especialidad y sus respectivos entregables, manteniendo un tono rigurosamente formal y profesional, y eliminando los anglicismos y apartados solicitados para optimizar tu asimilación del proyecto.
-
----
-
 # GUÍA INTEGRAL DETALLADA: TÉRMINOS DE REFERENCIA PARA EL PROYECTO CECI YECAPIXTLA
 
 ## 1. Visión General y Metodología Contractual
