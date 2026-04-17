@@ -2651,11 +2651,17 @@ La DARP entregará al licitante ganador los siguientes documentos en archivos el
 ### Catálogos de Especificaciones Técnicas y Guías Técnicas.
 
 a. 1CHB-008-001.- Catálogo de Especificaciones Técnicas Generales de Equipo Electromecánico. Actualización Permanente.
+
 b. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 511 Mobiliario Administrativo.
+
 c. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 513 Mobiliario Médico.
+
 d. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 515 Mobiliario de Laboratorio.
+
 e. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 517 Mobiliario para Nutrición y Dietética (Cocina y Comedor).
+
 f. 1CHB-008-002.- Catálogo de Especificaciones Técnicas de: Mobiliario. Actualización Permanente. Grupo 519 Mobiliario de Salas de Espera, Almacenes, Lavanderías y Auditorios.
+
 g. 1CHB-008-003.- Catálogo de Especificaciones Técnicas Generales de: Materiales para la Construcción. Actualización Permanente.
 
 ## 13.0. CONFIDENCIALIDAD
@@ -3250,9 +3256,6 @@ Durante la ejecución de los trabajos el Residente de Obra conjuntamente con el 
 | 1.25. | Solicitud de autorización de ajuste de costos |
 | 1.26. | Estudio del análisis de ajuste de costos |
 | 1.27. | Solicitud de análisis del costo indirecto |
-
----
-
 | 1.28. | Estudio del análisis del costo indirecto |
 | 1.29. | Solicitud de análisis del costo de financiamiento |
 | 1.30. | Estudio del análisis del costo de financiamiento |
